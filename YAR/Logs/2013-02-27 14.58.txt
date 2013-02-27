@@ -1,0 +1,10 @@
+[2/27/2013 2:58:42 PM] ####[ Detecting Screens ]####
+[2/27/2013 2:58:42 PM] - Primary Screen 0: X:0,Y:0,W:2560,H:1440 Enabled:True
+[2/27/2013 2:58:42 PM] Name: \\.\DISPLAY1
+[2/27/2013 2:58:42 PM] Device: AMD Radeon HD 6970M
+[2/27/2013 2:58:42 PM] WorkingArea: X:0,Y:0,W:2560,H:1410
+[2/27/2013 2:58:42 PM] ######################
+[2/27/2013 2:58:42 PM] Relogger Thread Starting!
+[2/27/2013 2:58:43 PM] Yet Another Relogger Version 0.1.9.2
+[2/27/2013 3:02:10 PM] Adding new bot: stephen.poole@hotmail.com
+[2/27/2013 3:02:24 PM] Closed!

@@ -1,29 +1,25 @@
 Option Explicit
-Dim objFSO,objAccounts,myAccounts,objYAR,myYAR,STDIn,STDOut,str
+Dim objFSO,objAccounts,myAccounts,objRegions,myRegions,objYAR,myYAR,objFile,STDIn,STDOut,str,line
 myAccounts=".\accounts.txt"
 myYAR="..\_YAR\Settings\Bots.xml"
+myRegions=".\regions.txt"
 Set objFSO = CreateObject("Scripting.FileSystemObject")
-
 Set STDIn=WScript.STDIn
 Set STDOut=WScript.STDOut
+
+
+
+
 STDOut.WriteLine "Account Name: "
 str = STDIn.ReadLine
-WScript.Echo str
+Set objRegions = objFSO.OpenTextFile(myRegions,1)
+
+Do
+	line=objRegions.ReadLine
+	WScript.Echo "Creating "+str+" "+line+" folder."
+	objFSO.CopyFolder ".\Diablo III", str+" "+line
+Loop Until objRegions.AtEndOfStream
+
 
 'end
 Set objFSO=Nothing
-
-
-
-Function getTextFile(path)
-	Set objFile = objFSO.OpenTextFile(path,1)
-	getTextFile=objFile
-	Set objFile=Nothing
-End Function
-
-Function ReadByLine(obj)
-	Do
-		line=obj.ReadLine
-		WScript.Echo line
-	Loop Until obj.AtEndOfStream
-End Function
