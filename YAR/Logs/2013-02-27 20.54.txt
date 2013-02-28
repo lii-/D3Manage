@@ -1,0 +1,4 @@
+[27/02/2013 8:54:01 PM] Relogger Thread Starting!
+[27/02/2013 8:54:01 PM] Yet Another Relogger Version 0.1.9.2
+[27/02/2013 8:55:34 PM] Editing bot: questingtemplate
+[27/02/2013 8:55:46 PM] Closed!

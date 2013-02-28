@@ -2,6 +2,4 @@ test@test.com
 new@test.com
 the@the.com
 bot@bot.me
-hdrsz
-grwgrwe
 e

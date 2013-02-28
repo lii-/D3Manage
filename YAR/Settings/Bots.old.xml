@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfBotClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<ArrayOfBotClass xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <BotClass>
-    <Name>questingtemplate</Name>
+    <Name>stephen.poole@hotmail.com</Name>
     <Description>US</Description>
     <IsEnabled>true</IsEnabled>
     <Demonbuddy>
@@ -14,8 +14,8 @@
       <AutoUpdate>false</AutoUpdate>
       <NoUpdate>true</NoUpdate>
       <Priority>2</Priority>
-      <CpuCount>2</CpuCount>
-      <ProcessorAffinity>3</ProcessorAffinity>
+      <CpuCount>4</CpuCount>
+      <ProcessorAffinity>15</ProcessorAffinity>
       <ManualPosSize>false</ManualPosSize>
       <X>0</X>
       <Y>0</Y>
@@ -24,7 +24,7 @@
       <ForceEnableAllPlugins>true</ForceEnableAllPlugins>
     </Demonbuddy>
     <Diablo>
-      <Username>questingtemplate</Username>
+      <Username>stephen.poole@hotmail.com</Username>
       <Password>password</Password>
       <Location>e:\applications\diablo III\stephen.poole US\diablo III.exe</Location>
       <Language>English (US)</Language>
@@ -42,8 +42,8 @@
       <UseAuthenticator>false</UseAuthenticator>
       <Serial>---</Serial>
       <RestoreCode />
-      <CpuCount>2</CpuCount>
-      <ProcessorAffinity>3</ProcessorAffinity>
+      <CpuCount>4</CpuCount>
+      <ProcessorAffinity>15</ProcessorAffinity>
     </Diablo>
     <Week>
       <Monday>

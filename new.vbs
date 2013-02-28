@@ -35,6 +35,10 @@ Loop
 objYARSource.Close
 
 Do
+	Set objYARSource = objFSO.OpenTextFile(myYARSource & ".xml",1)
+	Call SkipTo(objYARSource,"stephen.poole@hotmail.com")
+	line1 = objYARSource.ReadLine
+
 	line=objRegions.ReadLine
 	WScript.Echo "Creating '"+account+" "+line+"' folder."
 	objFSO.CopyFolder "Diablo III", account+" "+line
@@ -43,51 +47,72 @@ Do
 	objYARTarget.WriteLine "<BotClass>"
 		objYARTarget.WriteLine "<Name>"&account&"</Name>"
 		objYARTarget.WriteLine "<Description>"&line&"</Description>"
-		objYARTarget.WriteLine "<IsEnabled>true</IsEnabled>"
+		objYARTarget.WriteLine "<IsEnabled>"+SkipToAndGetXMLValue(objYARSource,"IsEnabled")+"</IsEnabled>"
 		objYARTarget.WriteLine "<Demonbuddy>"
 		  objYARTarget.WriteLine "<BuddyAuthUsername />"
 		  objYARTarget.WriteLine "<BuddyAuthPassword />"
 		  objYARTarget.WriteLine "<Location>e:\Applications\Diablo III\"&account&" "&line&"\Demonbuddy.exe</Location>"
-		  objYARTarget.WriteLine "<Key>123</Key>"
-		  objYARTarget.WriteLine "<CombatRoutine>Generic</CombatRoutine>"
-		  objYARTarget.WriteLine "<NoFlash>true</NoFlash>"
-		  objYARTarget.WriteLine "<AutoUpdate>false</AutoUpdate>"
-		  objYARTarget.WriteLine "<NoUpdate>true</NoUpdate>"
-		  objYARTarget.WriteLine "<Priority>2</Priority>"
-		  objYARTarget.WriteLine "<CpuCount>4</CpuCount>"
-		  objYARTarget.WriteLine "<ProcessorAffinity>15</ProcessorAffinity>"
-		  objYARTarget.WriteLine "<ManualPosSize>false</ManualPosSize>"
-		  objYARTarget.WriteLine "<X>0</X>"
-		  objYARTarget.WriteLine "<Y>0</Y>"
-		  objYARTarget.WriteLine "<W>320</W>"
-		  objYARTarget.WriteLine "<H>200</H>"
-		  objYARTarget.WriteLine "<ForceEnableAllPlugins>true</ForceEnableAllPlugins>"
+		  objYARTarget.WriteLine "<Key>"+SkipToAndGetXMLValue(objYARSource,"Key")+"</Key>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<CombatRoutine>"+GetXMLValue(line1)+"</CombatRoutine>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<NoFlash>"+GetXMLValue(line1)+"</NoFlash>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<AutoUpdate>"+GetXMLValue(line1)+"</AutoUpdate>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<NoUpdate>"+GetXMLValue(line1)+"</NoUpdate>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<Priority>"+GetXMLValue(line1)+"</Priority>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<CpuCount>"+GetXMLValue(line1)+"</CpuCount>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<ProcessorAffinity>"+GetXMLValue(line1)+"</ProcessorAffinity>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<ManualPosSize>"+GetXMLValue(line1)+"</ManualPosSize>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<X>"+GetXMLValue(line1)+"</X>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<Y>"+GetXMLValue(line1)+"</Y>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<W>"+GetXMLValue(line1)+"</W>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<H>"+GetXMLValue(line1)+"</H>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<ForceEnableAllPlugins>"+GetXMLValue(line1)+"</ForceEnableAllPlugins>"
+		  line1 = objYARSource.ReadLine
 		objYARTarget.WriteLine "</Demonbuddy>"
 		objYARTarget.WriteLine "<Diablo>"
 		  objYARTarget.WriteLine "<Username>"&account&"</Username>"
 		  objYARTarget.WriteLine "<Password>"&password&"</Password>"
 		  objYARTarget.WriteLine "<Location>E:\Applications\Diablo III\"&account&" "&line&"\Diablo III.exe</Location>"
-		  objYARTarget.WriteLine "<Language>English (US)</Language>"
+		  objYARTarget.WriteLine "<Language>"+SkipToAndGetXMLValue(objYARSource,"Language")+"</Language>"
 		  if line = "US" Then
 			objYARTarget.WriteLine "<Region>America</Region>"
 		  Elseif line = "EU" Then
 			objYARTarget.WriteLine "<Region>Europe</Region>"
 		  end if
-		  objYARTarget.WriteLine "<Priority>2</Priority>"
-		  objYARTarget.WriteLine "<UseIsBoxer>false</UseIsBoxer>"
+		  objYARTarget.WriteLine "<Priority>"+SkipToAndGetXMLValue(objYARSource,"Priority")+"</Priority>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<UseIsBoxer>"+GetXMLValue(line1)+"</UseIsBoxer>"
 		  objYARTarget.WriteLine "<DisplaySlot />"
 		  objYARTarget.WriteLine "<CharacterSet />"
-		  objYARTarget.WriteLine "<ManualPosSize>false</ManualPosSize>"
-		  objYARTarget.WriteLine "<X>0</X>"
-		  objYARTarget.WriteLine "<Y>0</Y>"
-		  objYARTarget.WriteLine "<W>320</W>"
-		  objYARTarget.WriteLine "<H>200</H>"
-		  objYARTarget.WriteLine "<NoFrame>true</NoFrame>"
+		  objYARTarget.WriteLine "<ManualPosSize>"+SkipToAndGetXMLValue(objYARSource,"ManualPosSize")+"</ManualPosSize>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<X>"+GetXMLValue(line1)+"</X>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<Y>"+GetXMLValue(line1)+"</Y>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<W>"+GetXMLValue(line1)+"</W>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<H>"+GetXMLValue(line1)+"</H>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<NoFrame>"+GetXMLValue(line1)+"</NoFrame>"
 		  objYARTarget.WriteLine "<UseAuthenticator>false</UseAuthenticator>"
 		  objYARTarget.WriteLine "<Serial>---</Serial>"
 		  objYARTarget.WriteLine "<RestoreCode />"
-		  objYARTarget.WriteLine "<CpuCount>4</CpuCount>"
-		  objYARTarget.WriteLine "<ProcessorAffinity>15</ProcessorAffinity>"
+		  objYARTarget.WriteLine "<CpuCount>"+SkipToAndGetXMLValue(objYARSource,"CpuCount")+"</CpuCount>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<ProcessorAffinity>"+GetXMLValue(line1)+"</ProcessorAffinity>"
 		objYARTarget.WriteLine "</Diablo>"
 		objYARTarget.WriteLine "<Week>"
 		  objYARTarget.WriteLine "<Monday>"
@@ -125,32 +150,42 @@ Do
 				Call PrintBooleans(24,90)
 			objYARTarget.WriteLine "</Hours>"
 		  objYARTarget.WriteLine "</Sunday>"
-		  objYARTarget.WriteLine "<MinRandom>0</MinRandom>"
-		  objYARTarget.WriteLine "<MaxRandom>0</MaxRandom>"
-		  objYARTarget.WriteLine "<Shuffle>false</Shuffle>"
+		  objYARTarget.WriteLine "<MinRandom>"+SkipToAndGetXMLValue(objYARSource,"MinRandom")+"</MinRandom>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<MaxRandom>"+GetXMLValue(line1)+"</MaxRandom>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<Shuffle>"+GetXMLValue(line1)+"</Shuffle>"
 		objYARTarget.WriteLine "</Week>"
 		objYARTarget.WriteLine "<ProfileSchedule>"
-		  objYARTarget.WriteLine "<UseThirdPartyPlugin>false</UseThirdPartyPlugin>"
-		  objYARTarget.WriteLine "<MaxRandomRuns>0</MaxRandomRuns>"
-		  objYARTarget.WriteLine "<MaxRandomTime>0</MaxRandomTime>"
+		  objYARTarget.WriteLine "<UseThirdPartyPlugin>"+SkipToAndGetXMLValue(objYARSource,"UseThirdPartyPlugin")+"</UseThirdPartyPlugin>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<MaxRandomRuns>"+GetXMLValue(line1)+"</MaxRandomRuns>"
+		  line1 = objYARSource.ReadLine
+		  objYARTarget.WriteLine "<MaxRandomTime>"+GetXMLValue(line1)+"</MaxRandomTime>"
 		  objYARTarget.WriteLine "<Profiles>"
 			objYARTarget.WriteLine "<Profile>"
-			  objYARTarget.WriteLine "<Name>Questing</Name>"
-			  objYARTarget.WriteLine "<Location>E:\Applications\Diablo III\"&account&" "&line&"\questing\Profiles\Questing\Profile.xml</Location>"
-			  objYARTarget.WriteLine "<Runs>0</Runs>"
-			  objYARTarget.WriteLine "<Minutes>0</Minutes>"
-			  objYARTarget.WriteLine "<MonsterPowerLevel>Disabled</MonsterPowerLevel>"
+			  objYARTarget.WriteLine "<Name>"+SkipToAndGetXMLValue(objYARSource,"Name")+"</Name>"
+			  line1 = objYARSource.ReadLine
+			  objYARTarget.WriteLine "<Location>"+GetXMLValue(line1)+"</Location>"
+			  line1 = objYARSource.ReadLine
+			  objYARTarget.WriteLine "<Runs>"+GetXMLValue(line1)+"</Runs>"
+			  line1 = objYARSource.ReadLine
+			  objYARTarget.WriteLine "<Minutes>"+GetXMLValue(line1)+"</Minutes>"
+			  line1 = objYARSource.ReadLine
+			  objYARTarget.WriteLine "<MonsterPowerLevel>"+GetXMLValue(line1)+"</MonsterPowerLevel>"
 			objYARTarget.WriteLine "</Profile>"
 		  objYARTarget.WriteLine "</Profiles>"
-		  objYARTarget.WriteLine "<Random>false</Random>"
+		  objYARTarget.WriteLine "<Random>"+SkipToAndGetXMLValue(objYARSource,"Random")+"</Random>"
 		objYARTarget.WriteLine "</ProfileSchedule>"
-		objYARTarget.WriteLine "<UseWindowsUser>false</UseWindowsUser>"
-		objYARTarget.WriteLine "<CreateWindowsUser>false</CreateWindowsUser>"
+		objYARTarget.WriteLine "<UseWindowsUser>"+SkipToAndGetXMLValue(objYARSource,"UseWindowsUser")+"</UseWindowsUser>"
+		line1 = objYARSource.ReadLine
+		objYARTarget.WriteLine "<CreateWindowsUser>"+GetXMLValue(line1)+"</CreateWindowsUser>"
 		objYARTarget.WriteLine "<WindowsUserName />"
 		objYARTarget.WriteLine "<WindowsUserPassword />"
-		objYARTarget.WriteLine "<D3PrefsLocation>E:\Applications\Diablo III\D3Prefs.txt</D3PrefsLocation>"
+		objYARTarget.WriteLine "<D3PrefsLocation>"+SkipToAndGetXMLValue(objYARSource,"D3PrefsLocation")+"</D3PrefsLocation>"
 	  objYARTarget.WriteLine "</BotClass>"
 	WScript.Echo "Success"
+	objYARSource.Close
 Loop Until objRegions.AtEndOfStream
 
 objYARTarget.WriteLine "</ArrayOfBotClass>"
@@ -194,6 +229,42 @@ Function WriteNewAccount()
 	Set objYARSource = objFSO.OpenTextFile(myAccounts,8)
 	objYARSource.Write vbCrLf & account
 	objYARSource.Close
+End Function
+
+Function GetXMLValue(node)
+	node=Cstr(node)
+	If InStr(node,">") < InStrRev(node,"<") then
+		GetXMLValue = Mid(node,InStr(node,">")+1, Len(node)-InStr(node,">")-(Len(node)-InStrRev(node,"<"))-1)
+	else
+		GetXMLValue = "NIL"
+	End IF
+	WScript.Echo "Migrating "&node&" found "&GetXMLValue
+End Function
+
+Function GetXMLTag(node)
+	GetXMLTag = Mid(node,InStr(node,"<")+1, InStr(node,">")-2)
+End Function
+
+Function SkipAhead(file,numLines)
+	dim i,e
+	For i = 1 to numLines
+		e = file.ReadLine
+	Next
+End Function
+
+Function SkipToAndGetXMLValue(file,str)
+	dim i
+	Do While InStr(i,str) = 0
+		i = file.ReadLine
+	Loop
+	SkipToAndGetXMLValue = GetXMLValue(i)
+End Function
+
+Function SkipTo(file,str)
+	dim i
+	Do While InStr(i,str) = 0
+		i = file.ReadLine
+	Loop
 End Function
 
 Function GetInputs()
