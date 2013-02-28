@@ -1,0 +1,8 @@
+[27/02/2013 7:00:55 PM] ####[ Detecting Screens ]####
+[27/02/2013 7:00:55 PM] - Primary Screen 0: X:0,Y:0,W:1680,H:1050 Enabled:True
+[27/02/2013 7:00:55 PM] Name: \\.\DISPLAY1
+[27/02/2013 7:00:55 PM] Device: Intel(R) Q45/Q43 Express Chipset
+[27/02/2013 7:00:55 PM] WorkingArea: X:0,Y:0,W:1680,H:1010
+[27/02/2013 7:00:55 PM] ######################
+[27/02/2013 7:00:55 PM] Relogger Thread Starting!
+[27/02/2013 7:00:55 PM] Yet Another Relogger Version 0.1.9.2
