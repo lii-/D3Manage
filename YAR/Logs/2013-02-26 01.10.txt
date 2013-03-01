@@ -1,0 +1,80 @@
+[2/26/2013 1:10:46 AM] Relogger Thread Starting!
+[2/26/2013 1:10:46 AM] Yet Another Relogger Version 0.1.9.2
+[2/26/2013 1:10:46 AM] ## Loading Hotkeys ##
+[2/26/2013 1:10:46 AM] Register hotkey: RePositionAll - Alt+Control+Q
+[2/26/2013 1:10:46 AM] Register hotkey: FullscreenCurrentWindow - Alt+Control+W
+[2/26/2013 1:15:33 AM] <stephen.poole@hotmail.com> We are scheduled to start
+[2/26/2013 1:15:33 AM] <stephen.poole@hotmail.com> Next scheduled stop: 26/2 3:11
+[2/26/2013 1:15:33 AM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/26/2013 1:15:33 AM] <stephen.poole@hotmail.com> Replacing D3Prefs for user: Stephen
+[2/26/2013 1:15:33 AM] <stephen.poole@hotmail.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/26/2013 1:15:34 AM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+[2/26/2013 1:15:34 AM] <stephen.poole@hotmail.com> Region set: America : us.actual.battle.net
+[2/26/2013 1:15:34 AM] <stephen.poole@hotmail.com> D3Starter: Process ID 11428 started.
+[2/26/2013 1:15:34 AM] <stephen.poole@hotmail.com> D3Starter: Patching process 11428
+[2/26/2013 1:15:34 AM] <stephen.poole@hotmail.com> D3Starter: Patching file access at address: 81CF4D
+[2/26/2013 1:15:34 AM] <stephen.poole@hotmail.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/26/2013 1:15:34 AM] <stephen.poole@hotmail.com> D3Starter: Resuming process 11428
+[2/26/2013 1:15:36 AM] <stephen.poole@hotmail.com> D3Starter: 1 game instances started! All done!
+[2/26/2013 1:15:36 AM] <stephen.poole@hotmail.com> Diablo:11428: Found D3 Splash Window (2100074)
+[2/26/2013 1:15:42 AM] <stephen.poole@hotmail.com> Diablo:11428: D3 Splash Window Closed (0)
+[2/26/2013 1:15:42 AM] <stephen.poole@hotmail.com> Diablo:11428: Found D3 Main Window (2165610)
+[2/26/2013 1:15:44 AM] <stephen.poole@hotmail.com> Diablo:11428: Waiting for process to become ready
+[2/26/2013 1:15:46 AM] <stephen.poole@hotmail.com> Diablo:11428: Process is ready
+[2/26/2013 1:15:46 AM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 3 seconds
+[2/26/2013 1:15:49 AM] <stephen.poole@hotmail.com> Current profile: "GardettosRev2.2RaF_XX_Starter.xml" Runs:0 Time:0 mintues (E:\Applications\Diablo III\_Profiles\Gardetto's Revenge 2.2\GardettosRev2.2RaF_XX_Starter.xml)
+[2/26/2013 1:15:49 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/26/2013 1:15:49 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/26/2013 1:15:49 AM] <stephen.poole@hotmail.com> Demonbuddy:7236: Waiting for process to become ready
+[2/26/2013 1:15:50 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (8719576)
+[2/26/2013 1:15:50 AM] <stephen.poole@hotmail.com> ManualPosition window:8719576: X:1921 Y:0 W:50 H:50
+[2/26/2013 1:15:50 AM] <stephen.poole@hotmail.com> Demonbuddy:7236: Process is ready
+[2/26/2013 1:15:50 AM] <stephen.poole@hotmail.com> Demonbuddy:7236: Waiting for demonbuddy to log into Diablo
+[2/26/2013 1:16:03 AM] <stephen.poole@hotmail.com> Demonbuddy:7236: Initialized! We are ready to go
+[2/26/2013 1:16:03 AM] <nnehl@live.com> We are scheduled to start
+[2/26/2013 1:16:03 AM] <nnehl@live.com> Next scheduled stop: 26/2 4:5
+[2/26/2013 1:16:03 AM] <nnehl@live.com> Killing Agent.exe:12852
+[2/26/2013 1:16:03 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/26/2013 1:16:03 AM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/26/2013 1:16:03 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/26/2013 1:16:04 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/26/2013 1:16:04 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/26/2013 1:16:04 AM] <nnehl@live.com> D3Starter: Process ID 12656 started.
+[2/26/2013 1:16:04 AM] <nnehl@live.com> D3Starter: Patching process 12656
+[2/26/2013 1:16:04 AM] <nnehl@live.com> D3Starter: Patching file access at address: 81CF4D
+[2/26/2013 1:16:04 AM] <nnehl@live.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/26/2013 1:16:04 AM] <nnehl@live.com> D3Starter: Resuming process 12656
+[2/26/2013 1:16:06 AM] <nnehl@live.com> D3Starter: 1 game instances started! All done!
+[2/26/2013 1:16:06 AM] <nnehl@live.com> Diablo:12656: Found D3 Splash Window (1968558)
+[2/26/2013 1:16:12 AM] <nnehl@live.com> Diablo:12656: D3 Splash Window Closed (0)
+[2/26/2013 1:16:12 AM] <nnehl@live.com> Diablo:12656: Found D3 Main Window (2034094)
+[2/26/2013 1:16:14 AM] <nnehl@live.com> Diablo:12656: Waiting for process to become ready
+[2/26/2013 1:16:16 AM] No need to reposition: 2165610
+[2/26/2013 1:16:17 AM] <nnehl@live.com> Diablo:12656: Process is ready
+[2/26/2013 1:16:17 AM] <nnehl@live.com> Demonbuddy start delay, waiting 3 seconds
+[2/26/2013 1:16:20 AM] <nnehl@live.com> Current profile: "GardettosRev2.2RaF_XX_Starter.xml" Runs:0 Time:0 mintues (E:\Applications\Diablo III\_Profiles\Gardetto's Revenge 2.2\GardettosRev2.2RaF_XX_Starter.xml)
+[2/26/2013 1:16:20 AM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/26/2013 1:16:20 AM] <nnehl@live.com> Plugin is installed and latest version
+[2/26/2013 1:16:20 AM] <nnehl@live.com> Demonbuddy:8524: Waiting for process to become ready
+[2/26/2013 1:16:20 AM] <nnehl@live.com> Found Demonbuddy: MainWindow (8459444)
+[2/26/2013 1:16:20 AM] <nnehl@live.com> Demonbuddy:8524: Process is ready
+[2/26/2013 1:16:20 AM] <nnehl@live.com> Demonbuddy:8524: Waiting for demonbuddy to log into Diablo
+[2/26/2013 1:16:28 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/26/2013 1:16:33 AM] <nnehl@live.com> Demonbuddy:8524: Initialized! We are ready to go
+[2/26/2013 1:16:36 AM] ####[ Detecting Screens ]####
+[2/26/2013 1:16:36 AM] - Primary Screen 0: X:0,Y:0,W:1920,H:1080 Enabled:False
+[2/26/2013 1:16:36 AM] Name: \\.\DISPLAY1
+[2/26/2013 1:16:36 AM] Device: NVIDIA GeForce GTX 470
+[2/26/2013 1:16:36 AM] WorkingArea: X:0,Y:0,W:1920,H:1050
+[2/26/2013 1:16:36 AM] - Screen 1: X:-1680,Y:-14,W:1680,H:1050 Enabled:False
+[2/26/2013 1:16:36 AM] Name: \\.\DISPLAY2
+[2/26/2013 1:16:36 AM] Device: NVIDIA GeForce GTX 470
+[2/26/2013 1:16:36 AM] WorkingArea: X:-1680,Y:-14,W:1680,H:1050
+[2/26/2013 1:16:36 AM] - Screen 2: X:1920,Y:0,W:1680,H:1050 Enabled:True
+[2/26/2013 1:16:36 AM] Name: \\.\DISPLAY3
+[2/26/2013 1:16:36 AM] Device: NVIDIA GeForce GTX 470
+[2/26/2013 1:16:36 AM] WorkingArea: X:1920,Y:0,W:1680,H:1050
+[2/26/2013 1:16:36 AM] ######################
+[2/26/2013 1:16:39 AM] No need to reposition: 2165610
+[2/26/2013 1:16:39 AM] No need to reposition: 2034094
+[2/26/2013 1:16:52 AM] Closed!

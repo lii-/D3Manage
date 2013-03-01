@@ -1,0 +1,5 @@
+[2/14/2013 12:41:04 AM] Relogger Thread Starting!
+[2/14/2013 12:41:04 AM] Yet Another Relogger Version 0.1.9.2
+[2/14/2013 12:41:07 AM] Could not find a matching bot for Demonbuddy:7116
+[2/14/2013 12:42:03 AM] Editing bot: nnehl@live.com
+[2/14/2013 12:42:33 AM] Closed!

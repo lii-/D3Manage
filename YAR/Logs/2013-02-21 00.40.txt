@@ -1,0 +1,35 @@
+V [2/21/2013 12:40:10 AM] Relogger Thread Starting!
+N [2/21/2013 12:40:10 AM] Yet Another Relogger Version 0.2.0.6
+N [2/21/2013 12:40:17 AM] Could not find a matching bot for Demonbuddy:5304
+N [2/21/2013 12:40:17 AM] Could not find a matching bot for Demonbuddy:7960
+N [2/21/2013 12:40:41 AM] <stephen.poole@hotmail.com> We are scheduled to start
+N [2/21/2013 12:40:41 AM] <stephen.poole@hotmail.com> Next scheduled stop: 21/2 3:13
+N [2/21/2013 12:40:41 AM] PingCheck: Ping -> www.google.com
+V [2/21/2013 12:40:41 AM] PingCheck: 74.125.226.80 -> 25ms
+N [2/21/2013 12:40:41 AM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+N [2/21/2013 12:40:41 AM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+N [2/21/2013 12:40:41 AM] <stephen.poole@hotmail.com> Region set: America : us.actual.battle.net
+N [2/21/2013 12:40:48 AM] <stephen.poole@hotmail.com> Diablo:4908: Found D3 Main Window (1508626)
+N [2/21/2013 12:40:51 AM] <stephen.poole@hotmail.com> Diablo:4908: Waiting for process to become ready
+N [2/21/2013 12:40:53 AM] <stephen.poole@hotmail.com> Diablo:4908: Process is ready
+N [2/21/2013 12:40:53 AM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 3 seconds
+N [2/21/2013 12:40:56 AM] <stephen.poole@hotmail.com> Current profile: "GardettosRev2.0RaF_XX_Starter.xml" Runs:3 Time:0 mintues (E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Profiles\Gardetto's Revenge 2.0\GardettosRev2.0RaF_XX_Starter.xml)
+N [2/21/2013 12:40:56 AM] <stephen.poole@hotmail.com> Generate new Kickstart profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Profiles\Gardetto's Revenge 2.0\YAR_Kickstart.xml
+N [2/21/2013 12:40:56 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Plugins\YAR\Plugin.cs
+N [2/21/2013 12:40:56 AM] <stephen.poole@hotmail.com> Plugin is outdated!
+N [2/21/2013 12:40:56 AM] <stephen.poole@hotmail.com> Installing latest plugin: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Plugins\YAR\Plugin.cs
+N [2/21/2013 12:40:56 AM] <stephen.poole@hotmail.com> Demonbuddy:8660: Waiting for process to become ready
+N [2/21/2013 12:40:56 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (2491140)
+V [2/21/2013 12:40:56 AM] <stephen.poole@hotmail.com> ManualPosition window:2491140: X:1921 Y:0 W:800 H:600
+N [2/21/2013 12:40:57 AM] <stephen.poole@hotmail.com> Demonbuddy:8660: Process is ready
+N [2/21/2013 12:40:57 AM] <stephen.poole@hotmail.com> Demonbuddy:8660: Waiting for demonbuddy to log into Diablo
+N [2/21/2013 12:41:24 AM] <stephen.poole@hotmail.com> Demonbuddy:8660: Forced to close!
+N [2/21/2013 12:41:24 AM] <nnehl@live.com> We are scheduled to start
+N [2/21/2013 12:41:24 AM] <nnehl@live.com> Next scheduled stop: 21/2 3:6
+N [2/21/2013 12:41:24 AM] PingCheck: Ping -> www.google.com
+V [2/21/2013 12:41:24 AM] PingCheck: 74.125.226.80 -> 25ms
+N [2/21/2013 12:41:24 AM] <nnehl@live.com> Killing Agent.exe:7196
+N [2/21/2013 12:41:24 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+N [2/21/2013 12:41:24 AM] <nnehl@live.com> Language set: English (US) : enUS
+N [2/21/2013 12:41:24 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+N [2/21/2013 12:41:28 AM] Closed!

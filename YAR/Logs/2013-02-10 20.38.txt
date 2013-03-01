@@ -1,0 +1,210 @@
+[2/10/2013 8:38:20 PM] Relogger Thread Starting!
+[2/10/2013 8:38:20 PM] Yet Another Relogger Version 0.1.9.2
+[2/10/2013 8:38:20 PM] Application current path does not match last saved path. Updating registy key.
+[2/10/2013 8:38:38 PM] Editing bot: profiles
+[2/10/2013 8:38:40 PM] <profiles> We are scheduled to start
+[2/10/2013 8:38:40 PM] <profiles> Next scheduled stop: 11/2 3:9
+[2/10/2013 8:38:41 PM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/10/2013 8:38:41 PM] <profiles> Language set: English (US) : enUS
+[2/10/2013 8:38:41 PM] <profiles> Region set: America : us.actual.battle.net
+[2/10/2013 8:38:49 PM] <profiles> Diablo:4060: Found D3 Main Window (4916792)
+[2/10/2013 8:38:50 PM] <profiles> Diablo:4060: Waiting for process to become ready
+[2/10/2013 8:38:52 PM] <profiles> Diablo:4060: Process is ready
+[2/10/2013 8:38:52 PM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/10/2013 8:39:02 PM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:0 Time:0 mintues (E:\Applications\Diablo III\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/10/2013 8:39:02 PM] <profiles> Generate new Kickstart profile: E:\Applications\Diablo III\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/10/2013 8:39:02 PM] <profiles> Checking plugin: E:\Applications\Diablo III\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/10/2013 8:39:02 PM] <profiles> Plugin is installed and latest version
+[2/10/2013 8:39:02 PM] <profiles> Demonbuddy:5260: Waiting for process to become ready
+[2/10/2013 8:39:02 PM] <profiles> Found Demonbuddy: MainWindow (657694)
+[2/10/2013 8:39:02 PM] <profiles> ManualPosition window:657694: X:1921 Y:0 W:800 H:600
+[2/10/2013 8:39:03 PM] <profiles> Demonbuddy:5260: Process is ready
+[2/10/2013 8:39:03 PM] <profiles> Demonbuddy:5260: Waiting for demonbuddy to log into Diablo
+[2/10/2013 8:39:20 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/10/2013 8:39:20 PM] <profiles> Demonbuddy:5260: Initialized! We are ready to go
+[2/10/2013 8:39:20 PM] <profiles> Demonbuddy stopped by Thirdparty
+[2/10/2013 8:46:48 PM] <profiles> Demonbuddy:5260: has not gained any gold in 122 seconds, trying reset
+[2/10/2013 8:49:21 PM] <profiles> Stopping
+[2/10/2013 8:49:21 PM] <profiles> Diablo:4060: Kill process
+[2/10/2013 8:49:21 PM] <profiles> Demonbuddy:5260: Waiting to close
+[2/10/2013 8:49:22 PM] <profiles> Demonbuddy:5260: Closed.
+[2/10/2013 8:49:22 PM] Relogger Thread Starting!
+[2/10/2013 8:49:30 PM] Editing bot: profiles
+[2/10/2013 8:49:32 PM] <profiles> We are scheduled to start
+[2/10/2013 8:49:32 PM] <profiles> Next scheduled stop: 11/2 3:51
+[2/10/2013 8:49:32 PM] <profiles> Killing Agent.exe:1684
+[2/10/2013 8:49:32 PM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/10/2013 8:49:32 PM] <profiles> Language set: English (US) : enUS
+[2/10/2013 8:49:32 PM] <profiles> Region set: America : us.actual.battle.net
+[2/10/2013 8:49:40 PM] <profiles> Diablo:3784: Found D3 Main Window (330254)
+[2/10/2013 8:49:41 PM] <profiles> Diablo:3784: Waiting for process to become ready
+[2/10/2013 8:49:43 PM] <profiles> Diablo:3784: Process is ready
+[2/10/2013 8:49:43 PM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/10/2013 8:49:53 PM] <profiles> Demonbuddy:5260: Found matching log: E:\Applications\Diablo III\D3 bots\demonbuddy\Logs\5260 2013-02-10 20.39.txt
+[2/10/2013 8:49:53 PM] <profiles> Found login time: 2/11/2013 1:39:03 AM
+[2/10/2013 8:49:53 PM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:2 Time:0 mintues (E:\Applications\Diablo III\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/10/2013 8:49:53 PM] <profiles> Using a already generated Kickstart profile: E:\Applications\Diablo III\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/10/2013 8:49:53 PM] <profiles> Checking plugin: E:\Applications\Diablo III\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/10/2013 8:49:53 PM] <profiles> Plugin is installed and latest version
+[2/10/2013 8:49:53 PM] <profiles> Demonbuddy:2492: Waiting for process to become ready
+[2/10/2013 8:49:54 PM] <profiles> Found Demonbuddy: MainWindow (1312440)
+[2/10/2013 8:49:54 PM] <profiles> ManualPosition window:1312440: X:1921 Y:0 W:800 H:600
+[2/10/2013 8:49:54 PM] <profiles> Demonbuddy:2492: Process is ready
+[2/10/2013 8:49:54 PM] <profiles> Demonbuddy:2492: Waiting for demonbuddy to log into Diablo
+[2/10/2013 8:50:11 PM] <profiles> Sending MonsterPowerLevel: Level0
+[2/10/2013 8:50:11 PM] <profiles> Demonbuddy:2492: Initialized! We are ready to go
+[2/10/2013 8:50:12 PM] <profiles> Demonbuddy stopped by Thirdparty
+[2/10/2013 9:09:43 PM] <profiles> Runs completed 1
+[2/10/2013 9:09:43 PM] <profiles> Sending MonsterPowerLevel: Level0
+[2/10/2013 9:15:19 PM] <profiles> Runs completed 2
+[2/10/2013 9:15:19 PM] <profiles> Sending MonsterPowerLevel: Level0
+[2/10/2013 9:16:15 PM] <profiles> Demonbuddy stopped by user
+[2/10/2013 9:16:18 PM] <profiles> Demonbuddy stopped by user
+[2/10/2013 9:16:50 PM] <profiles> Runs completed 3
+[2/10/2013 9:16:50 PM] <profiles> Sending MonsterPowerLevel: Level0
+[2/10/2013 9:16:50 PM] <profiles> Demonbuddy:2492: is paused to long (30 seconds)
+[2/10/2013 9:16:54 PM] <profiles> Restarting...
+[2/10/2013 9:16:54 PM] <profiles> Diablo:3784: Kill process
+[2/10/2013 9:16:54 PM] <profiles> Demonbuddy:2492: Failed to close! kill process
+[2/10/2013 9:16:54 PM] System.IO.IOException: Pipe is broken.
+   at System.IO.Pipes.PipeStream.WinIOError(Int32 errorCode)
+   at System.IO.Pipes.PipeStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Pipes.PipeStream.WriteCore(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.StreamWriter.Flush(Boolean flushStream, Boolean flushEncoder)
+   at System.IO.TextWriter.WriteLine(String value)
+   at YetAnotherRelogger.Helpers.Communicator.HandleClient.Send(String msg)
+[2/10/2013 9:16:54 PM] <profiles> Diablo:3784: Process is not running
+[2/10/2013 9:16:54 PM] <profiles> Killing Agent.exe:6920
+[2/10/2013 9:16:54 PM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/10/2013 9:16:54 PM] <profiles> Language set: English (US) : enUS
+[2/10/2013 9:16:54 PM] <profiles> Region set: America : us.actual.battle.net
+[2/10/2013 9:17:02 PM] <profiles> Diablo:6612: Found D3 Main Window (1050902)
+[2/10/2013 9:17:03 PM] <profiles> Diablo:6612: Waiting for process to become ready
+[2/10/2013 9:17:05 PM] <profiles> Diablo:6612: Process is ready
+[2/10/2013 9:17:05 PM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/10/2013 9:17:15 PM] <profiles> Demonbuddy:2492: Found matching log: E:\Applications\Diablo III\D3 bots\demonbuddy\Logs\2492 2013-02-10 20.49.txt
+[2/10/2013 9:17:16 PM] <profiles> Found login time: 2/11/2013 1:49:54 AM
+[2/10/2013 9:17:16 PM] <profiles> Checking plugin: E:\Applications\Diablo III\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/10/2013 9:17:16 PM] <profiles> Plugin is installed and latest version
+[2/10/2013 9:17:16 PM] <profiles> Demonbuddy:5940: Waiting for process to become ready
+[2/10/2013 9:17:16 PM] <profiles> Found Demonbuddy: MainWindow (2031944)
+[2/10/2013 9:17:16 PM] <profiles> ManualPosition window:2031944: X:1921 Y:0 W:800 H:600
+[2/10/2013 9:17:16 PM] <profiles> Demonbuddy:5940: Process is ready
+[2/10/2013 9:17:16 PM] <profiles> Demonbuddy:5940: Waiting for demonbuddy to log into Diablo
+[2/10/2013 9:17:34 PM] <profiles> Demonbuddy:5940: Initialized! We are ready to go
+[2/10/2013 9:17:35 PM] <profiles> Sending MonsterPowerLevel: Level0
+[2/10/2013 9:17:35 PM] <profiles> Demonbuddy stopped by Thirdparty
+[2/10/2013 9:21:16 PM] Editing bot: profiles
+[2/10/2013 9:23:38 PM] Editing bot: profiles
+[2/10/2013 9:45:12 PM] <profiles> Runs completed 1
+[2/10/2013 9:45:12 PM] <profiles> Sending MonsterPowerLevel: Disabled
+[2/10/2013 10:04:00 PM] <profiles> Runs completed 2
+[2/10/2013 10:04:00 PM] <profiles> Sending MonsterPowerLevel: Disabled
+[2/10/2013 10:33:40 PM] <profiles> Runs completed 3
+[2/10/2013 10:33:40 PM] <profiles> Sending MonsterPowerLevel: Disabled
+[2/10/2013 11:05:24 PM] <profiles> Runs completed 4
+[2/10/2013 11:05:24 PM] <profiles> Sending MonsterPowerLevel: Disabled
+[2/10/2013 11:36:45 PM] <profiles> Runs completed 5
+[2/10/2013 11:36:45 PM] <profiles> Sending MonsterPowerLevel: Disabled
+[2/11/2013 12:08:06 AM] <profiles> Runs completed 6
+[2/11/2013 12:08:06 AM] <profiles> Sending MonsterPowerLevel: Disabled
+[2/11/2013 12:08:06 AM] <profiles> Demonbuddy stopped by Thirdparty
+[2/11/2013 12:12:40 AM] <profiles> Runs completed 7
+[2/11/2013 12:12:40 AM] <profiles> Sending MonsterPowerLevel: Disabled
+[2/11/2013 12:12:44 AM] <profiles> Demonbuddy:5940: is stopped to long for a unknown reason (30 seconds)
+[2/11/2013 12:13:11 AM] Editing bot: profiles
+[2/11/2013 12:13:12 AM] <profiles> Stopping
+[2/11/2013 12:13:12 AM] <profiles> Diablo:6612: Kill process
+[2/11/2013 12:13:12 AM] <profiles> Demonbuddy:5940: Waiting to close
+[2/11/2013 12:13:15 AM] <profiles> Demonbuddy:5940: Closed.
+[2/11/2013 12:13:15 AM] Relogger Thread Starting!
+[2/11/2013 12:13:16 AM] <profiles> We are scheduled to start
+[2/11/2013 12:13:16 AM] <profiles> Next scheduled stop: 11/2 1:34
+[2/11/2013 12:13:16 AM] <profiles> Killing Agent.exe:4952
+[2/11/2013 12:13:16 AM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/11/2013 12:13:16 AM] <profiles> Language set: English (US) : enUS
+[2/11/2013 12:13:16 AM] <profiles> Region set: America : us.actual.battle.net
+[2/11/2013 12:13:24 AM] <profiles> Diablo:3248: Found D3 Main Window (1181648)
+[2/11/2013 12:13:26 AM] <profiles> Diablo:3248: Waiting for process to become ready
+[2/11/2013 12:13:28 AM] <profiles> Diablo:3248: Process is ready
+[2/11/2013 12:13:28 AM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/11/2013 12:13:38 AM] <profiles> Demonbuddy:5940: Found matching log: E:\Applications\Diablo III\D3 bots\demonbuddy\Logs\5940 2013-02-10 21.17.txt
+[2/11/2013 12:13:39 AM] <profiles> Found login time: 2/11/2013 2:17:17 AM
+[2/11/2013 12:13:39 AM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:1 Time:0 mintues (E:\Applications\Diablo III\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/11/2013 12:13:39 AM] <profiles> Using a already generated Kickstart profile: E:\Applications\Diablo III\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/11/2013 12:13:39 AM] <profiles> Checking plugin: E:\Applications\Diablo III\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/11/2013 12:13:39 AM] <profiles> Plugin is installed and latest version
+[2/11/2013 12:13:39 AM] <profiles> Demonbuddy:6752: Waiting for process to become ready
+[2/11/2013 12:13:39 AM] <profiles> Found Demonbuddy: MainWindow (8652328)
+[2/11/2013 12:13:39 AM] <profiles> ManualPosition window:8652328: X:1921 Y:0 W:800 H:600
+[2/11/2013 12:13:39 AM] <profiles> Demonbuddy:6752: Process is ready
+[2/11/2013 12:13:39 AM] <profiles> Demonbuddy:6752: Waiting for demonbuddy to log into Diablo
+[2/11/2013 12:13:58 AM] <profiles> Demonbuddy:6752: Initialized! We are ready to go
+[2/11/2013 12:13:59 AM] <profiles> Sending MonsterPowerLevel: Level0
+[2/11/2013 12:13:59 AM] <profiles> Demonbuddy stopped by Thirdparty
+[2/11/2013 12:14:57 AM] <profiles> Demonbuddy:6752: is paused to long (30 seconds)
+[2/11/2013 12:15:00 AM] <profiles> Restarting...
+[2/11/2013 12:15:00 AM] <profiles> Diablo:3248: Kill process
+[2/11/2013 12:15:00 AM] <profiles> Demonbuddy:6752: Failed to close! kill process
+[2/11/2013 12:15:01 AM] <profiles> Diablo:3248: Process is not running
+[2/11/2013 12:15:01 AM] <profiles> Killing Agent.exe:5284
+[2/11/2013 12:15:01 AM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/11/2013 12:15:01 AM] <profiles> Language set: English (US) : enUS
+[2/11/2013 12:15:01 AM] <profiles> Region set: America : us.actual.battle.net
+[2/11/2013 12:15:09 AM] <profiles> Diablo:5624: Found D3 Main Window (919286)
+[2/11/2013 12:15:11 AM] <profiles> Diablo:5624: Waiting for process to become ready
+[2/11/2013 12:15:13 AM] <profiles> Stopping
+[2/11/2013 12:15:13 AM] <profiles> Diablo:5624: Kill process
+[2/11/2013 12:15:13 AM] Relogger Thread Starting!
+[2/11/2013 12:16:19 AM] Editing bot: profiles
+[2/11/2013 12:16:21 AM] <profiles> We are scheduled to start
+[2/11/2013 12:16:21 AM] <profiles> Next scheduled stop: 11/2 1:17
+[2/11/2013 12:16:21 AM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/11/2013 12:16:21 AM] <profiles> Language set: English (US) : enUS
+[2/11/2013 12:16:21 AM] <profiles> Region set: America : us.actual.battle.net
+[2/11/2013 12:16:29 AM] <profiles> Diablo:6516: Found D3 Main Window (1115894)
+[2/11/2013 12:16:31 AM] <profiles> Diablo:6516: Waiting for process to become ready
+[2/11/2013 12:16:33 AM] <profiles> Diablo:6516: Process is ready
+[2/11/2013 12:16:33 AM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/11/2013 12:16:43 AM] <profiles> Demonbuddy:6752: Found matching log: E:\Applications\Diablo III\D3 bots\demonbuddy\Logs\6752 2013-02-11 00.13.txt
+[2/11/2013 12:16:44 AM] <profiles> Found login time: 2/11/2013 5:13:39 AM
+[2/11/2013 12:16:44 AM] <profiles> Current profile: "A1-A3_RELOGGERS_START_HERE.xml" Runs:3 Time:0 mintues (E:\Applications\Diablo III\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\A1-A3_RELOGGERS_START_HERE.xml)
+[2/11/2013 12:16:44 AM] <profiles> Generate new Kickstart profile: E:\Applications\Diablo III\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/11/2013 12:16:44 AM] <profiles> Checking plugin: E:\Applications\Diablo III\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/11/2013 12:16:44 AM] <profiles> Plugin is installed and latest version
+[2/11/2013 12:16:44 AM] <profiles> Demonbuddy:3736: Waiting for process to become ready
+[2/11/2013 12:16:44 AM] <profiles> Found Demonbuddy: MainWindow (591780)
+[2/11/2013 12:16:44 AM] <profiles> ManualPosition window:591780: X:1921 Y:0 W:800 H:600
+[2/11/2013 12:16:44 AM] <profiles> Demonbuddy:3736: Process is ready
+[2/11/2013 12:16:44 AM] <profiles> Demonbuddy:3736: Waiting for demonbuddy to log into Diablo
+[2/11/2013 12:17:02 AM] <profiles> Sending MonsterPowerLevel: Level0
+[2/11/2013 12:17:02 AM] <profiles> Demonbuddy:3736: Initialized! We are ready to go
+[2/11/2013 12:17:03 AM] <profiles> Demonbuddy stopped by Thirdparty
+[2/11/2013 12:17:43 AM] <profiles> Runs completed (1/3)
+[2/11/2013 12:17:44 AM] <profiles> Sending MonsterPowerLevel: Level0
+[2/11/2013 12:31:15 AM] <profiles> Stopping
+[2/11/2013 12:31:15 AM] <profiles> Diablo:6516: Kill process
+[2/11/2013 12:31:15 AM] <profiles> Demonbuddy:3736: Waiting to close
+[2/11/2013 12:31:18 AM] <profiles> Demonbuddy:3736: Closed.
+[2/11/2013 12:31:18 AM] Relogger Thread Starting!
+[2/11/2013 12:31:25 AM] <profiles> We are scheduled to start
+[2/11/2013 12:31:25 AM] <profiles> Next scheduled stop: 11/2 1:4
+[2/11/2013 12:31:25 AM] <profiles> Killing Agent.exe:5308
+[2/11/2013 12:31:25 AM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/11/2013 12:31:25 AM] <profiles> Language set: English (US) : enUS
+[2/11/2013 12:31:25 AM] <profiles> Region set: America : us.actual.battle.net
+[2/11/2013 12:31:33 AM] <profiles> Diablo:540: Found D3 Main Window (2492000)
+[2/11/2013 12:31:36 AM] <profiles> Diablo:540: Waiting for process to become ready
+[2/11/2013 12:31:38 AM] <profiles> Diablo:540: Process is ready
+[2/11/2013 12:31:38 AM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/11/2013 12:31:48 AM] <profiles> Demonbuddy:3736: Found matching log: E:\Applications\Diablo III\D3 bots\demonbuddy\Logs\3736 2013-02-11 00.16.txt
+[2/11/2013 12:31:49 AM] <profiles> Found login time: 2/11/2013 5:16:44 AM
+[2/11/2013 12:31:49 AM] <profiles> Checking plugin: E:\Applications\Diablo III\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/11/2013 12:31:49 AM] <profiles> Plugin is installed and latest version
+[2/11/2013 12:31:49 AM] <profiles> Demonbuddy:1920: Waiting for process to become ready
+[2/11/2013 12:31:49 AM] <profiles> Found Demonbuddy: MainWindow (592018)
+[2/11/2013 12:31:49 AM] <profiles> ManualPosition window:592018: X:1921 Y:0 W:800 H:600
+[2/11/2013 12:31:49 AM] <profiles> Demonbuddy:1920: Process is ready
+[2/11/2013 12:31:49 AM] <profiles> Demonbuddy:1920: Waiting for demonbuddy to log into Diablo
+[2/11/2013 12:32:07 AM] <profiles> Sending MonsterPowerLevel: Level0
+[2/11/2013 12:32:07 AM] <profiles> Demonbuddy:1920: Initialized! We are ready to go

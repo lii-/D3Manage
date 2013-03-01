@@ -1,0 +1,372 @@
+[2/22/2013 9:21:00 PM] Windows auto start delaying with 10 seconds
+[2/22/2013 9:21:01 PM] Yet Another Relogger Version 0.1.9.2
+[2/22/2013 9:21:01 PM] ## Loading Hotkeys ##
+[2/22/2013 9:21:01 PM] Register hotkey: RePositionAll - Alt+Control+Q
+[2/22/2013 9:21:01 PM] Register hotkey: FullscreenCurrentWindow - Alt+Control+W
+[2/22/2013 9:21:10 PM] Relogger Thread Starting!
+[2/22/2013 9:21:10 PM] <nnehl@live.com> We are scheduled to start
+[2/22/2013 9:21:10 PM] <nnehl@live.com> Next scheduled stop: 22/2 23:8
+[2/22/2013 9:21:10 PM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/22/2013 9:21:10 PM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/22/2013 9:21:10 PM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/22/2013 9:21:11 PM] <nnehl@live.com> Language set: English (US) : enUS
+[2/22/2013 9:21:11 PM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/22/2013 9:21:12 PM] <nnehl@live.com> D3Starter: Process ID 5036 started.
+[2/22/2013 9:21:12 PM] <nnehl@live.com> D3Starter: Patching process 5036
+[2/22/2013 9:21:14 PM] <nnehl@live.com> D3Starter: Patching file access at address: 81CF4D
+[2/22/2013 9:21:14 PM] <nnehl@live.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/22/2013 9:21:14 PM] <nnehl@live.com> D3Starter: Resuming process 5036
+[2/22/2013 9:21:15 PM] <nnehl@live.com> D3Starter: 1 game instances started! All done!
+[2/22/2013 9:21:30 PM] <nnehl@live.com> Diablo:5036: Starting diablo timed out!
+[2/22/2013 9:21:30 PM] <nnehl@live.com> Restarting...
+[2/22/2013 9:21:30 PM] <nnehl@live.com> Diablo:5036: Kill process
+[2/22/2013 9:21:31 PM] <nnehl@live.com> We are scheduled to start
+[2/22/2013 9:21:31 PM] <nnehl@live.com> Next scheduled stop: 22/2 23:0
+[2/22/2013 9:21:31 PM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/22/2013 9:21:31 PM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/22/2013 9:21:36 PM] <nnehl@live.com> Language set: English (US) : enUS
+[2/22/2013 9:21:36 PM] <nnehl@live.com> Region set: Europe : eu.actual.battle.net
+[2/22/2013 9:21:36 PM] <nnehl@live.com> D3Starter: Process ID 6056 started.
+[2/22/2013 9:21:36 PM] <nnehl@live.com> D3Starter: Patching process 6056
+[2/22/2013 9:21:39 PM] <nnehl@live.com> D3Starter: Patching file access at address: 81CF4D
+[2/22/2013 9:21:39 PM] <nnehl@live.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/22/2013 9:21:39 PM] <nnehl@live.com> D3Starter: Resuming process 6056
+[2/22/2013 9:21:40 PM] <nnehl@live.com> D3Starter: 1 game instances started! All done!
+[2/22/2013 9:21:54 PM] <nnehl@live.com> Diablo:6056: Found D3 Splash Window (197808)
+[2/22/2013 9:22:09 PM] <nnehl@live.com> Diablo:6056: Starting diablo timed out!
+[2/22/2013 9:22:09 PM] <nnehl@live.com> Restarting...
+[2/22/2013 9:22:09 PM] <nnehl@live.com> Diablo:6056: Kill process
+[2/22/2013 9:22:10 PM] <nnehl@live.com> Diablo:5036: Process is not running
+[2/22/2013 9:22:10 PM] <nnehl@live.com> Killing Agent.exe:4548
+[2/22/2013 9:22:10 PM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/22/2013 9:22:10 PM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/22/2013 9:22:10 PM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/22/2013 9:22:11 PM] <nnehl@live.com> Language set: English (US) : enUS
+[2/22/2013 9:22:11 PM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/22/2013 9:22:11 PM] <nnehl@live.com> D3Starter: Process ID 1300 started.
+[2/22/2013 9:22:11 PM] <nnehl@live.com> D3Starter: Patching process 1300
+[2/22/2013 9:22:11 PM] <nnehl@live.com> D3Starter: Patching file access at address: 81CF4D
+[2/22/2013 9:22:11 PM] <nnehl@live.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/22/2013 9:22:11 PM] <nnehl@live.com> D3Starter: Resuming process 1300
+[2/22/2013 9:22:13 PM] <nnehl@live.com> D3Starter: 1 game instances started! All done!
+[2/22/2013 9:22:13 PM] <nnehl@live.com> Diablo:1300: Found D3 Splash Window (459544)
+[2/22/2013 9:22:28 PM] <nnehl@live.com> Diablo:1300: Starting diablo timed out!
+[2/22/2013 9:22:28 PM] <nnehl@live.com> Restarting...
+[2/22/2013 9:22:28 PM] <nnehl@live.com> Diablo:1300: Kill process
+[2/22/2013 9:22:28 PM] <nnehl@live.com> Diablo:6056: Process is not running
+[2/22/2013 9:22:28 PM] <nnehl@live.com> Killing Agent.exe:2400
+[2/22/2013 9:22:28 PM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/22/2013 9:22:28 PM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/22/2013 9:22:28 PM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/22/2013 9:22:29 PM] <nnehl@live.com> Language set: English (US) : enUS
+[2/22/2013 9:22:29 PM] <nnehl@live.com> Region set: Europe : eu.actual.battle.net
+[2/22/2013 9:22:30 PM] <nnehl@live.com> D3Starter: Process ID 4136 started.
+[2/22/2013 9:22:30 PM] <nnehl@live.com> D3Starter: Patching process 4136
+[2/22/2013 9:22:30 PM] <nnehl@live.com> D3Starter: Patching file access at address: 81CF4D
+[2/22/2013 9:22:30 PM] <nnehl@live.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/22/2013 9:22:30 PM] <nnehl@live.com> D3Starter: Resuming process 4136
+[2/22/2013 9:22:31 PM] <nnehl@live.com> D3Starter: 1 game instances started! All done!
+[2/22/2013 9:22:31 PM] <nnehl@live.com> Diablo:4136: Found D3 Splash Window (1311502)
+[2/22/2013 9:22:46 PM] <nnehl@live.com> Diablo:4136: Starting diablo timed out!
+[2/22/2013 9:22:46 PM] <nnehl@live.com> Restarting...
+[2/22/2013 9:22:46 PM] <nnehl@live.com> Diablo:4136: Kill process
+[2/22/2013 9:22:48 PM] <nnehl@live.com> Diablo:1300: Process is not running
+[2/22/2013 9:22:48 PM] <nnehl@live.com> Killing Agent.exe:1808
+[2/22/2013 9:22:48 PM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/22/2013 9:22:48 PM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/22/2013 9:22:48 PM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/22/2013 9:22:49 PM] <nnehl@live.com> Language set: English (US) : enUS
+[2/22/2013 9:22:49 PM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/22/2013 9:22:49 PM] <nnehl@live.com> D3Starter: Process ID 4140 started.
+[2/22/2013 9:22:49 PM] <nnehl@live.com> D3Starter: Patching process 4140
+[2/22/2013 9:22:49 PM] <nnehl@live.com> D3Starter: Patching file access at address: 81CF4D
+[2/22/2013 9:22:49 PM] <nnehl@live.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/22/2013 9:22:49 PM] <nnehl@live.com> D3Starter: Resuming process 4140
+[2/22/2013 9:22:50 PM] <nnehl@live.com> D3Starter: 1 game instances started! All done!
+[2/22/2013 9:22:50 PM] <nnehl@live.com> Diablo:4140: Found D3 Splash Window (394480)
+[2/22/2013 9:23:05 PM] <nnehl@live.com> Diablo:4140: Starting diablo timed out!
+[2/22/2013 9:23:05 PM] <nnehl@live.com> Restarting...
+[2/22/2013 9:23:05 PM] <nnehl@live.com> Diablo:4140: Kill process
+[2/22/2013 9:23:06 PM] <nnehl@live.com> Diablo:4136: Process is not running
+[2/22/2013 9:23:06 PM] <nnehl@live.com> Killing Agent.exe:5236
+[2/22/2013 9:23:06 PM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/22/2013 9:23:06 PM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/22/2013 9:23:06 PM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/22/2013 9:23:07 PM] <nnehl@live.com> Language set: English (US) : enUS
+[2/22/2013 9:23:07 PM] <nnehl@live.com> Region set: Europe : eu.actual.battle.net
+[2/22/2013 9:23:07 PM] <nnehl@live.com> D3Starter: Process ID 2472 started.
+[2/22/2013 9:23:07 PM] <nnehl@live.com> D3Starter: Patching process 2472
+[2/22/2013 9:23:07 PM] <nnehl@live.com> D3Starter: Patching file access at address: 81CF4D
+[2/22/2013 9:23:07 PM] <nnehl@live.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/22/2013 9:23:07 PM] <nnehl@live.com> D3Starter: Resuming process 2472
+[2/22/2013 9:23:08 PM] <nnehl@live.com> D3Starter: 1 game instances started! All done!
+[2/22/2013 9:23:08 PM] <nnehl@live.com> Diablo:2472: Found D3 Splash Window (787224)
+[2/22/2013 9:23:15 PM] <nnehl@live.com> Diablo:2472: D3 Splash Window Closed (0)
+[2/22/2013 9:23:15 PM] <nnehl@live.com> Diablo:2472: Found D3 Main Window (852760)
+[2/22/2013 9:23:25 PM] <nnehl@live.com> Diablo:2472: Waiting for process to become ready
+[2/22/2013 9:23:27 PM] <nnehl@live.com> Diablo:2472: Process is ready
+[2/22/2013 9:23:27 PM] <nnehl@live.com> Demonbuddy start delay, waiting 3 seconds
+[2/22/2013 9:23:30 PM] <nnehl@live.com> Current profile: "AllActs_Relogger.xml" Runs:0 Time:0 mintues (E:\Applications\Diablo III\_Profiles\Questing\AllActs_Relogger.xml)
+[2/22/2013 9:23:30 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 9:23:30 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 9:23:30 PM] <nnehl@live.com> Demonbuddy:5492: Waiting for process to become ready
+[2/22/2013 9:23:31 PM] <nnehl@live.com> Diablo:2472: has focus. Bring attached Demonbuddy to front
+[2/22/2013 9:23:31 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (66808)
+[2/22/2013 9:23:31 PM] <nnehl@live.com> Demonbuddy:5492: Process is ready
+[2/22/2013 9:23:31 PM] <nnehl@live.com> Demonbuddy:5492: Waiting for demonbuddy to log into Diablo
+[2/22/2013 9:23:34 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/22/2013 9:23:49 PM] <nnehl@live.com> Demonbuddy:5492: Initialized! We are ready to go
+[2/22/2013 9:23:51 PM] <nnehl@live.com> Diablo:4140: Process is not running
+[2/22/2013 9:23:51 PM] <nnehl@live.com> Killing Agent.exe:6028
+[2/22/2013 9:23:51 PM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/22/2013 9:23:51 PM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/22/2013 9:23:51 PM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/22/2013 9:23:52 PM] <nnehl@live.com> Language set: English (US) : enUS
+[2/22/2013 9:23:52 PM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/22/2013 9:23:52 PM] <nnehl@live.com> D3Starter: Process ID 3240 started.
+[2/22/2013 9:23:52 PM] <nnehl@live.com> D3Starter: Patching process 3240
+[2/22/2013 9:23:52 PM] <nnehl@live.com> D3Starter: Patching file access at address: 81CF4D
+[2/22/2013 9:23:52 PM] <nnehl@live.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/22/2013 9:23:52 PM] <nnehl@live.com> D3Starter: Resuming process 3240
+[2/22/2013 9:23:53 PM] <nnehl@live.com> D3Starter: 1 game instances started! All done!
+[2/22/2013 9:23:53 PM] <nnehl@live.com> Diablo:3240: Found D3 Splash Window (1639182)
+[2/22/2013 9:24:01 PM] <nnehl@live.com> Diablo:3240: D3 Splash Window Closed (0)
+[2/22/2013 9:24:02 PM] <nnehl@live.com> Diablo:3240: Found D3 Main Window (1704718)
+[2/22/2013 9:24:09 PM] <nnehl@live.com> Diablo:3240: Waiting for process to become ready
+[2/22/2013 9:24:12 PM] No need to reposition: 852760
+[2/22/2013 9:24:12 PM] <nnehl@live.com> Diablo:3240: Process is ready
+[2/22/2013 9:24:12 PM] <nnehl@live.com> Demonbuddy start delay, waiting 3 seconds
+[2/22/2013 9:24:15 PM] <nnehl@live.com> Current profile: "GardettosRev2.2RaF_XX_Starter.xml" Runs:0 Time:0 mintues (E:\Applications\Diablo III\_Profiles\Gardetto's Revenge 2.2\GardettosRev2.2RaF_XX_Starter.xml)
+[2/22/2013 9:24:15 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 9:24:15 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 9:24:15 PM] <nnehl@live.com> Demonbuddy:5624: Waiting for process to become ready
+[2/22/2013 9:24:15 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 9:24:16 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (66854)
+[2/22/2013 9:24:16 PM] <nnehl@live.com> Demonbuddy:5624: Process is ready
+[2/22/2013 9:24:16 PM] <nnehl@live.com> Demonbuddy:5624: Waiting for demonbuddy to log into Diablo
+[2/22/2013 9:24:16 PM] <nnehl@live.com> Diablo:3240: has focus. Bring attached Demonbuddy to front
+[2/22/2013 9:24:33 PM] <nnehl@live.com> Demonbuddy:5624: Initialized! We are ready to go
+[2/22/2013 9:24:57 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 9:26:58 PM] <nnehl@live.com> Runs completed 1
+[2/22/2013 9:26:58 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 9:26:59 PM] <nnehl@live.com> Runs completed 1
+[2/22/2013 9:26:59 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 9:27:19 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:27:19 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:27:19 PM] <nnehl@live.com> Demonbuddy:5492: Delayed start failed! (4.046158 seconds overtime)
+[2/22/2013 9:27:19 PM] <nnehl@live.com> Demonbuddy:5624: Delayed start failed! (5.841255 seconds overtime)
+[2/22/2013 9:27:24 PM] <nnehl@live.com> Demonbuddy:5492: Delayed start failed! (8.6134192 seconds overtime)
+[2/22/2013 9:27:37 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:27:37 PM] <nnehl@live.com> Demonbuddy:5624: Delayed start failed! (23.4282609 seconds overtime)
+[2/22/2013 9:27:40 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:27:41 PM] <nnehl@live.com> Demonbuddy:5492: Delayed start failed! (25.219369 seconds overtime)
+[2/22/2013 9:27:53 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:27:53 PM] <nnehl@live.com> Demonbuddy:5624: Delayed start failed! (39.9772074 seconds overtime)
+[2/22/2013 9:27:58 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:27:58 PM] <nnehl@live.com> Demonbuddy:5492: Delayed start failed! (42.8223759 seconds overtime)
+[2/22/2013 9:28:10 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:28:10 PM] <nnehl@live.com> Demonbuddy:5624: Delayed start failed! (56.5201536 seconds overtime)
+[2/22/2013 9:28:14 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:28:15 PM] <nnehl@live.com> Demonbuddy:5492: Delayed start failed! (59.4213253 seconds overtime)
+[2/22/2013 9:28:26 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:28:27 PM] <nnehl@live.com> Demonbuddy:5624: Delayed start failed! (73.0701002 seconds overtime)
+[2/22/2013 9:28:31 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:28:31 PM] <nnehl@live.com> Demonbuddy:5492: Delayed start failed! (76.0242749 seconds overtime)
+[2/22/2013 9:28:41 PM] <nnehl@live.com> Demonbuddy:5492: Delayed start failed! (85.7228296 seconds overtime)
+[2/22/2013 9:28:41 PM] <nnehl@live.com> Demonbuddy:5624: Delayed start failed! (87.5179266 seconds overtime)
+[2/22/2013 9:28:48 PM] ValidConnection: Unable to connect to the remote server
+[2/22/2013 9:28:48 PM] ValidConnection: Unable to connect to the remote server
+[2/22/2013 9:28:48 PM] <nnehl@live.com> Demonbuddy:5624: Delayed start failed! (94.6243331 seconds overtime)
+[2/22/2013 9:28:48 PM] <nnehl@live.com> Demonbuddy:5492: Delayed start failed! (92.8492372 seconds overtime)
+[2/22/2013 9:28:52 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:28:53 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:28:53 PM] <nnehl@live.com> Demonbuddy:5624: Delayed start failed! (99.2005948 seconds overtime)
+[2/22/2013 9:28:53 PM] <nnehl@live.com> Demonbuddy:5492: Delayed start failed! (97.5085037 seconds overtime)
+[2/22/2013 9:28:57 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:28:57 PM] <nnehl@live.com> Demonbuddy:5624: Delayed start failed! (103.7508551 seconds overtime)
+[2/22/2013 9:28:57 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:28:58 PM] <nnehl@live.com> Demonbuddy:5492: Delayed start failed! (102.2067725 seconds overtime)
+[2/22/2013 9:29:02 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:29:02 PM] <nnehl@live.com> Demonbuddy:5624: Delayed start failed! (108.3501181 seconds overtime)
+[2/22/2013 9:29:02 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:29:02 PM] <nnehl@live.com> Demonbuddy:5492: Delayed start failed! (106.9210421 seconds overtime)
+[2/22/2013 9:29:06 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:29:06 PM] <nnehl@live.com> Demonbuddy:5624: Delayed start failed! (112.9723825 seconds overtime)
+[2/22/2013 9:29:07 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:29:07 PM] <nnehl@live.com> Demonbuddy:5492: Delayed start failed! (111.6293114 seconds overtime)
+[2/22/2013 9:29:11 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:29:11 PM] <nnehl@live.com> Demonbuddy:5624: Delayed start failed! (117.5906467 seconds overtime)
+[2/22/2013 9:29:11 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:29:12 PM] <nnehl@live.com> Demonbuddy:5492: Delayed start failed! (116.3285802 seconds overtime)
+[2/22/2013 9:29:13 PM] <nnehl@live.com> Demonbuddy:5492: Process is not running
+[2/22/2013 9:29:13 PM] <nnehl@live.com> Demonbuddy:5492: Found matching log: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Logs\5492 2013-02-22 21.23.txt
+[2/22/2013 9:29:13 PM] <nnehl@live.com> Found login time: 2/23/2013 2:23:32 AM
+[2/22/2013 9:29:13 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 9:29:13 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 9:29:13 PM] <nnehl@live.com> Demonbuddy:5228: Waiting for process to become ready
+[2/22/2013 9:29:14 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (132344)
+[2/22/2013 9:29:14 PM] <nnehl@live.com> Demonbuddy:5228: Process is ready
+[2/22/2013 9:29:14 PM] <nnehl@live.com> Demonbuddy:5228: Waiting for demonbuddy to log into Diablo
+[2/22/2013 9:29:15 PM] ValidConnection: The remote name could not be resolved: 'checkip.dyndns.org'
+[2/22/2013 9:29:16 PM] <nnehl@live.com> Demonbuddy:5624: Delayed start failed! (122.1959101 seconds overtime)
+[2/22/2013 9:32:14 PM] <nnehl@live.com> Demonbuddy:5228: Failed to initialize 1/3
+[2/22/2013 9:32:14 PM] <nnehl@live.com> Demonbuddy:5228: Forced to close!
+[2/22/2013 9:32:14 PM] <nnehl@live.com> Demonbuddy:5228: Found matching log: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Logs\5228 2013-02-22 21.29.txt
+[2/22/2013 9:32:14 PM] <nnehl@live.com> Demonbuddy:5228: Failed to find login time
+[2/22/2013 9:32:14 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 9:32:14 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 9:32:14 PM] <nnehl@live.com> Demonbuddy:6312: Waiting for process to become ready
+[2/22/2013 9:32:15 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (263422)
+[2/22/2013 9:32:15 PM] <nnehl@live.com> Demonbuddy:6312: Process is ready
+[2/22/2013 9:32:15 PM] <nnehl@live.com> Demonbuddy:6312: Waiting for demonbuddy to log into Diablo
+[2/22/2013 9:33:24 PM] <nnehl@live.com> Demonbuddy:6312: Failed to initialize 2/3
+[2/22/2013 9:33:24 PM] <nnehl@live.com> Demonbuddy:6312: Found matching log: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Logs\6312 2013-02-22 21.32.txt
+[2/22/2013 9:33:24 PM] <nnehl@live.com> Demonbuddy:6312: Failed to find login time
+[2/22/2013 9:33:24 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 9:33:24 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 9:33:24 PM] <nnehl@live.com> Demonbuddy:5296: Waiting for process to become ready
+[2/22/2013 9:33:24 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (263434)
+[2/22/2013 9:33:24 PM] <nnehl@live.com> Demonbuddy:5296: Process is ready
+[2/22/2013 9:33:24 PM] <nnehl@live.com> Demonbuddy:5296: Waiting for demonbuddy to log into Diablo
+[2/22/2013 9:36:24 PM] <nnehl@live.com> Demonbuddy:5296: Failed to initialize 3/3
+[2/22/2013 9:36:24 PM] <nnehl@live.com> Demonbuddy:5296: Forced to close!
+[2/22/2013 9:36:24 PM] <nnehl@live.com> Demonbuddy:5296: Found matching log: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Logs\5296 2013-02-22 21.33.txt
+[2/22/2013 9:36:25 PM] <nnehl@live.com> Demonbuddy:5296: Failed to find login time
+[2/22/2013 9:36:25 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 9:36:25 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 9:36:25 PM] <nnehl@live.com> Demonbuddy:3688: Waiting for process to become ready
+[2/22/2013 9:36:25 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (328966)
+[2/22/2013 9:36:25 PM] <nnehl@live.com> Demonbuddy:3688: Process is ready
+[2/22/2013 9:36:25 PM] <nnehl@live.com> Demonbuddy:3688: Waiting for demonbuddy to log into Diablo
+[2/22/2013 9:39:25 PM] <nnehl@live.com> Demonbuddy:3688: Failed to initialize more than 3 times
+[2/22/2013 9:39:25 PM] <nnehl@live.com> Stopping
+[2/22/2013 9:39:25 PM] <nnehl@live.com> Diablo:2472: Kill process
+[2/22/2013 9:39:25 PM] <nnehl@live.com> Demonbuddy:3688: Failed to close! kill process
+[2/22/2013 9:39:26 PM] <nnehl@live.com> Demonbuddy:5624: Process is not running
+[2/22/2013 9:39:26 PM] <nnehl@live.com> Demonbuddy:5624: Found matching log: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Logs\5624 2013-02-22 21.24.txt
+[2/22/2013 9:39:26 PM] <nnehl@live.com> Found login time: 2/23/2013 2:24:16 AM
+[2/22/2013 9:39:26 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 9:39:26 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 9:39:26 PM] <nnehl@live.com> Demonbuddy:4712: Waiting for process to become ready
+[2/22/2013 9:39:27 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (394508)
+[2/22/2013 9:39:27 PM] <nnehl@live.com> Demonbuddy:4712: Process is ready
+[2/22/2013 9:39:27 PM] <nnehl@live.com> Demonbuddy:4712: Waiting for demonbuddy to log into Diablo
+[2/22/2013 9:42:27 PM] <nnehl@live.com> Demonbuddy:4712: Failed to initialize 1/3
+[2/22/2013 9:42:27 PM] <nnehl@live.com> Demonbuddy:4712: Forced to close!
+[2/22/2013 9:42:27 PM] <nnehl@live.com> Demonbuddy:4712: Found matching log: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Logs\4712 2013-02-22 21.39.txt
+[2/22/2013 9:42:27 PM] <nnehl@live.com> Demonbuddy:4712: Failed to find login time
+[2/22/2013 9:42:27 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 9:42:27 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 9:42:27 PM] <nnehl@live.com> Demonbuddy:6480: Waiting for process to become ready
+[2/22/2013 9:42:28 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (329036)
+[2/22/2013 9:42:28 PM] <nnehl@live.com> Demonbuddy:6480: Process is ready
+[2/22/2013 9:42:28 PM] <nnehl@live.com> Demonbuddy:6480: Waiting for demonbuddy to log into Diablo
+[2/22/2013 9:45:28 PM] <nnehl@live.com> Demonbuddy:6480: Failed to initialize 2/3
+[2/22/2013 9:45:28 PM] <nnehl@live.com> Demonbuddy:6480: Forced to close!
+[2/22/2013 9:45:28 PM] <nnehl@live.com> Demonbuddy:6480: Found matching log: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Logs\6480 2013-02-22 21.42.txt
+[2/22/2013 9:45:28 PM] <nnehl@live.com> Demonbuddy:6480: Failed to find login time
+[2/22/2013 9:45:28 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 9:45:28 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 9:45:28 PM] <nnehl@live.com> Demonbuddy:2924: Waiting for process to become ready
+[2/22/2013 9:45:28 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (394568)
+[2/22/2013 9:45:28 PM] <nnehl@live.com> Demonbuddy:2924: Process is ready
+[2/22/2013 9:45:28 PM] <nnehl@live.com> Demonbuddy:2924: Waiting for demonbuddy to log into Diablo
+[2/22/2013 9:48:29 PM] <nnehl@live.com> Demonbuddy:2924: Failed to initialize 3/3
+[2/22/2013 9:48:29 PM] <nnehl@live.com> Demonbuddy:2924: Forced to close!
+[2/22/2013 9:48:29 PM] <nnehl@live.com> Demonbuddy:2924: Found matching log: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Logs\2924 2013-02-22 21.45.txt
+[2/22/2013 9:48:29 PM] <nnehl@live.com> Demonbuddy:2924: Failed to find login time
+[2/22/2013 9:48:29 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 9:48:29 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 9:48:29 PM] <nnehl@live.com> Demonbuddy:6184: Waiting for process to become ready
+[2/22/2013 9:48:29 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (460104)
+[2/22/2013 9:48:29 PM] <nnehl@live.com> Demonbuddy:6184: Process is ready
+[2/22/2013 9:48:29 PM] <nnehl@live.com> Demonbuddy:6184: Waiting for demonbuddy to log into Diablo
+[2/22/2013 9:51:29 PM] <nnehl@live.com> Demonbuddy:6184: Failed to initialize more than 3 times
+[2/22/2013 9:51:29 PM] <nnehl@live.com> Stopping
+[2/22/2013 9:51:29 PM] <nnehl@live.com> Diablo:3240: Kill process
+[2/22/2013 9:51:29 PM] <nnehl@live.com> Demonbuddy:6184: Failed to close! kill process
+[2/22/2013 10:02:50 PM] <stephen.poole@hotmail.com> Stopping
+[2/22/2013 10:02:50 PM] <stephen.poole@hotmail.com> Stopping
+[2/22/2013 10:02:50 PM] <nnehl@live.com> Stopping
+[2/22/2013 10:02:50 PM] <nnehl@live.com> Stopping
+[2/22/2013 10:02:50 PM] Relogger Thread Starting!
+[2/22/2013 10:05:27 PM] <nnehl@live.com> We are scheduled to start
+[2/22/2013 10:05:27 PM] <nnehl@live.com> Next scheduled stop: 22/2 23:6
+[2/22/2013 10:05:27 PM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/22/2013 10:05:27 PM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/22/2013 10:05:27 PM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/22/2013 10:05:28 PM] <nnehl@live.com> Language set: English (US) : enUS
+[2/22/2013 10:05:28 PM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/22/2013 10:05:28 PM] <nnehl@live.com> D3Starter: Process ID 5444 started.
+[2/22/2013 10:05:28 PM] <nnehl@live.com> D3Starter: Patching process 5444
+[2/22/2013 10:05:28 PM] <nnehl@live.com> D3Starter: Patching file access at address: 81CF4D
+[2/22/2013 10:05:28 PM] <nnehl@live.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/22/2013 10:05:28 PM] <nnehl@live.com> D3Starter: Resuming process 5444
+[2/22/2013 10:05:30 PM] <nnehl@live.com> D3Starter: 1 game instances started! All done!
+[2/22/2013 10:05:30 PM] <nnehl@live.com> Diablo:5444: Found D3 Splash Window (394104)
+[2/22/2013 10:05:35 PM] <nnehl@live.com> Diablo:5444: D3 Splash Window Closed (0)
+[2/22/2013 10:05:36 PM] <nnehl@live.com> Diablo:5444: Found D3 Main Window (459640)
+[2/22/2013 10:05:38 PM] <nnehl@live.com> Diablo:5444: Waiting for process to become ready
+[2/22/2013 10:05:40 PM] AutoPosition Failed to get window rectangle (852760)
+[2/22/2013 10:05:40 PM] <nnehl@live.com> Diablo:5444: Process is ready
+[2/22/2013 10:05:40 PM] <nnehl@live.com> Demonbuddy start delay, waiting 3 seconds
+[2/22/2013 10:05:43 PM] <nnehl@live.com> Demonbuddy:6184: Found matching log: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Logs\6184 2013-02-22 21.48.txt
+[2/22/2013 10:05:43 PM] <nnehl@live.com> Demonbuddy:6184: Failed to find login time
+[2/22/2013 10:05:43 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 10:05:43 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 10:05:43 PM] <nnehl@live.com> Demonbuddy:6368: Waiting for process to become ready
+[2/22/2013 10:05:44 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (328998)
+[2/22/2013 10:05:44 PM] <nnehl@live.com> Demonbuddy:6368: Process is ready
+[2/22/2013 10:05:44 PM] <nnehl@live.com> Demonbuddy:6368: Waiting for demonbuddy to log into Diablo
+[2/22/2013 10:05:58 PM] <nnehl@live.com> Demonbuddy:6368: Initialized! We are ready to go
+[2/22/2013 10:05:58 PM] <nnehl@live.com> We are scheduled to start
+[2/22/2013 10:05:58 PM] <nnehl@live.com> Next scheduled stop: 22/2 23:0
+[2/22/2013 10:05:58 PM] <nnehl@live.com> Killing Agent.exe:896
+[2/22/2013 10:05:58 PM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/22/2013 10:05:58 PM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/22/2013 10:05:58 PM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/22/2013 10:05:59 PM] <nnehl@live.com> Language set: English (US) : enUS
+[2/22/2013 10:05:59 PM] <nnehl@live.com> Region set: Europe : eu.actual.battle.net
+[2/22/2013 10:05:59 PM] <nnehl@live.com> D3Starter: Process ID 4100 started.
+[2/22/2013 10:05:59 PM] <nnehl@live.com> D3Starter: Patching process 4100
+[2/22/2013 10:05:59 PM] <nnehl@live.com> D3Starter: Patching file access at address: 81CF4D
+[2/22/2013 10:05:59 PM] <nnehl@live.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/22/2013 10:05:59 PM] <nnehl@live.com> D3Starter: Resuming process 4100
+[2/22/2013 10:06:00 PM] <nnehl@live.com> D3Starter: 1 game instances started! All done!
+[2/22/2013 10:06:00 PM] <nnehl@live.com> Diablo:4100: Found D3 Splash Window (591214)
+[2/22/2013 10:06:06 PM] <nnehl@live.com> Diablo:4100: D3 Splash Window Closed (0)
+[2/22/2013 10:06:06 PM] <nnehl@live.com> Diablo:4100: Found D3 Main Window (656750)
+[2/22/2013 10:06:08 PM] <nnehl@live.com> Diablo:4100: Waiting for process to become ready
+[2/22/2013 10:06:09 PM] <nnehl@live.com> Diablo:5444: has focus. Bring attached Demonbuddy to front
+[2/22/2013 10:06:10 PM] No need to reposition: 459640
+[2/22/2013 10:06:11 PM] <nnehl@live.com> Diablo:4100: Process is ready
+[2/22/2013 10:06:11 PM] <nnehl@live.com> Demonbuddy start delay, waiting 3 seconds
+[2/22/2013 10:06:12 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/22/2013 10:06:14 PM] <nnehl@live.com> Demonbuddy:3688: Found matching log: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Logs\3688 2013-02-22 21.36.txt
+[2/22/2013 10:06:14 PM] <nnehl@live.com> Demonbuddy:3688: Failed to find login time
+[2/22/2013 10:06:14 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 10:06:14 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 10:06:14 PM] <nnehl@live.com> Demonbuddy:2420: Waiting for process to become ready
+[2/22/2013 10:06:14 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (263600)
+[2/22/2013 10:06:14 PM] <nnehl@live.com> Demonbuddy:2420: Process is ready
+[2/22/2013 10:06:14 PM] <nnehl@live.com> Demonbuddy:2420: Waiting for demonbuddy to log into Diablo
+[2/22/2013 10:06:22 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 10:06:23 PM] <nnehl@live.com> Diablo:5444: has focus. Bring attached Demonbuddy to front
+[2/22/2013 10:06:26 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/22/2013 10:06:28 PM] <nnehl@live.com> Demonbuddy:2420: Initialized! We are ready to go
+[2/22/2013 10:06:48 PM] <nnehl@live.com> Diablo:5444: has focus. Bring attached Demonbuddy to front
+[2/22/2013 10:06:51 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/22/2013 10:06:52 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 10:07:02 PM] <nnehl@live.com> Diablo:4100: has focus. Bring attached Demonbuddy to front
+[2/22/2013 10:07:05 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/22/2013 10:12:20 PM] <nnehl@live.com> Diablo:5444: has focus. Bring attached Demonbuddy to front
+[2/22/2013 10:12:23 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/22/2013 10:12:32 PM] <nnehl@live.com> Stopping
+[2/22/2013 10:12:39 PM] <stephen.poole@hotmail.com> Stopping
+[2/22/2013 10:12:39 PM] <stephen.poole@hotmail.com> Stopping
+[2/22/2013 10:12:39 PM] <nnehl@live.com> Stopping
+[2/22/2013 10:12:39 PM] <nnehl@live.com> Diablo:5444: Kill process
+[2/22/2013 10:12:39 PM] <nnehl@live.com> Demonbuddy:6368: Failed to close! kill process
+[2/22/2013 10:12:39 PM] <nnehl@live.com> Stopping
+[2/22/2013 10:12:39 PM] Relogger Thread Starting!
+[2/22/2013 10:13:00 PM] Closed!

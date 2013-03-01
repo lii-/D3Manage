@@ -1,0 +1,926 @@
+[2/21/2013 10:11:54 AM] Relogger Thread Starting!
+[2/21/2013 10:11:54 AM] Yet Another Relogger Version 0.1.9.2
+[2/21/2013 10:11:54 AM] ## Loading Hotkeys ##
+[2/21/2013 10:11:54 AM] Register hotkey: RePositionAll - Alt+Control+Q
+[2/21/2013 10:11:54 AM] Register hotkey: FullscreenCurrentWindow - Alt+Control+W
+[2/21/2013 10:11:58 AM] <stephen.poole@hotmail.com> We are scheduled to start
+[2/21/2013 10:11:58 AM] <stephen.poole@hotmail.com> Next scheduled stop: 21/2 13:35
+[2/21/2013 10:11:58 AM] <stephen.poole@hotmail.com> Killing Agent.exe:2600
+[2/21/2013 10:11:58 AM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/21/2013 10:11:58 AM] <stephen.poole@hotmail.com> Replacing D3Prefs for user: Stephen
+[2/21/2013 10:11:58 AM] <stephen.poole@hotmail.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/21/2013 10:11:59 AM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+[2/21/2013 10:11:59 AM] <stephen.poole@hotmail.com> Region set: America : us.actual.battle.net
+[2/21/2013 10:11:59 AM] <stephen.poole@hotmail.com> D3Starter: Process ID 3284 started.
+[2/21/2013 10:11:59 AM] <stephen.poole@hotmail.com> D3Starter: Patching process 3284
+[2/21/2013 10:11:59 AM] <stephen.poole@hotmail.com> D3Starter: Patching file access at address: 81CF4D
+[2/21/2013 10:11:59 AM] <stephen.poole@hotmail.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/21/2013 10:11:59 AM] <stephen.poole@hotmail.com> D3Starter: Resuming process 3284
+[2/21/2013 10:12:00 AM] <stephen.poole@hotmail.com> D3Starter: 1 game instances started! All done!
+[2/21/2013 10:12:00 AM] <stephen.poole@hotmail.com> Diablo:3284: Found D3 Splash Window (1314814)
+[2/21/2013 10:12:06 AM] <stephen.poole@hotmail.com> Diablo:3284: D3 Splash Window Closed (0)
+[2/21/2013 10:12:06 AM] <stephen.poole@hotmail.com> Diablo:3284: Found D3 Main Window (1380350)
+[2/21/2013 10:12:08 AM] <stephen.poole@hotmail.com> Diablo:3284: Waiting for process to become ready
+[2/21/2013 10:12:10 AM] <stephen.poole@hotmail.com> Diablo:3284: Process is ready
+[2/21/2013 10:12:10 AM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 3 seconds
+[2/21/2013 10:12:13 AM] <stephen.poole@hotmail.com> Current profile: "GardettosRev2.2RaF_XX_Starter.xml" Runs:1 Time:0 mintues (E:\Applications\Diablo III\_Profiles\Gardetto's Revenge 2.2\GardettosRev2.2RaF_XX_Starter.xml)
+[2/21/2013 10:12:13 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 10:12:13 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 10:12:13 AM] <stephen.poole@hotmail.com> Demonbuddy:2632: Waiting for process to become ready
+[2/21/2013 10:12:14 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (7080452)
+[2/21/2013 10:12:14 AM] <stephen.poole@hotmail.com> ManualPosition window:7080452: X:1921 Y:0 W:50 H:50
+[2/21/2013 10:12:14 AM] <stephen.poole@hotmail.com> Demonbuddy:2632: Process is ready
+[2/21/2013 10:12:14 AM] <stephen.poole@hotmail.com> Demonbuddy:2632: Waiting for demonbuddy to log into Diablo
+[2/21/2013 10:12:27 AM] <stephen.poole@hotmail.com> Demonbuddy:2632: Initialized! We are ready to go
+[2/21/2013 10:12:27 AM] <stephen.poole@hotmail.com> We are scheduled to start
+[2/21/2013 10:12:27 AM] <stephen.poole@hotmail.com> Next scheduled stop: 21/2 14:12
+[2/21/2013 10:12:27 AM] <stephen.poole@hotmail.com> Killing Agent.exe:5788
+[2/21/2013 10:12:27 AM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/21/2013 10:12:27 AM] <stephen.poole@hotmail.com> Replacing D3Prefs for user: Stephen
+[2/21/2013 10:12:27 AM] <stephen.poole@hotmail.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/21/2013 10:12:28 AM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+[2/21/2013 10:12:28 AM] <stephen.poole@hotmail.com> Region set: Europe : eu.actual.battle.net
+[2/21/2013 10:12:28 AM] <stephen.poole@hotmail.com> D3Starter: Process ID 1172 started.
+[2/21/2013 10:12:28 AM] <stephen.poole@hotmail.com> D3Starter: Patching process 1172
+[2/21/2013 10:12:28 AM] <stephen.poole@hotmail.com> D3Starter: Patching file access at address: 81CF4D
+[2/21/2013 10:12:28 AM] <stephen.poole@hotmail.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/21/2013 10:12:28 AM] <stephen.poole@hotmail.com> D3Starter: Resuming process 1172
+[2/21/2013 10:12:30 AM] <stephen.poole@hotmail.com> D3Starter: 1 game instances started! All done!
+[2/21/2013 10:12:30 AM] <stephen.poole@hotmail.com> Diablo:1172: Found D3 Splash Window (920454)
+[2/21/2013 10:12:36 AM] <stephen.poole@hotmail.com> Diablo:1172: D3 Splash Window Closed (0)
+[2/21/2013 10:12:36 AM] <stephen.poole@hotmail.com> Diablo:1172: Found D3 Main Window (985990)
+[2/21/2013 10:12:38 AM] <stephen.poole@hotmail.com> Diablo:1172: Waiting for process to become ready
+[2/21/2013 10:12:40 AM] No need to reposition: 1380350
+[2/21/2013 10:12:40 AM] <stephen.poole@hotmail.com> Diablo:1172: Process is ready
+[2/21/2013 10:12:40 AM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 3 seconds
+[2/21/2013 10:12:43 AM] <stephen.poole@hotmail.com> Current profile: "AllActs_Relogger.xml" Runs:0 Time:0 mintues (E:\Applications\Diablo III\_Profiles\Questing\AllActs_Relogger.xml)
+[2/21/2013 10:12:43 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 10:12:43 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 10:12:43 AM] <stephen.poole@hotmail.com> Demonbuddy:6080: Waiting for process to become ready
+[2/21/2013 10:12:44 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (7473624)
+[2/21/2013 10:12:44 AM] <stephen.poole@hotmail.com> Demonbuddy:6080: Process is ready
+[2/21/2013 10:12:44 AM] <stephen.poole@hotmail.com> Demonbuddy:6080: Waiting for demonbuddy to log into Diablo
+[2/21/2013 10:12:51 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 10:12:58 AM] <stephen.poole@hotmail.com> Demonbuddy:6080: Initialized! We are ready to go
+[2/21/2013 10:13:59 AM] <stephen.poole@hotmail.com> Demonbuddy:6080: is not pulsing while it should to (60 seconds)
+[2/21/2013 10:13:59 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 10:17:30 AM] <stephen.poole@hotmail.com> Demonbuddy:6080: is stopped to long for a unknown reason (30 seconds)
+[2/21/2013 10:18:16 AM] <stephen.poole@hotmail.com> Stopping
+[2/21/2013 10:18:16 AM] <stephen.poole@hotmail.com> Diablo:1172: Kill process
+[2/21/2013 10:18:16 AM] <stephen.poole@hotmail.com> Demonbuddy:6080: Waiting to close
+[2/21/2013 10:18:17 AM] <stephen.poole@hotmail.com> Demonbuddy:6080: Closed.
+[2/21/2013 10:18:19 AM] <stephen.poole@hotmail.com> We are scheduled to start
+[2/21/2013 10:18:19 AM] <stephen.poole@hotmail.com> Next scheduled stop: 21/2 14:5
+[2/21/2013 10:18:19 AM] <stephen.poole@hotmail.com> Killing Agent.exe:8688
+[2/21/2013 10:18:19 AM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/21/2013 10:18:19 AM] <stephen.poole@hotmail.com> Replacing D3Prefs for user: Stephen
+[2/21/2013 10:18:19 AM] <stephen.poole@hotmail.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/21/2013 10:18:20 AM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+[2/21/2013 10:18:20 AM] <stephen.poole@hotmail.com> Region set: Europe : eu.actual.battle.net
+[2/21/2013 10:18:20 AM] <stephen.poole@hotmail.com> D3Starter: Process ID 4944 started.
+[2/21/2013 10:18:20 AM] <stephen.poole@hotmail.com> D3Starter: Patching process 4944
+[2/21/2013 10:18:20 AM] <stephen.poole@hotmail.com> D3Starter: Patching file access at address: 81CF4D
+[2/21/2013 10:18:20 AM] <stephen.poole@hotmail.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/21/2013 10:18:20 AM] <stephen.poole@hotmail.com> D3Starter: Resuming process 4944
+[2/21/2013 10:18:22 AM] <stephen.poole@hotmail.com> D3Starter: 1 game instances started! All done!
+[2/21/2013 10:18:22 AM] <stephen.poole@hotmail.com> Diablo:4944: Found D3 Splash Window (1315248)
+[2/21/2013 10:18:27 AM] <stephen.poole@hotmail.com> Diablo:4944: D3 Splash Window Closed (0)
+[2/21/2013 10:18:28 AM] <stephen.poole@hotmail.com> Diablo:4944: Found D3 Main Window (1380784)
+[2/21/2013 10:18:30 AM] <stephen.poole@hotmail.com> Diablo:4944: Waiting for process to become ready
+[2/21/2013 10:18:32 AM] No need to reposition: 1380350
+[2/21/2013 10:18:32 AM] <stephen.poole@hotmail.com> Diablo:4944: Process is ready
+[2/21/2013 10:18:32 AM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 3 seconds
+[2/21/2013 10:18:35 AM] <stephen.poole@hotmail.com> Demonbuddy:6080: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com EU\demonbuddy\Logs\6080 2013-02-21 10.12.txt
+[2/21/2013 10:18:36 AM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 3:12:44 PM
+[2/21/2013 10:18:39 AM] <stephen.poole@hotmail.com> BuddyAuth: No session found.
+[2/21/2013 10:18:39 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 10:18:39 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 10:18:39 AM] <stephen.poole@hotmail.com> Demonbuddy:3868: Waiting for process to become ready
+[2/21/2013 10:18:40 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (1968472)
+[2/21/2013 10:18:40 AM] <stephen.poole@hotmail.com> Demonbuddy:3868: Process is ready
+[2/21/2013 10:18:40 AM] <stephen.poole@hotmail.com> Demonbuddy:3868: Waiting for demonbuddy to log into Diablo
+[2/21/2013 10:18:54 AM] <stephen.poole@hotmail.com> Demonbuddy:3868: Initialized! We are ready to go
+[2/21/2013 10:19:13 AM] Editing bot: nnehl@live.com
+[2/21/2013 10:19:17 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 10:19:28 AM] Editing bot: nnehl@live.com
+[2/21/2013 10:19:38 AM] Editing bot: nnehl@live.com
+[2/21/2013 10:19:50 AM] Editing bot: stephen.poole@hotmail.com
+[2/21/2013 10:19:51 AM] <stephen.poole@hotmail.com> Diablo:4944: Is unresponsive for more than 60 seconds
+[2/21/2013 10:19:51 AM] <stephen.poole@hotmail.com> Diablo:4944: Killing process
+[2/21/2013 10:19:51 AM] <stephen.poole@hotmail.com> Diablo:4944: Process is not running
+[2/21/2013 10:19:51 AM] <stephen.poole@hotmail.com> Demonbuddy:3868: Closing db
+[2/21/2013 10:19:51 AM] <stephen.poole@hotmail.com> Demonbuddy:3868: Waiting to close
+[2/21/2013 10:19:52 AM] <stephen.poole@hotmail.com> Demonbuddy:3868: Closed.
+[2/21/2013 10:19:52 AM] <stephen.poole@hotmail.com> Killing Agent.exe:6428
+[2/21/2013 10:19:52 AM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/21/2013 10:19:52 AM] <stephen.poole@hotmail.com> Replacing D3Prefs for user: Stephen
+[2/21/2013 10:19:52 AM] <stephen.poole@hotmail.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/21/2013 10:19:53 AM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+[2/21/2013 10:19:53 AM] <stephen.poole@hotmail.com> Region set: Europe : eu.actual.battle.net
+[2/21/2013 10:19:53 AM] <stephen.poole@hotmail.com> D3Starter: Process ID 2240 started.
+[2/21/2013 10:19:53 AM] <stephen.poole@hotmail.com> D3Starter: Patching process 2240
+[2/21/2013 10:19:53 AM] <stephen.poole@hotmail.com> D3Starter: Patching file access at address: 81CF4D
+[2/21/2013 10:19:53 AM] <stephen.poole@hotmail.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/21/2013 10:19:53 AM] <stephen.poole@hotmail.com> D3Starter: Resuming process 2240
+[2/21/2013 10:19:55 AM] <stephen.poole@hotmail.com> D3Starter: 1 game instances started! All done!
+[2/21/2013 10:19:55 AM] <stephen.poole@hotmail.com> Diablo:2240: Found D3 Splash Window (6358332)
+[2/21/2013 10:20:00 AM] <stephen.poole@hotmail.com> Diablo:2240: D3 Splash Window Closed (0)
+[2/21/2013 10:20:01 AM] <stephen.poole@hotmail.com> Diablo:2240: Found D3 Main Window (6423868)
+[2/21/2013 10:20:02 AM] <stephen.poole@hotmail.com> Diablo:2240: Waiting for process to become ready
+[2/21/2013 10:20:05 AM] No need to reposition: 1380350
+[2/21/2013 10:20:05 AM] <stephen.poole@hotmail.com> Diablo:2240: Process is ready
+[2/21/2013 10:20:05 AM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 3 seconds
+[2/21/2013 10:20:08 AM] <stephen.poole@hotmail.com> Demonbuddy:3868: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com EU\demonbuddy\Logs\3868 2013-02-21 10.18.txt
+[2/21/2013 10:20:08 AM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 3:18:40 PM
+[2/21/2013 10:20:09 AM] <stephen.poole@hotmail.com> BuddyAuth: No session found.
+[2/21/2013 10:20:09 AM] <stephen.poole@hotmail.com> Current profile: "AllActs_Relogger.xml" Runs:0 Time:0 mintues (E:\Applications\Diablo III\_Profiles\Questing\AllActs_Relogger.xml)
+[2/21/2013 10:20:09 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 10:20:09 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 10:20:09 AM] <stephen.poole@hotmail.com> Demonbuddy:6316: Waiting for process to become ready
+[2/21/2013 10:20:10 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (2494174)
+[2/21/2013 10:20:10 AM] <stephen.poole@hotmail.com> Demonbuddy:6316: Process is ready
+[2/21/2013 10:20:10 AM] <stephen.poole@hotmail.com> Demonbuddy:6316: Waiting for demonbuddy to log into Diablo
+[2/21/2013 10:20:13 AM] <nnehl@live.com> Stopping
+[2/21/2013 10:20:14 AM] <nnehl@live.com> Stopping
+[2/21/2013 10:20:24 AM] <stephen.poole@hotmail.com> Demonbuddy:6316: Initialized! We are ready to go
+[2/21/2013 10:20:30 AM] <stephen.poole@hotmail.com> Stopping
+[2/21/2013 10:20:30 AM] <stephen.poole@hotmail.com> Diablo:3284: Kill process
+[2/21/2013 10:20:30 AM] <stephen.poole@hotmail.com> Demonbuddy:2632: Failed to close! kill process
+[2/21/2013 10:20:30 AM] <stephen.poole@hotmail.com> Stopping
+[2/21/2013 10:20:30 AM] <stephen.poole@hotmail.com> Diablo:2240: Kill process
+[2/21/2013 10:20:30 AM] <stephen.poole@hotmail.com> Demonbuddy:6316: Failed to close! kill process
+[2/21/2013 10:20:30 AM] <nnehl@live.com> Stopping
+[2/21/2013 10:20:30 AM] <nnehl@live.com> Stopping
+[2/21/2013 10:20:30 AM] Relogger Thread Starting!
+[2/21/2013 10:20:31 AM] <stephen.poole@hotmail.com> We are scheduled to start
+[2/21/2013 10:20:31 AM] <stephen.poole@hotmail.com> Next scheduled stop: 21/2 14:0
+[2/21/2013 10:20:31 AM] <stephen.poole@hotmail.com> Killing Agent.exe:6644
+[2/21/2013 10:20:31 AM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/21/2013 10:20:31 AM] <stephen.poole@hotmail.com> Replacing D3Prefs for user: Stephen
+[2/21/2013 10:20:31 AM] <stephen.poole@hotmail.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/21/2013 10:20:32 AM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+[2/21/2013 10:20:32 AM] <stephen.poole@hotmail.com> Region set: Europe : eu.actual.battle.net
+[2/21/2013 10:20:32 AM] <stephen.poole@hotmail.com> D3Starter: Process ID 3652 started.
+[2/21/2013 10:20:32 AM] <stephen.poole@hotmail.com> D3Starter: Patching process 3652
+[2/21/2013 10:20:32 AM] <stephen.poole@hotmail.com> D3Starter: Patching file access at address: 81CF4D
+[2/21/2013 10:20:32 AM] <stephen.poole@hotmail.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/21/2013 10:20:32 AM] <stephen.poole@hotmail.com> D3Starter: Resuming process 3652
+[2/21/2013 10:20:34 AM] <stephen.poole@hotmail.com> D3Starter: 1 game instances started! All done!
+[2/21/2013 10:20:34 AM] <stephen.poole@hotmail.com> Diablo:3652: Found D3 Splash Window (1971392)
+[2/21/2013 10:20:39 AM] <stephen.poole@hotmail.com> Diablo:3652: D3 Splash Window Closed (0)
+[2/21/2013 10:20:40 AM] <stephen.poole@hotmail.com> Diablo:3652: Found D3 Main Window (2036928)
+[2/21/2013 10:20:41 AM] <stephen.poole@hotmail.com> Diablo:3652: Waiting for process to become ready
+[2/21/2013 10:20:43 AM] AutoPosition Failed to get window rectangle (1380350)
+[2/21/2013 10:20:44 AM] <stephen.poole@hotmail.com> Diablo:3652: Process is ready
+[2/21/2013 10:20:44 AM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 3 seconds
+[2/21/2013 10:20:47 AM] <stephen.poole@hotmail.com> Demonbuddy:6316: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com EU\demonbuddy\Logs\6316 2013-02-21 10.20.txt
+[2/21/2013 10:20:47 AM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 3:20:10 PM
+[2/21/2013 10:20:48 AM] <stephen.poole@hotmail.com> BuddyAuth: No session found.
+[2/21/2013 10:20:48 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 10:20:48 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 10:20:48 AM] <stephen.poole@hotmail.com> Demonbuddy:6592: Waiting for process to become ready
+[2/21/2013 10:20:48 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (22676356)
+[2/21/2013 10:20:48 AM] <stephen.poole@hotmail.com> Demonbuddy:6592: Process is ready
+[2/21/2013 10:20:48 AM] <stephen.poole@hotmail.com> Demonbuddy:6592: Waiting for demonbuddy to log into Diablo
+[2/21/2013 10:20:48 AM] <stephen.poole@hotmail.com> Diablo:3652: has focus. Bring attached Demonbuddy to front
+[2/21/2013 10:23:48 AM] <stephen.poole@hotmail.com> Demonbuddy:6592: Failed to initialize 1/3
+[2/21/2013 10:23:48 AM] <stephen.poole@hotmail.com> Demonbuddy:6592: Forced to close!
+[2/21/2013 10:23:48 AM] <stephen.poole@hotmail.com> Demonbuddy:6592: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com EU\demonbuddy\Logs\6592 2013-02-21 10.20.txt
+[2/21/2013 10:25:38 AM] <stephen.poole@hotmail.com> Demonbuddy:6592: Failed to find login time
+[2/21/2013 10:25:38 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 10:25:38 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 10:25:38 AM] <stephen.poole@hotmail.com> Demonbuddy:7272: Waiting for process to become ready
+[2/21/2013 10:25:38 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (6554940)
+[2/21/2013 10:25:38 AM] <stephen.poole@hotmail.com> Demonbuddy:7272: Process is ready
+[2/21/2013 10:25:38 AM] <stephen.poole@hotmail.com> Demonbuddy:7272: Waiting for demonbuddy to log into Diablo
+[2/21/2013 10:25:53 AM] <stephen.poole@hotmail.com> Demonbuddy:7272: Initialized! We are ready to go
+[2/21/2013 10:26:17 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 10:35:00 AM] <stephen.poole@hotmail.com> We are scheduled to start
+[2/21/2013 10:35:00 AM] <stephen.poole@hotmail.com> Next scheduled stop: 21/2 13:8
+[2/21/2013 10:35:00 AM] <stephen.poole@hotmail.com> Killing Agent.exe:7140
+[2/21/2013 10:35:00 AM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/21/2013 10:35:00 AM] <stephen.poole@hotmail.com> Replacing D3Prefs for user: Stephen
+[2/21/2013 10:35:00 AM] <stephen.poole@hotmail.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/21/2013 10:35:01 AM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+[2/21/2013 10:35:01 AM] <stephen.poole@hotmail.com> Region set: America : us.actual.battle.net
+[2/21/2013 10:35:01 AM] <stephen.poole@hotmail.com> D3Starter: Process ID 8384 started.
+[2/21/2013 10:35:01 AM] <stephen.poole@hotmail.com> D3Starter: Patching process 8384
+[2/21/2013 10:35:01 AM] <stephen.poole@hotmail.com> D3Starter: Patching file access at address: 81CF4D
+[2/21/2013 10:35:01 AM] <stephen.poole@hotmail.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/21/2013 10:35:01 AM] <stephen.poole@hotmail.com> D3Starter: Resuming process 8384
+[2/21/2013 10:35:02 AM] <stephen.poole@hotmail.com> D3Starter: 1 game instances started! All done!
+[2/21/2013 10:35:02 AM] <stephen.poole@hotmail.com> Diablo:8384: Found D3 Splash Window (2495102)
+[2/21/2013 10:35:08 AM] <stephen.poole@hotmail.com> Diablo:8384: D3 Splash Window Closed (0)
+[2/21/2013 10:35:08 AM] <stephen.poole@hotmail.com> Diablo:8384: Found D3 Main Window (2560638)
+[2/21/2013 10:35:10 AM] <stephen.poole@hotmail.com> Diablo:8384: Waiting for process to become ready
+[2/21/2013 10:35:13 AM] <stephen.poole@hotmail.com> Diablo:8384: Process is ready
+[2/21/2013 10:35:13 AM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 3 seconds
+[2/21/2013 10:35:16 AM] <stephen.poole@hotmail.com> Demonbuddy:2632: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\2632 2013-02-21 10.12.txt
+[2/21/2013 10:35:16 AM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 3:12:14 PM
+[2/21/2013 10:35:16 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 10:35:16 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 10:35:16 AM] <stephen.poole@hotmail.com> Demonbuddy:8108: Waiting for process to become ready
+[2/21/2013 10:35:17 AM] <stephen.poole@hotmail.com> Diablo:8384: has focus. Bring attached Demonbuddy to front
+[2/21/2013 10:35:17 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (7014142)
+[2/21/2013 10:35:17 AM] <stephen.poole@hotmail.com> ManualPosition window:7014142: X:1921 Y:0 W:50 H:50
+[2/21/2013 10:35:17 AM] <stephen.poole@hotmail.com> Demonbuddy:8108: Process is ready
+[2/21/2013 10:35:17 AM] <stephen.poole@hotmail.com> Demonbuddy:8108: Waiting for demonbuddy to log into Diablo
+[2/21/2013 10:35:20 AM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 10:35:29 AM] <stephen.poole@hotmail.com> Demonbuddy:8108: Initialized! We are ready to go
+[2/21/2013 10:35:53 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 10:58:25 AM] <stephen.poole@hotmail.com> Demonbuddy:8108: Is unresponsive for more than 30 seconds
+[2/21/2013 10:58:25 AM] <stephen.poole@hotmail.com> Demonbuddy:8108: Killing process
+[2/21/2013 10:58:26 AM] <stephen.poole@hotmail.com> Demonbuddy:8108: Process is not running
+[2/21/2013 10:58:26 AM] <stephen.poole@hotmail.com> Demonbuddy:8108: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\8108 2013-02-21 10.35.txt
+[2/21/2013 10:58:26 AM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 3:35:17 PM
+[2/21/2013 10:58:26 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 10:58:26 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 10:58:26 AM] <stephen.poole@hotmail.com> Demonbuddy:4004: Waiting for process to become ready
+[2/21/2013 10:58:27 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (1444644)
+[2/21/2013 10:58:27 AM] <stephen.poole@hotmail.com> ManualPosition window:1444644: X:1921 Y:0 W:50 H:50
+[2/21/2013 10:58:27 AM] <stephen.poole@hotmail.com> Demonbuddy:4004: Process is ready
+[2/21/2013 10:58:27 AM] <stephen.poole@hotmail.com> Demonbuddy:4004: Waiting for demonbuddy to log into Diablo
+[2/21/2013 11:01:09 AM] <stephen.poole@hotmail.com> Demonbuddy:4004: Initialized! We are ready to go
+[2/21/2013 11:01:10 AM] <stephen.poole@hotmail.com> Demonbuddy:4004: Is unresponsive for more than 30 seconds
+[2/21/2013 11:01:10 AM] <stephen.poole@hotmail.com> Demonbuddy:4004: Killing process
+[2/21/2013 11:01:11 AM] <stephen.poole@hotmail.com> Demonbuddy:4004: Process is not running
+[2/21/2013 11:01:11 AM] <stephen.poole@hotmail.com> Demonbuddy:4004: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\4004 2013-02-21 10.58.txt
+[2/21/2013 11:02:48 AM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 4:01:04 PM
+[2/21/2013 11:02:48 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 11:02:48 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 11:02:48 AM] <stephen.poole@hotmail.com> Demonbuddy:7216: Waiting for process to become ready
+[2/21/2013 11:02:48 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (1576958)
+[2/21/2013 11:02:48 AM] <stephen.poole@hotmail.com> ManualPosition window:1576958: X:1921 Y:0 W:50 H:50
+[2/21/2013 11:02:49 AM] <stephen.poole@hotmail.com> Demonbuddy:7216: Process is ready
+[2/21/2013 11:02:49 AM] <stephen.poole@hotmail.com> Demonbuddy:7216: Waiting for demonbuddy to log into Diablo
+[2/21/2013 11:04:09 AM] <stephen.poole@hotmail.com> Demonbuddy:7216: Initialized! We are ready to go
+[2/21/2013 11:04:11 AM] <stephen.poole@hotmail.com> Demonbuddy:7216: Is unresponsive for more than 30 seconds
+[2/21/2013 11:04:11 AM] <stephen.poole@hotmail.com> Demonbuddy:7216: Killing process
+[2/21/2013 11:04:12 AM] <stephen.poole@hotmail.com> Demonbuddy:7216: Process is not running
+[2/21/2013 11:04:12 AM] <stephen.poole@hotmail.com> Demonbuddy:7216: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\7216 2013-02-21 11.02.txt
+[2/21/2013 11:04:58 AM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 4:04:04 PM
+[2/21/2013 11:04:58 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 11:04:58 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 11:04:58 AM] <stephen.poole@hotmail.com> Demonbuddy:4000: Waiting for process to become ready
+[2/21/2013 11:04:59 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (12323744)
+[2/21/2013 11:04:59 AM] <stephen.poole@hotmail.com> ManualPosition window:12323744: X:1921 Y:0 W:50 H:50
+[2/21/2013 11:04:59 AM] <stephen.poole@hotmail.com> Diablo:8384: has focus. Bring attached Demonbuddy to front
+[2/21/2013 11:04:59 AM] <stephen.poole@hotmail.com> Demonbuddy:4000: Process is ready
+[2/21/2013 11:04:59 AM] <stephen.poole@hotmail.com> Demonbuddy:4000: Waiting for demonbuddy to log into Diablo
+[2/21/2013 11:07:59 AM] <stephen.poole@hotmail.com> Demonbuddy:4000: Failed to initialize 1/3
+[2/21/2013 11:07:59 AM] <stephen.poole@hotmail.com> Demonbuddy:4000: Forced to close!
+[2/21/2013 11:07:59 AM] <stephen.poole@hotmail.com> Demonbuddy:4000: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\4000 2013-02-21 11.04.txt
+[2/21/2013 11:09:50 AM] <stephen.poole@hotmail.com> Demonbuddy:4000: Failed to find login time
+[2/21/2013 11:09:50 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 11:09:50 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 11:09:50 AM] <stephen.poole@hotmail.com> Demonbuddy:3396: Waiting for process to become ready
+[2/21/2013 11:09:51 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (1708030)
+[2/21/2013 11:09:51 AM] <stephen.poole@hotmail.com> ManualPosition window:1708030: X:1921 Y:0 W:50 H:50
+[2/21/2013 11:09:51 AM] <stephen.poole@hotmail.com> Demonbuddy:3396: Process is ready
+[2/21/2013 11:09:51 AM] <stephen.poole@hotmail.com> Demonbuddy:3396: Waiting for demonbuddy to log into Diablo
+[2/21/2013 11:09:56 AM] <stephen.poole@hotmail.com> Demonbuddy:3396: Initialized! We are ready to go
+[2/21/2013 11:09:58 AM] <stephen.poole@hotmail.com> Demonbuddy:3396: Is unresponsive for more than 30 seconds
+[2/21/2013 11:09:58 AM] <stephen.poole@hotmail.com> Demonbuddy:3396: Killing process
+[2/21/2013 11:09:59 AM] <stephen.poole@hotmail.com> Demonbuddy:3396: Process is not running
+[2/21/2013 11:09:59 AM] <stephen.poole@hotmail.com> Demonbuddy:3396: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\3396 2013-02-21 11.09.txt
+[2/21/2013 11:10:00 AM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 4:09:51 PM
+[2/21/2013 11:10:00 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 11:10:00 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 11:10:00 AM] <stephen.poole@hotmail.com> Demonbuddy:8300: Waiting for process to become ready
+[2/21/2013 11:10:00 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (12454816)
+[2/21/2013 11:10:00 AM] <stephen.poole@hotmail.com> ManualPosition window:12454816: X:1921 Y:0 W:50 H:50
+[2/21/2013 11:10:00 AM] <stephen.poole@hotmail.com> Diablo:8384: has focus. Bring attached Demonbuddy to front
+[2/21/2013 11:10:00 AM] <stephen.poole@hotmail.com> Demonbuddy:8300: Process is ready
+[2/21/2013 11:10:00 AM] <stephen.poole@hotmail.com> Demonbuddy:8300: Waiting for demonbuddy to log into Diablo
+[2/21/2013 11:13:00 AM] <stephen.poole@hotmail.com> Demonbuddy:8300: Failed to initialize 1/3
+[2/21/2013 11:13:00 AM] <stephen.poole@hotmail.com> Demonbuddy:8300: Forced to close!
+[2/21/2013 11:13:00 AM] <stephen.poole@hotmail.com> Demonbuddy:8300: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\8300 2013-02-21 11.10.txt
+[2/21/2013 11:14:54 AM] <stephen.poole@hotmail.com> Demonbuddy:8300: Failed to find login time
+[2/21/2013 11:14:54 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 11:14:54 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 11:14:54 AM] <stephen.poole@hotmail.com> Demonbuddy:6516: Waiting for process to become ready
+[2/21/2013 11:14:54 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (1248078)
+[2/21/2013 11:14:54 AM] <stephen.poole@hotmail.com> ManualPosition window:1248078: X:1921 Y:0 W:50 H:50
+[2/21/2013 11:14:55 AM] <stephen.poole@hotmail.com> Demonbuddy:6516: Process is ready
+[2/21/2013 11:14:55 AM] <stephen.poole@hotmail.com> Demonbuddy:6516: Waiting for demonbuddy to log into Diablo
+[2/21/2013 11:15:02 AM] <stephen.poole@hotmail.com> Demonbuddy:6516: Initialized! We are ready to go
+[2/21/2013 11:15:03 AM] <stephen.poole@hotmail.com> Demonbuddy:6516: Is unresponsive for more than 30 seconds
+[2/21/2013 11:15:03 AM] <stephen.poole@hotmail.com> Demonbuddy:6516: Killing process
+[2/21/2013 11:15:04 AM] <stephen.poole@hotmail.com> Demonbuddy:6516: Process is not running
+[2/21/2013 11:15:04 AM] <stephen.poole@hotmail.com> Demonbuddy:6516: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\6516 2013-02-21 11.14.txt
+[2/21/2013 11:15:04 AM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 4:14:55 PM
+[2/21/2013 11:15:04 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 11:15:04 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 11:15:04 AM] <stephen.poole@hotmail.com> Demonbuddy:5444: Waiting for process to become ready
+[2/21/2013 11:15:04 AM] <stephen.poole@hotmail.com> Diablo:8384: has focus. Bring attached Demonbuddy to front
+[2/21/2013 11:15:05 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (1313614)
+[2/21/2013 11:15:05 AM] <stephen.poole@hotmail.com> ManualPosition window:1313614: X:1921 Y:0 W:50 H:50
+[2/21/2013 11:15:05 AM] <stephen.poole@hotmail.com> Demonbuddy:5444: Process is ready
+[2/21/2013 11:15:05 AM] <stephen.poole@hotmail.com> Demonbuddy:5444: Waiting for demonbuddy to log into Diablo
+[2/21/2013 11:15:07 AM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 11:18:05 AM] <stephen.poole@hotmail.com> Demonbuddy:5444: Failed to initialize 1/3
+[2/21/2013 11:18:05 AM] <stephen.poole@hotmail.com> Demonbuddy:5444: Forced to close!
+[2/21/2013 11:18:05 AM] <stephen.poole@hotmail.com> Demonbuddy:5444: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\5444 2013-02-21 11.15.txt
+[2/21/2013 11:19:58 AM] <stephen.poole@hotmail.com> Demonbuddy:5444: Failed to find login time
+[2/21/2013 11:19:58 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 11:19:58 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 11:19:58 AM] <stephen.poole@hotmail.com> Demonbuddy:3916: Waiting for process to become ready
+[2/21/2013 11:19:58 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (5836952)
+[2/21/2013 11:19:58 AM] <stephen.poole@hotmail.com> ManualPosition window:5836952: X:1921 Y:0 W:50 H:50
+[2/21/2013 11:19:59 AM] <stephen.poole@hotmail.com> Demonbuddy:3916: Process is ready
+[2/21/2013 11:19:59 AM] <stephen.poole@hotmail.com> Demonbuddy:3916: Waiting for demonbuddy to log into Diablo
+[2/21/2013 11:20:05 AM] <stephen.poole@hotmail.com> Demonbuddy:3916: Initialized! We are ready to go
+[2/21/2013 11:20:06 AM] <stephen.poole@hotmail.com> Demonbuddy:3916: Is unresponsive for more than 30 seconds
+[2/21/2013 11:20:06 AM] <stephen.poole@hotmail.com> Demonbuddy:3916: Killing process
+[2/21/2013 11:20:07 AM] <stephen.poole@hotmail.com> Demonbuddy:3916: Process is not running
+[2/21/2013 11:20:07 AM] <stephen.poole@hotmail.com> Demonbuddy:3916: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\3916 2013-02-21 11.19.txt
+[2/21/2013 11:20:07 AM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 4:19:59 PM
+[2/21/2013 11:20:07 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 11:20:07 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 11:20:07 AM] <stephen.poole@hotmail.com> Demonbuddy:8940: Waiting for process to become ready
+[2/21/2013 11:20:07 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (5115156)
+[2/21/2013 11:20:07 AM] <stephen.poole@hotmail.com> ManualPosition window:5115156: X:1921 Y:0 W:50 H:50
+[2/21/2013 11:20:08 AM] <stephen.poole@hotmail.com> Diablo:8384: has focus. Bring attached Demonbuddy to front
+[2/21/2013 11:20:08 AM] <stephen.poole@hotmail.com> Demonbuddy:8940: Process is ready
+[2/21/2013 11:20:08 AM] <stephen.poole@hotmail.com> Demonbuddy:8940: Waiting for demonbuddy to log into Diablo
+[2/21/2013 11:23:08 AM] <stephen.poole@hotmail.com> Demonbuddy:8940: Failed to initialize 1/3
+[2/21/2013 11:23:08 AM] <stephen.poole@hotmail.com> Demonbuddy:8940: Forced to close!
+[2/21/2013 11:23:08 AM] <stephen.poole@hotmail.com> Demonbuddy:8940: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\8940 2013-02-21 11.20.txt
+[2/21/2013 11:24:59 AM] <stephen.poole@hotmail.com> Demonbuddy:8940: Failed to find login time
+[2/21/2013 11:24:59 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 11:24:59 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 11:24:59 AM] <stephen.poole@hotmail.com> Demonbuddy:9040: Waiting for process to become ready
+[2/21/2013 11:25:00 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (12782496)
+[2/21/2013 11:25:00 AM] <stephen.poole@hotmail.com> ManualPosition window:12782496: X:1921 Y:0 W:50 H:50
+[2/21/2013 11:25:00 AM] <stephen.poole@hotmail.com> Demonbuddy:9040: Process is ready
+[2/21/2013 11:25:00 AM] <stephen.poole@hotmail.com> Demonbuddy:9040: Waiting for demonbuddy to log into Diablo
+[2/21/2013 11:25:06 AM] <stephen.poole@hotmail.com> Demonbuddy:9040: Initialized! We are ready to go
+[2/21/2013 11:25:07 AM] <stephen.poole@hotmail.com> Demonbuddy:9040: Is unresponsive for more than 30 seconds
+[2/21/2013 11:25:07 AM] <stephen.poole@hotmail.com> Demonbuddy:9040: Killing process
+[2/21/2013 11:25:08 AM] <stephen.poole@hotmail.com> Demonbuddy:9040: Process is not running
+[2/21/2013 11:25:08 AM] <stephen.poole@hotmail.com> Demonbuddy:9040: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\9040 2013-02-21 11.25.txt
+[2/21/2013 11:25:08 AM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 4:25:00 PM
+[2/21/2013 11:25:08 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 11:25:08 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 11:25:08 AM] <stephen.poole@hotmail.com> Demonbuddy:6264: Waiting for process to become ready
+[2/21/2013 11:25:09 AM] <stephen.poole@hotmail.com> Diablo:8384: has focus. Bring attached Demonbuddy to front
+[2/21/2013 11:25:09 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (12848032)
+[2/21/2013 11:25:09 AM] <stephen.poole@hotmail.com> ManualPosition window:12848032: X:1921 Y:0 W:50 H:50
+[2/21/2013 11:25:09 AM] <stephen.poole@hotmail.com> Demonbuddy:6264: Process is ready
+[2/21/2013 11:25:09 AM] <stephen.poole@hotmail.com> Demonbuddy:6264: Waiting for demonbuddy to log into Diablo
+[2/21/2013 11:25:12 AM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 11:28:08 AM] <stephen.poole@hotmail.com> Demonbuddy:6264: Initialized! We are ready to go
+[2/21/2013 11:28:11 AM] <stephen.poole@hotmail.com> Demonbuddy:6264: Is unresponsive for more than 30 seconds
+[2/21/2013 11:28:11 AM] <stephen.poole@hotmail.com> Demonbuddy:6264: Killing process
+[2/21/2013 11:28:12 AM] <stephen.poole@hotmail.com> Demonbuddy:6264: Process is not running
+[2/21/2013 11:28:12 AM] <stephen.poole@hotmail.com> Demonbuddy:6264: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\6264 2013-02-21 11.25.txt
+[2/21/2013 11:29:59 AM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 4:28:03 PM
+[2/21/2013 11:29:59 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 11:29:59 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 11:29:59 AM] <stephen.poole@hotmail.com> Demonbuddy:8400: Waiting for process to become ready
+[2/21/2013 11:29:59 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (6099096)
+[2/21/2013 11:29:59 AM] <stephen.poole@hotmail.com> ManualPosition window:6099096: X:1921 Y:0 W:50 H:50
+[2/21/2013 11:30:00 AM] <stephen.poole@hotmail.com> Demonbuddy:8400: Process is ready
+[2/21/2013 11:30:00 AM] <stephen.poole@hotmail.com> Demonbuddy:8400: Waiting for demonbuddy to log into Diablo
+[2/21/2013 11:32:10 AM] <stephen.poole@hotmail.com> Demonbuddy:8400: Initialized! We are ready to go
+[2/21/2013 11:32:11 AM] <stephen.poole@hotmail.com> Diablo:8384: Is unresponsive for more than 60 seconds
+[2/21/2013 11:32:11 AM] <stephen.poole@hotmail.com> Diablo:8384: Killing process
+[2/21/2013 11:32:11 AM] <stephen.poole@hotmail.com> Demonbuddy:8400: Is unresponsive for more than 30 seconds
+[2/21/2013 11:32:11 AM] <stephen.poole@hotmail.com> Demonbuddy:8400: Killing process
+[2/21/2013 11:32:11 AM] <stephen.poole@hotmail.com> Diablo:8384: Process is not running
+[2/21/2013 11:32:11 AM] <stephen.poole@hotmail.com> Killing Agent.exe:7740
+[2/21/2013 11:32:11 AM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/21/2013 11:32:11 AM] <stephen.poole@hotmail.com> Replacing D3Prefs for user: Stephen
+[2/21/2013 11:32:11 AM] <stephen.poole@hotmail.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/21/2013 11:32:12 AM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+[2/21/2013 11:32:12 AM] <stephen.poole@hotmail.com> Region set: America : us.actual.battle.net
+[2/21/2013 11:32:12 AM] <stephen.poole@hotmail.com> D3Starter: Process ID 3136 started.
+[2/21/2013 11:32:12 AM] <stephen.poole@hotmail.com> D3Starter: Patching process 3136
+[2/21/2013 11:32:12 AM] <stephen.poole@hotmail.com> D3Starter: Patching file access at address: 81CF4D
+[2/21/2013 11:32:12 AM] <stephen.poole@hotmail.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/21/2013 11:32:12 AM] <stephen.poole@hotmail.com> D3Starter: Resuming process 3136
+[2/21/2013 11:32:13 AM] <stephen.poole@hotmail.com> D3Starter: 1 game instances started! All done!
+[2/21/2013 11:32:13 AM] <stephen.poole@hotmail.com> Diablo:3136: Found D3 Splash Window (3740414)
+[2/21/2013 11:32:19 AM] <stephen.poole@hotmail.com> Diablo:3136: D3 Splash Window Closed (0)
+[2/21/2013 11:32:20 AM] <stephen.poole@hotmail.com> Diablo:3136: Found D3 Main Window (3805950)
+[2/21/2013 11:32:21 AM] <stephen.poole@hotmail.com> Diablo:3136: Waiting for process to become ready
+[2/21/2013 11:32:24 AM] No need to reposition: 2036928
+[2/21/2013 11:32:24 AM] <stephen.poole@hotmail.com> Diablo:3136: Process is ready
+[2/21/2013 11:32:24 AM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 3 seconds
+[2/21/2013 11:32:27 AM] <stephen.poole@hotmail.com> Demonbuddy:8400: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\8400 2013-02-21 11.30.txt
+[2/21/2013 11:33:47 AM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 4:32:04 PM
+[2/21/2013 11:33:47 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 11:33:47 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 11:33:47 AM] <stephen.poole@hotmail.com> Demonbuddy:5040: Waiting for process to become ready
+[2/21/2013 11:33:47 AM] <stephen.poole@hotmail.com> Diablo:3136: has focus. Bring attached Demonbuddy to front
+[2/21/2013 11:33:47 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (11995542)
+[2/21/2013 11:33:47 AM] <stephen.poole@hotmail.com> ManualPosition window:11995542: X:1921 Y:0 W:50 H:50
+[2/21/2013 11:33:48 AM] <stephen.poole@hotmail.com> Demonbuddy:5040: Process is ready
+[2/21/2013 11:33:48 AM] <stephen.poole@hotmail.com> Demonbuddy:5040: Waiting for demonbuddy to log into Diablo
+[2/21/2013 11:33:50 AM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 11:36:18 AM] <stephen.poole@hotmail.com> Demonbuddy:5040: Initialized! We are ready to go
+[2/21/2013 11:36:43 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 11:47:34 AM] <stephen.poole@hotmail.com> Runs completed 1
+[2/21/2013 11:47:34 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 11:49:14 AM] <stephen.poole@hotmail.com> Runs completed 2
+[2/21/2013 11:49:14 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 12:11:18 PM] <stephen.poole@hotmail.com> Runs completed 1
+[2/21/2013 12:11:18 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 12:45:59 PM] <stephen.poole@hotmail.com> Runs completed 2
+[2/21/2013 12:45:59 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 1:00:00 PM] <nnehl@live.com> We are scheduled to start
+[2/21/2013 1:00:00 PM] <nnehl@live.com> Next scheduled stop: 21/2 15:0
+[2/21/2013 1:00:00 PM] <nnehl@live.com> Killing Agent.exe:9068
+[2/21/2013 1:00:00 PM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/21/2013 1:00:00 PM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/21/2013 1:00:00 PM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/21/2013 1:00:01 PM] <nnehl@live.com> Language set: English (US) : enUS
+[2/21/2013 1:00:01 PM] <nnehl@live.com> Region set: Europe : eu.actual.battle.net
+[2/21/2013 1:00:01 PM] <nnehl@live.com> D3Starter: Process ID 5944 started.
+[2/21/2013 1:00:01 PM] <nnehl@live.com> D3Starter: Patching process 5944
+[2/21/2013 1:00:01 PM] <nnehl@live.com> D3Starter: Patching file access at address: 81CF4D
+[2/21/2013 1:00:01 PM] <nnehl@live.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/21/2013 1:00:01 PM] <nnehl@live.com> D3Starter: Resuming process 5944
+[2/21/2013 1:00:03 PM] <nnehl@live.com> D3Starter: 1 game instances started! All done!
+[2/21/2013 1:00:03 PM] <nnehl@live.com> Diablo:5944: Found D3 Splash Window (4329762)
+[2/21/2013 1:00:09 PM] <nnehl@live.com> Diablo:5944: D3 Splash Window Closed (0)
+[2/21/2013 1:00:10 PM] <nnehl@live.com> Diablo:5944: Found D3 Main Window (4395298)
+[2/21/2013 1:00:11 PM] <nnehl@live.com> Diablo:5944: Waiting for process to become ready
+[2/21/2013 1:00:14 PM] No need to reposition: 3805950
+[2/21/2013 1:00:14 PM] No need to reposition: 2036928
+[2/21/2013 1:00:14 PM] <nnehl@live.com> Diablo:5944: Process is ready
+[2/21/2013 1:00:14 PM] <nnehl@live.com> Demonbuddy start delay, waiting 3 seconds
+[2/21/2013 1:00:17 PM] <nnehl@live.com> Current profile: "AllActs_Relogger.xml" Runs:0 Time:0 mintues (E:\Applications\Diablo III\_Profiles\Questing\AllActs_Relogger.xml)
+[2/21/2013 1:00:17 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 1:00:17 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/21/2013 1:00:17 PM] <nnehl@live.com> Demonbuddy:6296: Waiting for process to become ready
+[2/21/2013 1:00:18 PM] <nnehl@live.com> Diablo:5944: has focus. Bring attached Demonbuddy to front
+[2/21/2013 1:00:18 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (2495392)
+[2/21/2013 1:00:18 PM] <nnehl@live.com> Demonbuddy:6296: Process is ready
+[2/21/2013 1:00:18 PM] <nnehl@live.com> Demonbuddy:6296: Waiting for demonbuddy to log into Diablo
+[2/21/2013 1:00:21 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 1:03:18 PM] <nnehl@live.com> Demonbuddy:6296: Failed to initialize 1/3
+[2/21/2013 1:03:18 PM] <nnehl@live.com> Demonbuddy:6296: Forced to close!
+[2/21/2013 1:03:18 PM] <nnehl@live.com> Demonbuddy:6296: Found matching log: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Logs\6296 2013-02-21 13.00.txt
+[2/21/2013 1:04:55 PM] <nnehl@live.com> Demonbuddy:6296: Failed to find login time
+[2/21/2013 1:04:55 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 1:04:55 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/21/2013 1:04:55 PM] <nnehl@live.com> Demonbuddy:2272: Waiting for process to become ready
+[2/21/2013 1:04:56 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (4852390)
+[2/21/2013 1:04:56 PM] <nnehl@live.com> Demonbuddy:2272: Process is ready
+[2/21/2013 1:04:56 PM] <nnehl@live.com> Demonbuddy:2272: Waiting for demonbuddy to log into Diablo
+[2/21/2013 1:07:56 PM] <nnehl@live.com> Demonbuddy:2272: Failed to initialize 2/3
+[2/21/2013 1:07:56 PM] <nnehl@live.com> Demonbuddy:2272: Forced to close!
+[2/21/2013 1:07:56 PM] <nnehl@live.com> Demonbuddy:2272: Found matching log: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Logs\2272 2013-02-21 13.04.txt
+[2/21/2013 1:09:45 PM] <nnehl@live.com> Demonbuddy:2272: Failed to find login time
+[2/21/2013 1:09:45 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 1:09:45 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/21/2013 1:09:45 PM] <nnehl@live.com> Demonbuddy:8344: Waiting for process to become ready
+[2/21/2013 1:09:45 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (4917926)
+[2/21/2013 1:09:45 PM] <nnehl@live.com> Demonbuddy:8344: Process is ready
+[2/21/2013 1:09:45 PM] <nnehl@live.com> Demonbuddy:8344: Waiting for demonbuddy to log into Diablo
+[2/21/2013 1:12:45 PM] <nnehl@live.com> Demonbuddy:8344: Failed to initialize 3/3
+[2/21/2013 1:12:45 PM] <nnehl@live.com> Demonbuddy:8344: Forced to close!
+[2/21/2013 1:12:45 PM] <nnehl@live.com> Demonbuddy:8344: Found matching log: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Logs\8344 2013-02-21 13.09.txt
+[2/21/2013 1:14:35 PM] <nnehl@live.com> Demonbuddy:8344: Failed to find login time
+[2/21/2013 1:14:35 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 1:14:35 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/21/2013 1:14:35 PM] <nnehl@live.com> Demonbuddy:7824: Waiting for process to become ready
+[2/21/2013 1:14:36 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (4983462)
+[2/21/2013 1:14:36 PM] <nnehl@live.com> Demonbuddy:7824: Process is ready
+[2/21/2013 1:14:36 PM] <nnehl@live.com> Demonbuddy:7824: Waiting for demonbuddy to log into Diablo
+[2/21/2013 1:14:36 PM] <nnehl@live.com> Diablo:5944: has focus. Bring attached Demonbuddy to front
+[2/21/2013 1:17:36 PM] <nnehl@live.com> Demonbuddy:7824: Failed to initialize more than 3 times
+[2/21/2013 1:17:36 PM] <nnehl@live.com> Stopping
+[2/21/2013 1:17:36 PM] <nnehl@live.com> Diablo:5944: Kill process
+[2/21/2013 1:17:36 PM] <nnehl@live.com> Demonbuddy:7824: Failed to close! kill process
+[2/21/2013 1:17:37 PM] <stephen.poole@hotmail.com> We are scheduled to stop
+[2/21/2013 1:17:37 PM] <stephen.poole@hotmail.com> Next scheduled start: 21/2 15:11
+[2/21/2013 1:17:37 PM] <stephen.poole@hotmail.com> Diablo:3136: Kill process
+[2/21/2013 1:17:37 PM] <stephen.poole@hotmail.com> Demonbuddy:5040: Failed to close! kill process
+[2/21/2013 2:00:00 PM] <stephen.poole@hotmail.com> We are scheduled to stop
+[2/21/2013 2:00:00 PM] <stephen.poole@hotmail.com> Next scheduled start: 22/2 3:0
+[2/21/2013 2:00:00 PM] <stephen.poole@hotmail.com> Diablo:3652: Kill process
+[2/21/2013 2:00:00 PM] <stephen.poole@hotmail.com> Demonbuddy:7272: Failed to close! kill process
+[2/21/2013 2:00:00 PM] <nnehl@live.com> We are scheduled to start
+[2/21/2013 2:00:00 PM] <nnehl@live.com> Next scheduled stop: 22/2 2:9
+[2/21/2013 2:00:00 PM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/21/2013 2:00:00 PM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/21/2013 2:00:00 PM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/21/2013 2:00:01 PM] <nnehl@live.com> Language set: English (US) : enUS
+[2/21/2013 2:00:01 PM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/21/2013 2:00:01 PM] <nnehl@live.com> D3Starter: Process ID 7568 started.
+[2/21/2013 2:00:01 PM] <nnehl@live.com> D3Starter: Patching process 7568
+[2/21/2013 2:00:01 PM] <nnehl@live.com> D3Starter: Patching file access at address: 81CF4D
+[2/21/2013 2:00:01 PM] <nnehl@live.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/21/2013 2:00:01 PM] <nnehl@live.com> D3Starter: Resuming process 7568
+[2/21/2013 2:00:03 PM] <nnehl@live.com> D3Starter: 1 game instances started! All done!
+[2/21/2013 2:00:03 PM] <nnehl@live.com> Diablo:7568: Found D3 Splash Window (3085056)
+[2/21/2013 2:00:15 PM] <nnehl@live.com> Diablo:7568: D3 Splash Window Closed (0)
+[2/21/2013 2:00:16 PM] <nnehl@live.com> Diablo:7568: Found D3 Main Window (3150592)
+[2/21/2013 2:00:22 PM] <nnehl@live.com> Diablo:7568: Waiting for process to become ready
+[2/21/2013 2:00:24 PM] AutoPosition Failed to get window rectangle (3805950)
+[2/21/2013 2:00:24 PM] AutoPosition Failed to get window rectangle (2036928)
+[2/21/2013 2:00:25 PM] AutoPosition Failed to get window rectangle (4395298)
+[2/21/2013 2:00:25 PM] <nnehl@live.com> Diablo:7568: Process is ready
+[2/21/2013 2:00:25 PM] <nnehl@live.com> Demonbuddy start delay, waiting 3 seconds
+[2/21/2013 2:00:28 PM] <nnehl@live.com> Current profile: "GardettosRev2.2RaF_XX_Starter.xml" Runs:0 Time:0 mintues (E:\Applications\Diablo III\_Profiles\Gardetto's Revenge 2.2\GardettosRev2.2RaF_XX_Starter.xml)
+[2/21/2013 2:00:28 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 2:00:28 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/21/2013 2:00:28 PM] <nnehl@live.com> Demonbuddy:7228: Waiting for process to become ready
+[2/21/2013 2:00:28 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (1774000)
+[2/21/2013 2:00:28 PM] <nnehl@live.com> Demonbuddy:7228: Process is ready
+[2/21/2013 2:00:28 PM] <nnehl@live.com> Demonbuddy:7228: Waiting for demonbuddy to log into Diablo
+[2/21/2013 2:00:28 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 2:00:41 PM] <nnehl@live.com> Demonbuddy:7228: Initialized! We are ready to go
+[2/21/2013 2:01:05 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 2:29:26 PM] <nnehl@live.com> Runs completed 1
+[2/21/2013 2:29:26 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 2:56:21 PM] <nnehl@live.com> Runs completed 2
+[2/21/2013 2:56:21 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 3:11:00 PM] <stephen.poole@hotmail.com> We are scheduled to start
+[2/21/2013 3:11:00 PM] <stephen.poole@hotmail.com> Next scheduled stop: 22/2 1:15
+[2/21/2013 3:11:00 PM] <stephen.poole@hotmail.com> Killing Agent.exe:6596
+[2/21/2013 3:11:00 PM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/21/2013 3:11:00 PM] <stephen.poole@hotmail.com> Replacing D3Prefs for user: Stephen
+[2/21/2013 3:11:00 PM] <stephen.poole@hotmail.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/21/2013 3:11:01 PM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+[2/21/2013 3:11:01 PM] <stephen.poole@hotmail.com> Region set: America : us.actual.battle.net
+[2/21/2013 3:11:01 PM] <stephen.poole@hotmail.com> D3Starter: Process ID 8792 started.
+[2/21/2013 3:11:01 PM] <stephen.poole@hotmail.com> D3Starter: Patching process 8792
+[2/21/2013 3:11:01 PM] <stephen.poole@hotmail.com> D3Starter: Patching file access at address: 81CF4D
+[2/21/2013 3:11:01 PM] <stephen.poole@hotmail.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/21/2013 3:11:01 PM] <stephen.poole@hotmail.com> D3Starter: Resuming process 8792
+[2/21/2013 3:11:03 PM] <stephen.poole@hotmail.com> D3Starter: 1 game instances started! All done!
+[2/21/2013 3:11:03 PM] <stephen.poole@hotmail.com> Diablo:8792: Found D3 Splash Window (1249346)
+[2/21/2013 3:11:09 PM] <stephen.poole@hotmail.com> Diablo:8792: D3 Splash Window Closed (0)
+[2/21/2013 3:11:09 PM] <stephen.poole@hotmail.com> Diablo:8792: Found D3 Main Window (1314882)
+[2/21/2013 3:11:11 PM] <stephen.poole@hotmail.com> Diablo:8792: Waiting for process to become ready
+[2/21/2013 3:11:14 PM] AutoPosition Failed to get window rectangle (2036928)
+[2/21/2013 3:11:14 PM] No need to reposition: 3150592
+[2/21/2013 3:11:14 PM] AutoPosition Failed to get window rectangle (4395298)
+[2/21/2013 3:11:14 PM] <stephen.poole@hotmail.com> Diablo:8792: Process is ready
+[2/21/2013 3:11:14 PM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 3 seconds
+[2/21/2013 3:11:17 PM] <stephen.poole@hotmail.com> Demonbuddy:5040: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Logs\5040 2013-02-21 11.33.txt
+[2/21/2013 3:12:45 PM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 4:36:04 PM
+[2/21/2013 3:12:45 PM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 3:12:45 PM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/21/2013 3:12:45 PM] <stephen.poole@hotmail.com> Demonbuddy:532: Waiting for process to become ready
+[2/21/2013 3:12:45 PM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (12061078)
+[2/21/2013 3:12:45 PM] <stephen.poole@hotmail.com> ManualPosition window:12061078: X:1921 Y:0 W:50 H:50
+[2/21/2013 3:12:46 PM] <stephen.poole@hotmail.com> Demonbuddy:532: Process is ready
+[2/21/2013 3:12:46 PM] <stephen.poole@hotmail.com> Demonbuddy:532: Waiting for demonbuddy to log into Diablo
+[2/21/2013 3:12:59 PM] <stephen.poole@hotmail.com> Demonbuddy:532: Initialized! We are ready to go
+[2/21/2013 3:13:24 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 3:15:09 PM] <nnehl@live.com> Runs completed 3
+[2/21/2013 3:15:09 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 3:17:49 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 3:17:52 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 3:18:03 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 3:18:06 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 3:19:42 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 3:19:45 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 3:20:46 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 3:20:49 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 3:23:04 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 3:23:07 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 3:23:14 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 3:23:17 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 3:24:30 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 3:24:33 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 3:24:39 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 3:24:42 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 3:27:00 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 3:27:03 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 3:37:33 PM] <nnehl@live.com> Runs completed 4
+[2/21/2013 3:37:33 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 3:47:39 PM] <stephen.poole@hotmail.com> Runs completed 3
+[2/21/2013 3:47:40 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 4:09:07 PM] <nnehl@live.com> Runs completed 5
+[2/21/2013 4:09:07 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 4:21:48 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 4:21:51 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 4:21:56 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 4:21:59 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 4:23:28 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 4:23:31 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 4:23:41 PM] <stephen.poole@hotmail.com> Runs completed 4
+[2/21/2013 4:23:42 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 4:25:07 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 4:25:10 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 4:25:14 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 4:25:17 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 4:42:17 PM] <nnehl@live.com> Runs completed 6
+[2/21/2013 4:42:17 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 4:56:11 PM] <nnehl@live.com> Runs completed 7
+[2/21/2013 4:56:11 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 4:59:27 PM] <stephen.poole@hotmail.com> Runs completed 5
+[2/21/2013 4:59:27 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 5:27:31 PM] <nnehl@live.com> Runs completed 8
+[2/21/2013 5:27:31 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 5:38:46 PM] <stephen.poole@hotmail.com> Runs completed 6
+[2/21/2013 5:38:46 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 5:56:46 PM] <nnehl@live.com> Runs completed 9
+[2/21/2013 5:56:46 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 6:08:20 PM] <stephen.poole@hotmail.com> Runs completed 7
+[2/21/2013 6:08:21 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 6:30:58 PM] <nnehl@live.com> Runs completed 10
+[2/21/2013 6:30:58 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 6:39:38 PM] <stephen.poole@hotmail.com> Runs completed 8
+[2/21/2013 6:39:38 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 7:02:25 PM] <stephen.poole@hotmail.com> Runs completed 9
+[2/21/2013 7:02:25 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 7:02:34 PM] <nnehl@live.com> Runs completed 11
+[2/21/2013 7:02:34 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 7:02:54 PM] <nnehl@live.com> Demonbuddy:7228: is stopped to long for a unknown reason (30 seconds)
+[2/21/2013 7:09:17 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 7:09:20 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 7:09:21 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 7:09:24 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 7:09:38 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 7:09:41 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 7:31:11 PM] <stephen.poole@hotmail.com> Runs completed 10
+[2/21/2013 7:31:11 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 7:41:28 PM] <nnehl@live.com> Runs completed 12
+[2/21/2013 7:41:29 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 7:50:47 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 7:50:50 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 7:50:51 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 7:50:54 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 7:55:33 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 7:55:36 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 7:55:37 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 7:55:40 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:01:05 PM] <stephen.poole@hotmail.com> Runs completed 11
+[2/21/2013 8:01:05 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 8:03:24 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:03:27 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:09:21 PM] <nnehl@live.com> Demonbuddy stopped by user
+[2/21/2013 8:09:22 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:09:25 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:09:26 PM] <nnehl@live.com> Demonbuddy stopped by user
+[2/21/2013 8:09:45 PM] <nnehl@live.com> Runs completed 13
+[2/21/2013 8:09:45 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 8:20:08 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:20:11 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:20:16 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:20:19 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:20:20 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:20:23 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:20:51 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:20:54 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:29:59 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:30:02 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:34:17 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:34:38 PM] <stephen.poole@hotmail.com> Runs completed 12
+[2/21/2013 8:34:38 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 8:43:02 PM] <nnehl@live.com> Runs completed 14
+[2/21/2013 8:43:02 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 8:43:56 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:43:59 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:50:36 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:50:39 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:50:40 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:50:43 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:52:14 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:52:17 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:52:44 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:52:47 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:56:18 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:56:21 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:56:50 PM] <stephen.poole@hotmail.com> Runs completed 13
+[2/21/2013 8:56:50 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 8:57:52 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 8:57:55 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 8:59:24 PM] <nnehl@live.com> Runs completed 15
+[2/21/2013 8:59:24 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 9:01:17 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 9:01:20 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 9:01:45 PM] <stephen.poole@hotmail.com> Runs completed 14
+[2/21/2013 9:01:45 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 9:05:55 PM] <nnehl@live.com> Demonbuddy:7228: is not pulsing while it should to (60 seconds)
+[2/21/2013 9:05:55 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 9:09:45 PM] <nnehl@live.com> Runs completed 16
+[2/21/2013 9:09:45 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 9:29:09 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 9:29:12 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 9:34:36 PM] <stephen.poole@hotmail.com> Runs completed 15
+[2/21/2013 9:34:36 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 9:38:07 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 9:38:10 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 9:38:11 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 9:38:14 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 9:38:28 PM] <nnehl@live.com> Stopping
+[2/21/2013 9:38:42 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 9:38:45 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 9:38:46 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 9:38:49 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 9:39:03 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 9:39:06 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 9:39:14 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 9:39:17 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 9:40:46 PM] <nnehl@live.com> Runs completed 17
+[2/21/2013 9:40:46 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 9:41:29 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 9:41:32 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 9:41:40 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 9:41:43 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 10:01:22 PM] <stephen.poole@hotmail.com> Runs completed 16
+[2/21/2013 10:01:22 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 10:06:50 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 10:06:53 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 10:06:54 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 10:06:57 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 10:07:19 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 10:07:22 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 10:07:24 PM] <nnehl@live.com> Diablo:7568: has focus. Bring attached Demonbuddy to front
+[2/21/2013 10:07:27 PM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/21/2013 10:07:28 PM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/21/2013 10:07:31 PM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/21/2013 10:07:48 PM] <nnehl@live.com> Runs completed 18
+[2/21/2013 10:07:48 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 10:32:11 PM] <stephen.poole@hotmail.com> Runs completed 17
+[2/21/2013 10:32:11 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 10:38:14 PM] <nnehl@live.com> Runs completed 19
+[2/21/2013 10:38:14 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 11:04:23 PM] <stephen.poole@hotmail.com> Runs completed 18
+[2/21/2013 11:04:23 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 11:13:53 PM] <nnehl@live.com> Runs completed 20
+[2/21/2013 11:13:53 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 11:23:06 PM] <nnehl@live.com> Diablo:7568: Is unresponsive for more than 60 seconds
+[2/21/2013 11:23:06 PM] <nnehl@live.com> Diablo:7568: Killing process
+[2/21/2013 11:23:06 PM] <nnehl@live.com> Diablo:7568: Process is not running
+[2/21/2013 11:23:06 PM] <nnehl@live.com> Demonbuddy:7228: Closing db
+[2/21/2013 11:23:06 PM] <nnehl@live.com> Demonbuddy:7228: Waiting to close
+[2/21/2013 11:23:07 PM] <nnehl@live.com> Demonbuddy:7228: Closed.
+[2/21/2013 11:23:07 PM] <nnehl@live.com> Killing Agent.exe:4816
+[2/21/2013 11:23:07 PM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/21/2013 11:23:07 PM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/21/2013 11:23:07 PM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/21/2013 11:23:08 PM] <nnehl@live.com> Language set: English (US) : enUS
+[2/21/2013 11:23:08 PM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/21/2013 11:23:08 PM] <nnehl@live.com> D3Starter: Process ID 7464 started.
+[2/21/2013 11:23:08 PM] <nnehl@live.com> D3Starter: Patching process 7464
+[2/21/2013 11:23:08 PM] <nnehl@live.com> D3Starter: Patching file access at address: 81CF4D
+[2/21/2013 11:23:08 PM] <nnehl@live.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/21/2013 11:23:08 PM] <nnehl@live.com> D3Starter: Resuming process 7464
+[2/21/2013 11:23:10 PM] <nnehl@live.com> D3Starter: 1 game instances started! All done!
+[2/21/2013 11:23:10 PM] <nnehl@live.com> Diablo:7464: Found D3 Splash Window (2232384)
+[2/21/2013 11:23:16 PM] <nnehl@live.com> Diablo:7464: D3 Splash Window Closed (0)
+[2/21/2013 11:23:16 PM] <nnehl@live.com> Diablo:7464: Found D3 Main Window (2297920)
+[2/21/2013 11:23:18 PM] <nnehl@live.com> Diablo:7464: Waiting for process to become ready
+[2/21/2013 11:23:20 PM] AutoPosition Failed to get window rectangle (2036928)
+[2/21/2013 11:23:21 PM] AutoPosition Failed to get window rectangle (4395298)
+[2/21/2013 11:23:21 PM] <nnehl@live.com> Diablo:7464: Process is ready
+[2/21/2013 11:23:21 PM] <nnehl@live.com> Demonbuddy start delay, waiting 3 seconds
+[2/21/2013 11:23:24 PM] <nnehl@live.com> Demonbuddy:7228: Found matching log: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Logs\7228 2013-02-21 14.00.txt
+[2/21/2013 11:23:24 PM] <nnehl@live.com> Found login time: 2/21/2013 7:00:29 PM
+[2/21/2013 11:23:24 PM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com US\demonbuddy\Plugins\YAR\Plugin.cs
+[2/21/2013 11:23:24 PM] <nnehl@live.com> Plugin is installed and latest version
+[2/21/2013 11:23:24 PM] <nnehl@live.com> Demonbuddy:476: Waiting for process to become ready
+[2/21/2013 11:23:25 PM] <nnehl@live.com> Found Demonbuddy: MainWindow (2949368)
+[2/21/2013 11:23:25 PM] <nnehl@live.com> Demonbuddy:476: Process is ready
+[2/21/2013 11:23:25 PM] <nnehl@live.com> Demonbuddy:476: Waiting for demonbuddy to log into Diablo
+[2/21/2013 11:23:40 PM] <nnehl@live.com> Demonbuddy:476: Initialized! We are ready to go
+[2/21/2013 11:24:03 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/21/2013 11:39:34 PM] <stephen.poole@hotmail.com> Runs completed 19
+[2/21/2013 11:39:34 PM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/21/2013 11:59:27 PM] <nnehl@live.com> Runs completed 21
+[2/21/2013 11:59:27 PM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 12:14:31 AM] <stephen.poole@hotmail.com> Runs completed 20
+[2/22/2013 12:14:31 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/22/2013 12:23:41 AM] <nnehl@live.com> Runs completed 22
+[2/22/2013 12:23:42 AM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 12:40:58 AM] <nnehl@live.com> Diablo:7464: has focus. Bring attached Demonbuddy to front
+[2/22/2013 12:41:01 AM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/22/2013 12:41:03 AM] <stephen.poole@hotmail.com> Diablo:8792: has focus. Bring attached Demonbuddy to front
+[2/22/2013 12:41:06 AM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/22/2013 12:41:07 AM] <nnehl@live.com> Diablo:7464: has focus. Bring attached Demonbuddy to front
+[2/22/2013 12:41:10 AM] <nnehl@live.com> Failed to bring Demonbuddy to fron
+[2/22/2013 12:46:34 AM] <stephen.poole@hotmail.com> Runs completed 21
+[2/22/2013 12:46:34 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/22/2013 12:46:38 AM] <nnehl@live.com> Runs completed 23
+[2/22/2013 12:46:38 AM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 1:00:00 AM] <nnehl@live.com> We are scheduled to start
+[2/22/2013 1:00:00 AM] <nnehl@live.com> Next scheduled stop: 22/2 11:0
+[2/22/2013 1:00:00 AM] <nnehl@live.com> Killing Agent.exe:960
+[2/22/2013 1:00:00 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/22/2013 1:00:00 AM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/22/2013 1:00:00 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/22/2013 1:00:01 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/22/2013 1:00:01 AM] <nnehl@live.com> Region set: Europe : eu.actual.battle.net
+[2/22/2013 1:00:01 AM] <nnehl@live.com> D3Starter: Process ID 8164 started.
+[2/22/2013 1:00:01 AM] <nnehl@live.com> D3Starter: Patching process 8164
+[2/22/2013 1:00:01 AM] <nnehl@live.com> D3Starter: Patching file access at address: 81CF4D
+[2/22/2013 1:00:01 AM] <nnehl@live.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/22/2013 1:00:01 AM] <nnehl@live.com> D3Starter: Resuming process 8164
+[2/22/2013 1:00:03 AM] <nnehl@live.com> D3Starter: 1 game instances started! All done!
+[2/22/2013 1:00:03 AM] <nnehl@live.com> Diablo:8164: Found D3 Splash Window (43320196)
+[2/22/2013 1:00:09 AM] <nnehl@live.com> Diablo:8164: D3 Splash Window Closed (0)
+[2/22/2013 1:00:10 AM] <nnehl@live.com> Diablo:8164: Found D3 Main Window (43385732)
+[2/22/2013 1:00:12 AM] <nnehl@live.com> Diablo:8164: Waiting for process to become ready
+[2/22/2013 1:00:14 AM] AutoPosition Failed to get window rectangle (2036928)
+[2/22/2013 1:00:15 AM] <nnehl@live.com> Diablo:8164: Process is ready
+[2/22/2013 1:00:15 AM] <nnehl@live.com> Demonbuddy start delay, waiting 3 seconds
+[2/22/2013 1:00:18 AM] <nnehl@live.com> Demonbuddy:7824: Found matching log: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Logs\7824 2013-02-21 13.14.txt
+[2/22/2013 1:01:49 AM] <nnehl@live.com> Demonbuddy:7824: Failed to find login time
+[2/22/2013 1:01:49 AM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 1:01:49 AM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 1:01:49 AM] <nnehl@live.com> Demonbuddy:1572: Waiting for process to become ready
+[2/22/2013 1:01:49 AM] <nnehl@live.com> Found Demonbuddy: MainWindow (5768008)
+[2/22/2013 1:01:49 AM] <nnehl@live.com> Demonbuddy:1572: Process is ready
+[2/22/2013 1:01:49 AM] <nnehl@live.com> Demonbuddy:1572: Waiting for demonbuddy to log into Diablo
+[2/22/2013 1:04:49 AM] <nnehl@live.com> Demonbuddy:1572: Failed to initialize 1/3
+[2/22/2013 1:04:49 AM] <nnehl@live.com> Demonbuddy:1572: Forced to close!
+[2/22/2013 1:04:49 AM] <nnehl@live.com> Demonbuddy:1572: Found matching log: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Logs\1572 2013-02-22 01.01.txt
+[2/22/2013 1:06:37 AM] <nnehl@live.com> Demonbuddy:1572: Failed to find login time
+[2/22/2013 1:06:37 AM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 1:06:37 AM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 1:06:37 AM] <nnehl@live.com> Demonbuddy:8876: Waiting for process to become ready
+[2/22/2013 1:06:38 AM] <nnehl@live.com> Found Demonbuddy: MainWindow (790746)
+[2/22/2013 1:06:38 AM] <nnehl@live.com> Demonbuddy:8876: Process is ready
+[2/22/2013 1:06:38 AM] <nnehl@live.com> Demonbuddy:8876: Waiting for demonbuddy to log into Diablo
+[2/22/2013 1:09:38 AM] <nnehl@live.com> Demonbuddy:8876: Failed to initialize 2/3
+[2/22/2013 1:09:38 AM] <nnehl@live.com> Demonbuddy:8876: Forced to close!
+[2/22/2013 1:09:38 AM] <nnehl@live.com> Demonbuddy:8876: Found matching log: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Logs\8876 2013-02-22 01.06.txt
+[2/22/2013 1:11:29 AM] <nnehl@live.com> Demonbuddy:8876: Failed to find login time
+[2/22/2013 1:11:29 AM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 1:11:29 AM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 1:11:29 AM] <nnehl@live.com> Demonbuddy:1732: Waiting for process to become ready
+[2/22/2013 1:11:29 AM] <nnehl@live.com> Found Demonbuddy: MainWindow (856282)
+[2/22/2013 1:11:29 AM] <nnehl@live.com> Demonbuddy:1732: Process is ready
+[2/22/2013 1:11:29 AM] <nnehl@live.com> Demonbuddy:1732: Waiting for demonbuddy to log into Diablo
+[2/22/2013 1:11:40 AM] <nnehl@live.com> Runs completed 24
+[2/22/2013 1:11:41 AM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 1:14:29 AM] <nnehl@live.com> Demonbuddy:1732: Failed to initialize 3/3
+[2/22/2013 1:14:29 AM] <nnehl@live.com> Demonbuddy:1732: Forced to close!
+[2/22/2013 1:14:29 AM] <nnehl@live.com> Demonbuddy:1732: Found matching log: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Logs\1732 2013-02-22 01.11.txt
+[2/22/2013 1:16:22 AM] <nnehl@live.com> Demonbuddy:1732: Failed to find login time
+[2/22/2013 1:16:22 AM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\nnehl@live.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 1:16:22 AM] <nnehl@live.com> Plugin is installed and latest version
+[2/22/2013 1:16:22 AM] <nnehl@live.com> Demonbuddy:5168: Waiting for process to become ready
+[2/22/2013 1:16:23 AM] <nnehl@live.com> Found Demonbuddy: MainWindow (921818)
+[2/22/2013 1:16:23 AM] <nnehl@live.com> Demonbuddy:5168: Process is ready
+[2/22/2013 1:16:23 AM] <nnehl@live.com> Demonbuddy:5168: Waiting for demonbuddy to log into Diablo
+[2/22/2013 1:17:06 AM] <stephen.poole@hotmail.com> Runs completed 22
+[2/22/2013 1:17:06 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/22/2013 1:19:23 AM] <nnehl@live.com> Demonbuddy:5168: Failed to initialize more than 3 times
+[2/22/2013 1:19:23 AM] <nnehl@live.com> Stopping
+[2/22/2013 1:19:23 AM] <nnehl@live.com> Diablo:8164: Kill process
+[2/22/2013 1:19:23 AM] <nnehl@live.com> Demonbuddy:5168: Failed to close! kill process
+[2/22/2013 1:19:24 AM] <stephen.poole@hotmail.com> We are scheduled to stop
+[2/22/2013 1:19:24 AM] <stephen.poole@hotmail.com> Next scheduled start: 22/2 11:9
+[2/22/2013 1:19:24 AM] <stephen.poole@hotmail.com> Diablo:8792: Kill process
+[2/22/2013 1:19:24 AM] <stephen.poole@hotmail.com> Demonbuddy:532: Failed to close! kill process
+[2/22/2013 1:40:03 AM] <nnehl@live.com> Runs completed 25
+[2/22/2013 1:40:03 AM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 2:08:20 AM] <nnehl@live.com> Runs completed 26
+[2/22/2013 2:08:20 AM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 2:09:00 AM] <nnehl@live.com> We are scheduled to stop
+[2/22/2013 2:09:00 AM] <nnehl@live.com> Next scheduled start: 22/2 12:0
+[2/22/2013 2:09:00 AM] <nnehl@live.com> Diablo:7464: Kill process
+[2/22/2013 2:09:00 AM] <nnehl@live.com> Demonbuddy:476: Failed to close! kill process
+[2/22/2013 3:00:00 AM] <stephen.poole@hotmail.com> We are scheduled to start
+[2/22/2013 3:00:00 AM] <stephen.poole@hotmail.com> Next scheduled stop: 22/2 11:0
+[2/22/2013 3:00:00 AM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/22/2013 3:00:00 AM] <stephen.poole@hotmail.com> Replacing D3Prefs for user: Stephen
+[2/22/2013 3:00:00 AM] <stephen.poole@hotmail.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/22/2013 3:00:01 AM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+[2/22/2013 3:00:01 AM] <stephen.poole@hotmail.com> Region set: Europe : eu.actual.battle.net
+[2/22/2013 3:00:01 AM] <stephen.poole@hotmail.com> D3Starter: Process ID 8624 started.
+[2/22/2013 3:00:01 AM] <stephen.poole@hotmail.com> D3Starter: Patching process 8624
+[2/22/2013 3:00:01 AM] <stephen.poole@hotmail.com> D3Starter: Patching file access at address: 81CF4D
+[2/22/2013 3:00:01 AM] <stephen.poole@hotmail.com> D3Starter: Patching launcher startup at address: 80DDE4
+[2/22/2013 3:00:01 AM] <stephen.poole@hotmail.com> D3Starter: Resuming process 8624
+[2/22/2013 3:00:02 AM] <stephen.poole@hotmail.com> D3Starter: 1 game instances started! All done!
+[2/22/2013 3:00:02 AM] <stephen.poole@hotmail.com> Diablo:8624: Found D3 Splash Window (16782080)
+[2/22/2013 3:00:12 AM] <stephen.poole@hotmail.com> Diablo:8624: D3 Splash Window Closed (0)
+[2/22/2013 3:00:13 AM] <stephen.poole@hotmail.com> Diablo:8624: Found D3 Main Window (16847616)
+[2/22/2013 3:00:17 AM] <stephen.poole@hotmail.com> Diablo:8624: Waiting for process to become ready
+[2/22/2013 3:00:19 AM] AutoPosition Failed to get window rectangle (1314882)
+[2/22/2013 3:00:19 AM] AutoPosition Failed to get window rectangle (2297920)
+[2/22/2013 3:00:19 AM] AutoPosition Failed to get window rectangle (43385732)
+[2/22/2013 3:00:19 AM] <stephen.poole@hotmail.com> Diablo:8624: Process is ready
+[2/22/2013 3:00:19 AM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 3 seconds
+[2/22/2013 3:00:22 AM] <stephen.poole@hotmail.com> Demonbuddy:7272: Found matching log: E:\Applications\Diablo III\stephen.poole@hotmail.com EU\demonbuddy\Logs\7272 2013-02-21 10.25.txt
+[2/22/2013 3:00:23 AM] <stephen.poole@hotmail.com> Found login time: 2/21/2013 3:25:39 PM
+[2/22/2013 3:00:24 AM] <stephen.poole@hotmail.com> BuddyAuth: No session found.
+[2/22/2013 3:00:24 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III\stephen.poole@hotmail.com EU\demonbuddy\Plugins\YAR\Plugin.cs
+[2/22/2013 3:00:24 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/22/2013 3:00:24 AM] <stephen.poole@hotmail.com> Demonbuddy:8248: Waiting for process to become ready
+[2/22/2013 3:00:24 AM] <stephen.poole@hotmail.com> Diablo:8624: has focus. Bring attached Demonbuddy to front
+[2/22/2013 3:00:24 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (921790)
+[2/22/2013 3:00:24 AM] <stephen.poole@hotmail.com> Demonbuddy:8248: Process is ready
+[2/22/2013 3:00:24 AM] <stephen.poole@hotmail.com> Demonbuddy:8248: Waiting for demonbuddy to log into Diablo
+[2/22/2013 3:00:27 AM] <stephen.poole@hotmail.com> Failed to bring Demonbuddy to fron
+[2/22/2013 3:00:39 AM] <stephen.poole@hotmail.com> Demonbuddy:8248: Initialized! We are ready to go
+[2/22/2013 3:01:06 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 8:27:32 AM] <stephen.poole@hotmail.com> Runs completed 3
+[2/22/2013 8:27:32 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 8:27:52 AM] <stephen.poole@hotmail.com> Demonbuddy:8248: is stopped to long for a unknown reason (30 seconds)
+[2/22/2013 9:05:29 AM] <stephen.poole@hotmail.com> Diablo:8624: has focus. Bring attached Demonbuddy to front
+[2/22/2013 9:30:14 AM] <stephen.poole@hotmail.com> Demonbuddy stopped by Thirdparty
+[2/22/2013 9:30:27 AM] <stephen.poole@hotmail.com> Runs completed 4
+[2/22/2013 9:30:27 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level0
+[2/22/2013 9:59:11 AM] <stephen.poole@hotmail.com> Diablo:8624: has focus. Bring attached Demonbuddy to front
+[2/22/2013 9:59:21 AM] Closed!

@@ -1,0 +1,228 @@
+[2/7/2013 2:45:16 AM] Relogger Thread Starting!
+[2/7/2013 2:45:16 AM] Yet Another Relogger Version 0.1.9.2
+[2/7/2013 2:45:16 AM] Could not find a matching bot for Demonbuddy:880
+[2/7/2013 2:49:54 AM] Editing bot: profiles
+[2/7/2013 2:50:24 AM] <profiles> Forced to start! 
+[2/7/2013 2:50:25 AM] <profiles> We are scheduled to start
+[2/7/2013 2:50:25 AM] <profiles> Next scheduled stop: 7/2 2:0
+[2/7/2013 2:50:25 AM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/7/2013 2:50:25 AM] <profiles> Language set: English (US) : enUS
+[2/7/2013 2:50:25 AM] <profiles> Region set: America : us.actual.battle.net
+[2/7/2013 2:50:32 AM] <profiles> Diablo:4036: Found D3 Main Window (656658)
+[2/7/2013 2:50:35 AM] <profiles> Diablo:4036: Waiting for process to become ready
+[2/7/2013 2:50:37 AM] <profiles> Diablo:4036: Process is ready
+[2/7/2013 2:50:37 AM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/7/2013 2:50:47 AM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:5 Time:1 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/7/2013 2:50:47 AM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 2:50:47 AM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 2:50:47 AM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/7/2013 2:50:47 AM] <profiles> Plugin is installed and latest version
+[2/7/2013 2:50:47 AM] <profiles> Demonbuddy:764: Waiting for process to become ready
+[2/7/2013 2:50:47 AM] <profiles> Found Demonbuddy: MainWindow (1114460)
+[2/7/2013 2:50:47 AM] <profiles> Demonbuddy:764: Process is ready
+[2/7/2013 2:50:47 AM] <profiles> Demonbuddy:764: Waiting for demonbuddy to log into Diablo
+[2/7/2013 2:51:06 AM] <profiles> Sending MonsterPowerLevel: Level2
+[2/7/2013 2:51:06 AM] <profiles> Demonbuddy:764: Initialized! We are ready to go
+[2/7/2013 2:51:31 AM] <profiles> Demonbuddy stopped by user
+[2/7/2013 2:55:58 AM] <profiles> Stopping
+[2/7/2013 2:55:58 AM] <profiles> Diablo:4036: Kill process
+[2/7/2013 2:55:58 AM] <profiles> Demonbuddy:764: Waiting to close
+[2/7/2013 2:55:59 AM] <profiles> Demonbuddy:764: Closed.
+[2/7/2013 2:55:59 AM] Relogger Thread Starting!
+[2/7/2013 2:56:01 AM] <profiles> Forced to start! 
+[2/7/2013 2:56:02 AM] <profiles> We are scheduled to start
+[2/7/2013 2:56:02 AM] <profiles> Next scheduled stop: 7/2 2:18
+[2/7/2013 2:56:02 AM] <profiles> Killing Agent.exe:2960
+[2/7/2013 2:56:02 AM] <profiles> Language set: English (US) : enUS
+[2/7/2013 2:56:02 AM] <profiles> Region set: America : us.actual.battle.net
+[2/7/2013 2:56:09 AM] <profiles> Diablo:3820: Found D3 Main Window (1311714)
+[2/7/2013 2:56:11 AM] <profiles> Diablo:3820: Waiting for process to become ready
+[2/7/2013 2:56:14 AM] <profiles> Diablo:3820: Process is ready
+[2/7/2013 2:56:14 AM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/7/2013 2:56:24 AM] <profiles> Demonbuddy:764: Found matching log: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Logs\764 2013-02-07 02.50.txt
+[2/7/2013 2:56:24 AM] <profiles> Found login time: 2/7/2013 7:50:48 AM
+[2/7/2013 2:56:24 AM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/7/2013 2:56:24 AM] <profiles> Plugin is installed and latest version
+[2/7/2013 2:56:24 AM] <profiles> Demonbuddy:988: Waiting for process to become ready
+[2/7/2013 2:56:24 AM] <profiles> Found Demonbuddy: MainWindow (1180082)
+[2/7/2013 2:56:24 AM] <profiles> Demonbuddy:988: Process is ready
+[2/7/2013 2:56:24 AM] <profiles> Demonbuddy:988: Waiting for demonbuddy to log into Diablo
+[2/7/2013 2:56:43 AM] <profiles> Sending MonsterPowerLevel: Level2
+[2/7/2013 2:56:43 AM] <profiles> Demonbuddy:988: Initialized! We are ready to go
+[2/7/2013 2:57:35 AM] Editing bot: profiles
+[2/7/2013 3:00:00 AM] <profiles> Continue normal schedule
+[2/7/2013 3:03:36 AM] Editing bot: profiles
+[2/7/2013 3:07:20 AM] Editing bot: profiles
+[2/7/2013 3:14:45 AM] <profiles> Runs completed 1
+[2/7/2013 3:14:45 AM] <profiles> Sending MonsterPowerLevel: Disabled
+[2/7/2013 3:15:23 AM] Editing bot: profiles
+[2/7/2013 3:16:18 AM] Editing bot: profiles
+[2/7/2013 3:20:23 AM] Editing bot: profiles
+[2/7/2013 3:41:12 AM] <profiles> Runs completed 1
+[2/7/2013 3:41:12 AM] <profiles> Sending MonsterPowerLevel: Disabled
+[2/7/2013 3:45:02 AM] <profiles> Runs completed 2
+[2/7/2013 3:45:02 AM] <profiles> Sending MonsterPowerLevel: Disabled
+[2/7/2013 3:48:51 AM] Editing bot: profiles
+[2/7/2013 4:10:11 AM] <profiles> Runs completed 1
+[2/7/2013 4:10:11 AM] <profiles> Sending MonsterPowerLevel: Disabled
+[2/7/2013 4:10:34 AM] Editing bot: profiles
+[2/7/2013 4:33:56 AM] <profiles> Runs completed 1
+[2/7/2013 4:33:56 AM] <profiles> Sending MonsterPowerLevel: Disabled
+[2/7/2013 4:36:09 AM] <profiles> Runs completed 2
+[2/7/2013 4:36:09 AM] <profiles> Sending MonsterPowerLevel: Disabled
+[2/7/2013 5:02:51 AM] <profiles> Runs completed 3
+[2/7/2013 5:02:51 AM] <profiles> Sending MonsterPowerLevel: Disabled
+[2/7/2013 5:21:53 AM] Editing bot: profiles
+[2/7/2013 5:21:53 AM] <profiles> We are scheduled to stop
+[2/7/2013 5:21:53 AM] <profiles> Next scheduled start: 7/2 10:57
+[2/7/2013 5:21:53 AM] <profiles> Diablo:3820: Kill process
+[2/7/2013 5:21:53 AM] <profiles> Demonbuddy:988: Failed to close! kill process
+[2/7/2013 10:57:00 AM] <profiles> We are scheduled to start
+[2/7/2013 10:57:00 AM] <profiles> Next scheduled stop: 7/2 13:50
+[2/7/2013 10:57:00 AM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/7/2013 10:57:00 AM] <profiles> Language set: English (US) : enUS
+[2/7/2013 10:57:00 AM] <profiles> Region set: America : us.actual.battle.net
+[2/7/2013 10:57:07 AM] <profiles> Diablo:2788: Found D3 Main Window (984324)
+[2/7/2013 10:57:10 AM] <profiles> Diablo:2788: Waiting for process to become ready
+[2/7/2013 10:57:12 AM] <profiles> Diablo:2788: Process is ready
+[2/7/2013 10:57:12 AM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/7/2013 10:57:22 AM] <profiles> Demonbuddy:988: Found matching log: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Logs\988 2013-02-07 02.56.txt
+[2/7/2013 10:57:23 AM] <profiles> Found login time: 2/7/2013 7:56:25 AM
+[2/7/2013 10:57:23 AM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:1 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/7/2013 10:57:23 AM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 10:57:23 AM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 10:57:23 AM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/7/2013 10:57:23 AM] <profiles> Plugin is installed and latest version
+[2/7/2013 10:57:23 AM] <profiles> Demonbuddy:428: Waiting for process to become ready
+[2/7/2013 10:57:23 AM] <profiles> Found Demonbuddy: MainWindow (4129198)
+[2/7/2013 10:57:23 AM] <profiles> Demonbuddy:428: Process is ready
+[2/7/2013 10:57:23 AM] <profiles> Demonbuddy:428: Waiting for demonbuddy to log into Diablo
+[2/7/2013 10:57:41 AM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 10:57:41 AM] <profiles> Demonbuddy:428: Initialized! We are ready to go
+[2/7/2013 11:14:38 AM] <profiles> Runs completed (1/1)
+[2/7/2013 11:14:38 AM] <profiles> Current profile: "A1-A3_RELOGGERS_START_HERE.xml" Runs:2 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\A1-A3_RELOGGERS_START_HERE.xml)
+[2/7/2013 11:14:38 AM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 11:14:38 AM] <profiles> Next profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 11:14:45 AM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 11:15:21 AM] <profiles> Runs completed (1/2)
+[2/7/2013 11:15:21 AM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 11:26:30 AM] <profiles> Runs completed (2/2)
+[2/7/2013 11:26:30 AM] <profiles> All profiles are done resetting cycle
+[2/7/2013 11:26:30 AM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:2 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/7/2013 11:26:30 AM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 11:26:30 AM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 11:26:30 AM] <profiles> Next profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 11:26:38 AM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 11:54:23 AM] <profiles> Runs completed (1/2)
+[2/7/2013 11:54:23 AM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 12:12:32 PM] <profiles> Runs completed (2/2)
+[2/7/2013 12:12:32 PM] <profiles> Current profile: "A1-A3_RELOGGERS_START_HERE.xml" Runs:3 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\A1-A3_RELOGGERS_START_HERE.xml)
+[2/7/2013 12:12:32 PM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 12:12:32 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 12:12:32 PM] <profiles> Next profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 12:12:39 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 12:13:18 PM] <profiles> Runs completed (1/3)
+[2/7/2013 12:13:18 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 12:21:49 PM] <profiles> Runs completed (2/3)
+[2/7/2013 12:21:49 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 12:31:40 PM] <profiles> Runs completed (3/3)
+[2/7/2013 12:31:40 PM] <profiles> All profiles are done resetting cycle
+[2/7/2013 12:31:40 PM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:1 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/7/2013 12:31:40 PM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 12:31:40 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 12:31:40 PM] <profiles> Next profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 12:31:47 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 12:48:58 PM] <profiles> Runs completed (1/1)
+[2/7/2013 12:48:58 PM] <profiles> Current profile: "A1-A3_RELOGGERS_START_HERE.xml" Runs:3 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\A1-A3_RELOGGERS_START_HERE.xml)
+[2/7/2013 12:48:58 PM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 12:48:58 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 12:48:58 PM] <profiles> Next profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 12:49:06 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 12:49:51 PM] <profiles> Runs completed (1/3)
+[2/7/2013 12:49:51 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 1:01:42 PM] <profiles> Runs completed (2/3)
+[2/7/2013 1:01:42 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 1:11:33 PM] <profiles> Runs completed (3/3)
+[2/7/2013 1:11:33 PM] <profiles> All profiles are done resetting cycle
+[2/7/2013 1:11:33 PM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:2 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/7/2013 1:11:33 PM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 1:11:33 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 1:11:33 PM] <profiles> Next profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 1:11:41 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 1:36:02 PM] <profiles> Runs completed (1/2)
+[2/7/2013 1:36:03 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 1:50:00 PM] <profiles> We are scheduled to stop
+[2/7/2013 1:50:00 PM] <profiles> Next scheduled start: 7/2 15:33
+[2/7/2013 1:50:00 PM] <profiles> Diablo:2788: Kill process
+[2/7/2013 1:50:00 PM] <profiles> Demonbuddy:428: Failed to close! kill process
+[2/7/2013 3:33:00 PM] <profiles> We are scheduled to start
+[2/7/2013 3:33:00 PM] <profiles> Next scheduled stop: 8/2 1:55
+[2/7/2013 3:33:00 PM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/7/2013 3:33:00 PM] <profiles> Language set: English (US) : enUS
+[2/7/2013 3:33:00 PM] <profiles> Region set: America : us.actual.battle.net
+[2/7/2013 3:33:13 PM] <profiles> Diablo:3444: Found D3 Main Window (1574206)
+[2/7/2013 3:33:18 PM] <profiles> Diablo:3444: Waiting for process to become ready
+[2/7/2013 3:33:20 PM] <profiles> Diablo:3444: Process is ready
+[2/7/2013 3:33:20 PM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/7/2013 3:33:30 PM] <profiles> Demonbuddy:428: Found matching log: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Logs\428 2013-02-07 10.57.txt
+[2/7/2013 3:33:30 PM] <profiles> Found login time: 2/7/2013 3:57:24 PM
+[2/7/2013 3:33:30 PM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/7/2013 3:33:30 PM] <profiles> Plugin is installed and latest version
+[2/7/2013 3:33:30 PM] <profiles> Demonbuddy:3468: Waiting for process to become ready
+[2/7/2013 3:33:31 PM] <profiles> Found Demonbuddy: MainWindow (1443138)
+[2/7/2013 3:33:31 PM] <profiles> Demonbuddy:3468: Process is ready
+[2/7/2013 3:33:31 PM] <profiles> Demonbuddy:3468: Waiting for demonbuddy to log into Diablo
+[2/7/2013 3:33:56 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 3:33:56 PM] <profiles> Demonbuddy:3468: Initialized! We are ready to go
+[2/7/2013 3:57:21 PM] <profiles> Runs completed (2/2)
+[2/7/2013 3:57:21 PM] <profiles> Current profile: "A1-A3_RELOGGERS_START_HERE.xml" Runs:2 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\A1-A3_RELOGGERS_START_HERE.xml)
+[2/7/2013 3:57:21 PM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 3:57:21 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 3:57:21 PM] <profiles> Next profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 3:57:28 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 3:58:01 PM] <profiles> Runs completed (1/2)
+[2/7/2013 3:58:01 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 4:08:34 PM] <profiles> Runs completed (2/2)
+[2/7/2013 4:08:34 PM] <profiles> All profiles are done resetting cycle
+[2/7/2013 4:08:34 PM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:3 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/7/2013 4:08:34 PM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 4:08:34 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 4:08:34 PM] <profiles> Next profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 4:08:42 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 4:27:00 PM] <profiles> Runs completed (1/3)
+[2/7/2013 4:27:00 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 4:42:31 PM] <profiles> Runs completed (2/3)
+[2/7/2013 4:42:31 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 5:04:19 PM] <profiles> Runs completed (3/3)
+[2/7/2013 5:04:19 PM] <profiles> Current profile: "A1-A3_RELOGGERS_START_HERE.xml" Runs:3 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\A1-A3_RELOGGERS_START_HERE.xml)
+[2/7/2013 5:04:19 PM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 5:04:19 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 5:04:19 PM] <profiles> Next profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 5:04:27 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 5:04:59 PM] <profiles> Runs completed (1/3)
+[2/7/2013 5:04:59 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 5:14:02 PM] <profiles> Runs completed (2/3)
+[2/7/2013 5:14:02 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 5:22:55 PM] <profiles> Runs completed (3/3)
+[2/7/2013 5:22:55 PM] <profiles> All profiles are done resetting cycle
+[2/7/2013 5:22:55 PM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:1 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/7/2013 5:22:55 PM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 5:22:55 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 5:22:55 PM] <profiles> Next profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 5:23:03 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 5:48:19 PM] <profiles> Runs completed (1/1)
+[2/7/2013 5:48:19 PM] <profiles> Current profile: "A1-A3_RELOGGERS_START_HERE.xml" Runs:2 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\A1-A3_RELOGGERS_START_HERE.xml)
+[2/7/2013 5:48:19 PM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 5:48:19 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 5:48:19 PM] <profiles> Next profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/7/2013 5:48:27 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 5:49:09 PM] <profiles> Runs completed (1/2)
+[2/7/2013 5:49:09 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 5:58:31 PM] <profiles> Runs completed (2/2)
+[2/7/2013 5:58:31 PM] <profiles> All profiles are done resetting cycle
+[2/7/2013 5:58:31 PM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:3 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/7/2013 5:58:31 PM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 5:58:31 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 5:58:31 PM] <profiles> Next profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/7/2013 5:58:39 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/7/2013 6:04:18 PM] <profiles> Runs completed (1/3)

@@ -1,0 +1,79 @@
+[2/14/2013 1:42:03 AM] Relogger Thread Starting!
+[2/14/2013 1:42:03 AM] Yet Another Relogger Version 0.1.9.2
+[2/14/2013 1:42:14 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:42:14 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:4
+[2/14/2013 1:42:14 AM] <nnehl@live.com> Replacing D3Prefs for user: D3
+[2/14/2013 1:42:14 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\D3\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:42:15 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:42:15 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:42:15 AM] <nnehl@live.com> System.Runtime.InteropServices.COMException (0x80004005): Unspecified error
+
+   at System.DirectoryServices.DirectoryEntries.Find(String name, String schemaClassName)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ExistsAsAdmin(String username)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ImpersonateStartInfo(ProcessStartInfo startinfo, BotClass bot)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+[2/14/2013 1:42:15 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:42:19 AM] <stephen.poole@hotmail.com> Stopping
+[2/14/2013 1:42:19 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:42:19 AM] Relogger Thread Starting!
+[2/14/2013 1:43:55 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:43:55 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:3
+[2/14/2013 1:43:55 AM] <nnehl@live.com> Replacing D3Prefs for user: D3
+[2/14/2013 1:43:55 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\D3\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:43:56 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:43:56 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:43:56 AM] <nnehl@live.com> System.Runtime.InteropServices.COMException (0x80004005): Unspecified error
+
+   at System.DirectoryServices.DirectoryEntries.Find(String name, String schemaClassName)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ExistsAsAdmin(String username)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ImpersonateStartInfo(ProcessStartInfo startinfo, BotClass bot)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+[2/14/2013 1:43:56 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:44:03 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:44:10 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:44:11 AM] <stephen.poole@hotmail.com> Stopping
+[2/14/2013 1:44:11 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:44:11 AM] Relogger Thread Starting!
+[2/14/2013 1:44:13 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:44:13 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:9
+[2/14/2013 1:44:13 AM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/14/2013 1:44:13 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:44:14 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:44:14 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:44:21 AM] <nnehl@live.com> Diablo:7988: Found D3 Main Window (6555292)
+[2/14/2013 1:44:24 AM] <nnehl@live.com> Diablo:7988: Waiting for process to become ready
+[2/14/2013 1:44:26 AM] <nnehl@live.com> Diablo:7988: Process is ready
+[2/14/2013 1:44:26 AM] <nnehl@live.com> Demonbuddy start delay, waiting 10 seconds
+[2/14/2013 1:44:28 AM] <stephen.poole@hotmail.com> Stopping
+[2/14/2013 1:44:28 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:44:28 AM] Relogger Thread Starting!
+[2/14/2013 1:45:40 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:45:49 AM] Editing bot: stephen.poole@hotmail.com
+[2/14/2013 1:45:54 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:45:54 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:4
+[2/14/2013 1:45:54 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:45:54 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:45:54 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:46:01 AM] <nnehl@live.com> Diablo:7152: Found D3 Main Window (4981962)
+[2/14/2013 1:46:03 AM] <nnehl@live.com> Diablo:7152: Waiting for process to become ready
+[2/14/2013 1:46:05 AM] <nnehl@live.com> Diablo:7152: Process is ready
+[2/14/2013 1:46:05 AM] <nnehl@live.com> Demonbuddy start delay, waiting 10 seconds
+[2/14/2013 1:46:08 AM] <stephen.poole@hotmail.com> Stopping
+[2/14/2013 1:46:08 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:46:08 AM] <nnehl@live.com> Diablo:7152: Kill process
+[2/14/2013 1:46:08 AM] Relogger Thread Starting!
+[2/14/2013 1:46:17 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:46:21 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:46:21 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:3
+[2/14/2013 1:46:21 AM] <nnehl@live.com> Killing Agent.exe:6484
+[2/14/2013 1:46:21 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:46:21 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:46:21 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:46:21 AM] <nnehl@live.com> System.Runtime.InteropServices.COMException (0x80004005): Unspecified error
+
+   at System.DirectoryServices.DirectoryEntries.Find(String name, String schemaClassName)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ExistsAsAdmin(String username)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ImpersonateStartInfo(ProcessStartInfo startinfo, BotClass bot)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+[2/14/2013 1:46:21 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:46:27 AM] Closed!

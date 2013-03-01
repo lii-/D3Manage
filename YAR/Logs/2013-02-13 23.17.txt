@@ -1,0 +1,9 @@
+[2/13/2013 11:17:37 PM] Windows auto start delaying with 0 seconds
+[2/13/2013 11:17:37 PM] Relogger Thread Starting!
+[2/13/2013 11:17:38 PM] Yet Another Relogger Version 0.1.9.2
+[2/13/2013 11:23:17 PM] Editing bot: stephen.poole@hotmail.com
+[2/13/2013 11:25:29 PM] Editing bot: stephen.poole@hotmail.com
+[2/13/2013 11:25:41 PM] Editing bot: nnehl@live.com
+[2/13/2013 11:32:19 PM] Could not find a matching bot for Demonbuddy:4868
+[2/13/2013 11:35:54 PM] Could not find a matching bot for Demonbuddy:860
+[2/13/2013 11:37:55 PM] Closed!

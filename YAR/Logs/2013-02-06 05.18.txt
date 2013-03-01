@@ -1,0 +1,58 @@
+[2/6/2013 5:18:14 AM] Windows auto start delaying with 30 seconds
+[2/6/2013 5:18:19 AM] Yet Another Relogger Version 0.1.9.2
+[2/6/2013 5:18:44 AM] Relogger Thread Starting!
+[2/6/2013 5:18:44 AM] <profiles> We are scheduled to start
+[2/6/2013 5:18:44 AM] <profiles> Next scheduled stop: 6/2 6:1
+[2/6/2013 5:18:44 AM] PingCheck: Ping -> www.google.com
+[2/6/2013 5:18:45 AM] PingCheck: 74.125.226.84 -> 31ms
+[2/6/2013 5:18:45 AM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/6/2013 5:18:45 AM] <profiles> Language set: English (US) : enUS
+[2/6/2013 5:18:45 AM] <profiles> Region set: America : us.actual.battle.net
+[2/6/2013 5:19:04 AM] <profiles> Diablo:556: Found D3 Main Window (393548)
+[2/6/2013 5:19:12 AM] <profiles> Diablo:556: Waiting for process to become ready
+[2/6/2013 5:19:15 AM] <profiles> Diablo:556: Process is ready
+[2/6/2013 5:19:15 AM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/6/2013 5:19:25 AM] <profiles> Current profile: "Mint_START_HERE.xml" Runs:0 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\[A1 - Inferno]Champion-Hunting 3.0.3  Mint\Mint_START_HERE.xml)
+[2/6/2013 5:19:25 AM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/6/2013 5:19:25 AM] <profiles> Plugin is installed and latest version
+[2/6/2013 5:19:25 AM] <profiles> Demonbuddy:3272: Waiting for process to become ready
+[2/6/2013 5:19:28 AM] <profiles> Found Demonbuddy: MainWindow (65934)
+[2/6/2013 5:19:28 AM] <profiles> Demonbuddy:3272: Process is ready
+[2/6/2013 5:19:28 AM] <profiles> Demonbuddy:3272: Waiting for demonbuddy to log into Diablo
+[2/6/2013 5:22:25 AM] <profiles> Demonbuddy:3272: Failed to initialize 1/3
+[2/6/2013 5:22:25 AM] <profiles> Demonbuddy:3272: Forced to close!
+[2/6/2013 5:22:25 AM] <profiles> Demonbuddy:3272: Found matching log: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Logs\3272 2013-02-06 05.19.txt
+[2/6/2013 5:23:38 AM] <profiles> Demonbuddy:3272: Failed to find login time
+[2/6/2013 5:23:38 AM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/6/2013 5:23:38 AM] <profiles> Plugin is installed and latest version
+[2/6/2013 5:23:38 AM] <profiles> Demonbuddy:1804: Waiting for process to become ready
+[2/6/2013 5:23:39 AM] <profiles> Found Demonbuddy: MainWindow (131464)
+[2/6/2013 5:23:39 AM] <profiles> Demonbuddy:1804: Process is ready
+[2/6/2013 5:23:39 AM] <profiles> Demonbuddy:1804: Waiting for demonbuddy to log into Diablo
+[2/6/2013 5:26:39 AM] <profiles> Demonbuddy:1804: Failed to initialize 2/3
+[2/6/2013 5:26:39 AM] <profiles> Demonbuddy:1804: Forced to close!
+[2/6/2013 5:26:39 AM] <profiles> Demonbuddy:1804: Found matching log: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Logs\1804 2013-02-06 05.23.txt
+[2/6/2013 5:27:53 AM] <profiles> Demonbuddy:1804: Failed to find login time
+[2/6/2013 5:27:53 AM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/6/2013 5:27:53 AM] <profiles> Plugin is installed and latest version
+[2/6/2013 5:27:53 AM] <profiles> Demonbuddy:3188: Waiting for process to become ready
+[2/6/2013 5:27:53 AM] <profiles> Found Demonbuddy: MainWindow (197000)
+[2/6/2013 5:27:53 AM] <profiles> Demonbuddy:3188: Process is ready
+[2/6/2013 5:27:53 AM] <profiles> Demonbuddy:3188: Waiting for demonbuddy to log into Diablo
+[2/6/2013 5:30:53 AM] <profiles> Demonbuddy:3188: Failed to initialize 3/3
+[2/6/2013 5:30:53 AM] <profiles> Demonbuddy:3188: Forced to close!
+[2/6/2013 5:30:53 AM] <profiles> Demonbuddy:3188: Found matching log: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Logs\3188 2013-02-06 05.27.txt
+[2/6/2013 5:32:08 AM] <profiles> Demonbuddy:3188: Failed to find login time
+[2/6/2013 5:32:08 AM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/6/2013 5:32:08 AM] <profiles> Plugin is installed and latest version
+[2/6/2013 5:32:08 AM] <profiles> Demonbuddy:2008: Waiting for process to become ready
+[2/6/2013 5:32:08 AM] <profiles> Found Demonbuddy: MainWindow (262542)
+[2/6/2013 5:32:08 AM] <profiles> Demonbuddy:2008: Process is ready
+[2/6/2013 5:32:08 AM] <profiles> Demonbuddy:2008: Waiting for demonbuddy to log into Diablo
+[2/6/2013 5:35:08 AM] <profiles> Demonbuddy:2008: Failed to initialize more than 3 times
+[2/6/2013 5:35:08 AM] <profiles> Stopping
+[2/6/2013 5:35:08 AM] <profiles> Diablo:556: Kill process
+[2/6/2013 5:35:08 AM] <profiles> Demonbuddy:2008: Failed to close! kill process
+[2/7/2013 1:15:13 AM] Editing bot: profiles
+[2/7/2013 1:19:35 AM] Editing bot: profiles
+[2/7/2013 1:20:02 AM] Closed!

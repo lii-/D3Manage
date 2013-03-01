@@ -1,0 +1,105 @@
+[2/6/2013 12:53:37 AM] Relogger Thread Starting!
+[2/6/2013 12:53:37 AM] Yet Another Relogger Version 0.1.9.2
+[2/6/2013 12:53:37 AM] Application current path does not match last saved path. Updating registy key.
+[2/6/2013 12:53:40 AM] <profiles> We are scheduled to start
+[2/6/2013 12:53:40 AM] <profiles> Next scheduled stop: 6/2 4:6
+[2/6/2013 12:53:40 AM] PingCheck: Ping -> www.google.com
+[2/6/2013 12:53:40 AM] PingCheck: 74.125.226.83 -> 31ms
+[2/6/2013 12:53:41 AM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/6/2013 12:53:41 AM] <profiles> Language set: English (US) : enUS
+[2/6/2013 12:53:41 AM] <profiles> Region set: America : us.actual.battle.net
+[2/6/2013 12:53:48 AM] <profiles> Diablo:2208: Found D3 Main Window (1049198)
+[2/6/2013 12:53:51 AM] <profiles> Diablo:2208: Waiting for process to become ready
+[2/6/2013 12:53:53 AM] <profiles> Diablo:2208: Process is ready
+[2/6/2013 12:53:53 AM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/6/2013 12:54:03 AM] <profiles> Current profile: "Mint_START_HERE.xml" Runs:0 Time:3 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\[A1 - Inferno]Champion-Hunting 3.0.3  Mint\Mint_START_HERE.xml)
+[2/6/2013 12:54:03 AM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\[A1 - Inferno]Champion-Hunting 3.0.3  Mint\YAR_Kickstart.xml
+[2/6/2013 12:54:03 AM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/6/2013 12:54:03 AM] <profiles> Plugin does not exist
+[2/6/2013 12:54:03 AM] <profiles> Installing latest plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/6/2013 12:54:03 AM] <profiles> Demonbuddy:3720: Waiting for process to become ready
+[2/6/2013 12:54:03 AM] <profiles> Found Demonbuddy: MainWindow (1245642)
+[2/6/2013 12:54:03 AM] <profiles> Demonbuddy:3720: Process is ready
+[2/6/2013 12:54:03 AM] <profiles> Demonbuddy:3720: Waiting for demonbuddy to log into Diablo
+[2/6/2013 12:54:18 AM] <profiles> Stopping
+[2/6/2013 12:54:18 AM] <profiles> Diablo:2208: Kill process
+[2/6/2013 12:54:18 AM] <profiles> Demonbuddy:3720: Waiting to close
+[2/6/2013 12:54:19 AM] <profiles> Demonbuddy:3720: Closed.
+[2/6/2013 12:54:19 AM] Relogger Thread Starting!
+[2/6/2013 12:54:42 AM] Editing bot: profiles
+[2/6/2013 12:54:45 AM] <profiles> We are scheduled to start
+[2/6/2013 12:54:45 AM] <profiles> Next scheduled stop: 6/2 4:6
+[2/6/2013 12:54:45 AM] PingCheck: Ping -> www.google.com
+[2/6/2013 12:54:45 AM] PingCheck: 74.125.226.83 -> 29ms
+[2/6/2013 12:54:45 AM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/6/2013 12:54:45 AM] <profiles> Language set: English (US) : enUS
+[2/6/2013 12:54:45 AM] <profiles> Region set: America : us.actual.battle.net
+[2/6/2013 12:54:53 AM] <profiles> Diablo:1972: Found D3 Main Window (656094)
+[2/6/2013 12:54:55 AM] <profiles> Diablo:1972: Waiting for process to become ready
+[2/6/2013 12:54:57 AM] <profiles> Diablo:1972: Process is ready
+[2/6/2013 12:54:57 AM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/6/2013 12:55:07 AM] <profiles> Demonbuddy:3720: Found matching log: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Logs\3720 2013-02-06 00.54.txt
+[2/6/2013 12:55:07 AM] <profiles> Found login time: 2/6/2013 5:54:04 AM
+[2/6/2013 12:55:07 AM] <profiles> Current profile: "Mint_START_HERE.xml" Runs:0 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\[A1 - Inferno]Champion-Hunting 3.0.3  Mint\Mint_START_HERE.xml)
+[2/6/2013 12:55:07 AM] <profiles> Using a already generated Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\[A1 - Inferno]Champion-Hunting 3.0.3  Mint\YAR_Kickstart.xml
+[2/6/2013 12:55:07 AM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/6/2013 12:55:07 AM] <profiles> Plugin is installed and latest version
+[2/6/2013 12:55:07 AM] <profiles> Demonbuddy:1520: Waiting for process to become ready
+[2/6/2013 12:55:08 AM] <profiles> Found Demonbuddy: MainWindow (262960)
+[2/6/2013 12:55:08 AM] <profiles> Demonbuddy:1520: Process is ready
+[2/6/2013 12:55:08 AM] <profiles> Demonbuddy:1520: Waiting for demonbuddy to log into Diablo
+[2/6/2013 12:55:23 AM] <profiles> Stopping
+[2/6/2013 12:55:23 AM] <profiles> Diablo:1972: Kill process
+[2/6/2013 12:55:23 AM] <profiles> Demonbuddy:1520: Failed to close! kill process
+[2/6/2013 12:55:23 AM] Relogger Thread Starting!
+[2/6/2013 12:56:52 AM] Editing bot: profiles
+[2/6/2013 12:56:54 AM] <profiles> We are scheduled to start
+[2/6/2013 12:56:54 AM] <profiles> Next scheduled stop: 6/2 4:19
+[2/6/2013 12:56:54 AM] PingCheck: Ping -> www.google.com
+[2/6/2013 12:56:54 AM] PingCheck: 74.125.226.80 -> 31ms
+[2/6/2013 12:56:54 AM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/6/2013 12:56:54 AM] <profiles> Language set: English (US) : enUS
+[2/6/2013 12:56:54 AM] <profiles> Region set: America : us.actual.battle.net
+[2/6/2013 12:57:01 AM] <profiles> Diablo:2624: Found D3 Main Window (591250)
+[2/6/2013 12:57:04 AM] <profiles> Diablo:2624: Waiting for process to become ready
+[2/6/2013 12:57:06 AM] <profiles> Diablo:2624: Process is ready
+[2/6/2013 12:57:06 AM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/6/2013 12:57:16 AM] <profiles> Demonbuddy:1520: Found matching log: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Logs\1520 2013-02-06 00.55.txt
+[2/6/2013 12:57:16 AM] <profiles> Found login time: 2/6/2013 5:55:09 AM
+[2/6/2013 12:57:16 AM] <profiles> Current profile: "Mint_START_HERE.xml" Runs:0 Time:4 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\[A1 - Inferno]Champion-Hunting 3.0.3  Mint\Mint_START_HERE.xml)
+[2/6/2013 12:57:16 AM] <profiles> Using a already generated Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\[A1 - Inferno]Champion-Hunting 3.0.3  Mint\YAR_Kickstart.xml
+[2/6/2013 12:57:16 AM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/6/2013 12:57:16 AM] <profiles> Plugin is installed and latest version
+[2/6/2013 12:57:16 AM] <profiles> Demonbuddy:1084: Waiting for process to become ready
+[2/6/2013 12:57:17 AM] <profiles> Found Demonbuddy: MainWindow (656644)
+[2/6/2013 12:57:17 AM] <profiles> Demonbuddy:1084: Process is ready
+[2/6/2013 12:57:17 AM] <profiles> Demonbuddy:1084: Waiting for demonbuddy to log into Diablo
+[2/6/2013 12:58:23 AM] <profiles> Demonbuddy:1084: Failed to initialize 1/3
+[2/6/2013 12:58:23 AM] <profiles> Demonbuddy:1084: Found matching log: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Logs\1084 2013-02-06 00.57.txt
+[2/6/2013 12:59:01 AM] <profiles> Demonbuddy:1084: Failed to find login time
+[2/6/2013 12:59:01 AM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/6/2013 12:59:01 AM] <profiles> Plugin is installed and latest version
+[2/6/2013 12:59:01 AM] <profiles> Demonbuddy:2260: Waiting for process to become ready
+[2/6/2013 12:59:02 AM] <profiles> Found Demonbuddy: MainWindow (1115512)
+[2/6/2013 12:59:02 AM] <profiles> Demonbuddy:2260: Process is ready
+[2/6/2013 12:59:02 AM] <profiles> Demonbuddy:2260: Waiting for demonbuddy to log into Diablo
+[2/6/2013 12:59:23 AM] <profiles> Demonbuddy:2260: Initialized! We are ready to go
+[2/6/2013 12:59:24 AM] <profiles> Sending MonsterPowerLevel: Level1
+[2/6/2013 12:59:24 AM] <profiles> Demonbuddy stopped by Thirdparty
+[2/6/2013 1:00:11 AM] <profiles> Demonbuddy:2260: has not gained any gold in 32 seconds, limit 120
+[2/6/2013 1:01:06 AM] <profiles> Demonbuddy:2260: has not gained any gold in 32 seconds, limit 120
+[2/6/2013 1:02:40 AM] <profiles> Demonbuddy:2260: has not gained any gold in 32 seconds, limit 120
+[2/6/2013 1:03:13 AM] <profiles> Demonbuddy:2260: has not gained any gold in 64 seconds, limit 120
+[2/6/2013 1:03:45 AM] <profiles> Demonbuddy:2260: has not gained any gold in 97 seconds, limit 120
+[2/6/2013 1:04:40 AM] <profiles> Demonbuddy:2260: has not gained any gold in 32 seconds, limit 120
+[2/6/2013 1:05:34 AM] Editing bot: profiles
+[2/6/2013 1:06:07 AM] <profiles> Demonbuddy:2260: has not gained any gold in 32 seconds, limit 120
+[2/6/2013 1:06:39 AM] <profiles> Demonbuddy:2260: has not gained any gold in 64 seconds, limit 120
+[2/6/2013 1:07:12 AM] <profiles> Demonbuddy:2260: has not gained any gold in 96 seconds, limit 120
+[2/6/2013 1:07:38 AM] <profiles> Demonbuddy:2260: has not gained any gold in 122 seconds, trying reset
+[2/6/2013 1:07:42 AM] <profiles> Demonbuddy:2260: has not gained any gold in 127 seconds, limit 120
+[2/6/2013 1:08:13 AM] Editing bot: profiles
+[2/6/2013 1:08:15 AM] <profiles> Demonbuddy:2260: has not gained any gold in 159 seconds, limit 120
+[2/6/2013 1:08:24 AM] <profiles> Demonbuddy:2260: has not gained any gold in 169 seconds, trying reset
+[2/6/2013 1:08:45 AM] <profiles> Demonbuddy:2260: has not gained any gold in 190 seconds, limit NONE
+[2/6/2013 1:08:51 AM] Closed!

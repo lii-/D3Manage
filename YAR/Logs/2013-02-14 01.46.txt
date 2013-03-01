@@ -1,0 +1,166 @@
+[2/14/2013 1:46:32 AM] Relogger Thread Starting!
+[2/14/2013 1:46:32 AM] Yet Another Relogger Version 0.1.9.2
+[2/14/2013 1:46:37 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:46:37 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:3
+[2/14/2013 1:46:37 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:46:37 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:46:37 AM] <nnehl@live.com> System.Runtime.InteropServices.COMException (0x80004005): Unspecified error
+
+   at System.DirectoryServices.DirectoryEntries.Find(String name, String schemaClassName)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ExistsAsAdmin(String username)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ImpersonateStartInfo(ProcessStartInfo startinfo, BotClass bot)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+[2/14/2013 1:46:37 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:46:42 AM] <stephen.poole@hotmail.com> Stopping
+[2/14/2013 1:46:42 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:46:42 AM] Relogger Thread Starting!
+[2/14/2013 1:47:58 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:48:12 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:48:25 AM] Editing bot: stephen.poole@hotmail.com
+[2/14/2013 1:48:28 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:48:28 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:4
+[2/14/2013 1:48:28 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:48:28 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:48:35 AM] <nnehl@live.com> Diablo:5588: Found D3 Main Window (5113910)
+[2/14/2013 1:48:37 AM] <nnehl@live.com> Diablo:5588: Waiting for process to become ready
+[2/14/2013 1:48:39 AM] <nnehl@live.com> Diablo:5588: Process is ready
+[2/14/2013 1:48:39 AM] <nnehl@live.com> Demonbuddy start delay, waiting 10 seconds
+[2/14/2013 1:48:49 AM] <nnehl@live.com> Current profile: "AllActs_Relogger.xml" Runs:0 Time:0 mintues (E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Profiles\Questing All acts\AllActs_Relogger.xml)
+[2/14/2013 1:48:49 AM] <nnehl@live.com> Delete old Kickstart profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Profiles\Questing All acts\YAR_Kickstart.xml
+[2/14/2013 1:48:49 AM] <nnehl@live.com> Generate new Kickstart profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Profiles\Questing All acts\YAR_Kickstart.xml
+[2/14/2013 1:48:49 AM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Plugins\YAR\Plugin.cs
+[2/14/2013 1:48:49 AM] <nnehl@live.com> Plugin is installed and latest version
+[2/14/2013 1:48:49 AM] <nnehl@live.com> Demonbuddy:6152: Waiting for process to become ready
+[2/14/2013 1:48:50 AM] <nnehl@live.com> Found Demonbuddy: MainWindow (7210394)
+[2/14/2013 1:48:50 AM] <nnehl@live.com> Demonbuddy:6152: Process is ready
+[2/14/2013 1:48:50 AM] <nnehl@live.com> Demonbuddy:6152: Waiting for demonbuddy to log into Diablo
+[2/14/2013 1:49:05 AM] <nnehl@live.com> Demonbuddy:6152: Initialized! We are ready to go
+[2/14/2013 1:49:05 AM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/14/2013 1:50:02 AM] <nnehl@live.com> Demonbuddy:6152: is stopped to long for a unknown reason (30 seconds)
+[2/14/2013 1:50:55 AM] <nnehl@live.com> Demonbuddy:6152: Process is not running
+[2/14/2013 1:50:55 AM] <nnehl@live.com> Demonbuddy:6152: Found matching log: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Logs\6152 2013-02-14 01.48.txt
+[2/14/2013 1:50:56 AM] <nnehl@live.com> Found login time: 2/14/2013 6:48:50 AM
+[2/14/2013 1:50:56 AM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Plugins\YAR\Plugin.cs
+[2/14/2013 1:50:56 AM] <nnehl@live.com> Plugin is installed and latest version
+[2/14/2013 1:50:56 AM] <nnehl@live.com> Demonbuddy:8120: Waiting for process to become ready
+[2/14/2013 1:50:56 AM] <nnehl@live.com> Found Demonbuddy: MainWindow (2623018)
+[2/14/2013 1:50:56 AM] <nnehl@live.com> Demonbuddy:8120: Process is ready
+[2/14/2013 1:50:56 AM] <nnehl@live.com> Demonbuddy:8120: Waiting for demonbuddy to log into Diablo
+[2/14/2013 1:51:03 AM] <nnehl@live.com> Demonbuddy:8120: Initialized! We are ready to go
+[2/14/2013 1:51:04 AM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/14/2013 1:51:31 AM] <stephen.poole@hotmail.com> We are scheduled to start
+[2/14/2013 1:51:32 AM] <stephen.poole@hotmail.com> Next scheduled stop: 14/2 3:14
+[2/14/2013 1:51:32 AM] <stephen.poole@hotmail.com> Killing Agent.exe:7336
+[2/14/2013 1:51:32 AM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:51:32 AM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+[2/14/2013 1:51:32 AM] <stephen.poole@hotmail.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:51:39 AM] <stephen.poole@hotmail.com> Diablo:7696: Found D3 Main Window (1705368)
+[2/14/2013 1:51:41 AM] <stephen.poole@hotmail.com> Diablo:7696: Waiting for process to become ready
+[2/14/2013 1:51:43 AM] <stephen.poole@hotmail.com> Diablo:7696: Process is ready
+[2/14/2013 1:51:43 AM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 10 seconds
+[2/14/2013 1:51:53 AM] <stephen.poole@hotmail.com> Current profile: "GardettosRev2.0RaF_XX_Starter.xml" Runs:3 Time:0 mintues (E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Profiles\Gardetto's Revenge 2.0\GardettosRev2.0RaF_XX_Starter.xml)
+[2/14/2013 1:51:53 AM] <stephen.poole@hotmail.com> Delete old Kickstart profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Profiles\Gardetto's Revenge 2.0\YAR_Kickstart.xml
+[2/14/2013 1:51:53 AM] <stephen.poole@hotmail.com> Generate new Kickstart profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Profiles\Gardetto's Revenge 2.0\YAR_Kickstart.xml
+[2/14/2013 1:51:53 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Plugins\YAR\Plugin.cs
+[2/14/2013 1:51:53 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/14/2013 1:51:53 AM] <stephen.poole@hotmail.com> Demonbuddy:2468: Waiting for process to become ready
+[2/14/2013 1:51:53 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (4720098)
+[2/14/2013 1:51:53 AM] <stephen.poole@hotmail.com> ManualPosition window:4720098: X:1921 Y:0 W:800 H:600
+[2/14/2013 1:51:54 AM] <stephen.poole@hotmail.com> Demonbuddy:2468: Process is ready
+[2/14/2013 1:51:54 AM] <stephen.poole@hotmail.com> Demonbuddy:2468: Waiting for demonbuddy to log into Diablo
+[2/14/2013 1:52:09 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/14/2013 1:52:10 AM] <stephen.poole@hotmail.com> Demonbuddy:2468: Initialized! We are ready to go
+[2/14/2013 1:52:27 AM] <nnehl@live.com> Runs completed 1
+[2/14/2013 1:52:27 AM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/14/2013 1:53:42 AM] <stephen.poole@hotmail.com> Demonbuddy:2468: Process is not running
+[2/14/2013 1:53:42 AM] <stephen.poole@hotmail.com> Demonbuddy:2468: Found matching log: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Logs\2468 2013-02-14 01.51.txt
+[2/14/2013 1:53:42 AM] <stephen.poole@hotmail.com> Found login time: 2/14/2013 6:51:54 AM
+[2/14/2013 1:53:42 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Plugins\YAR\Plugin.cs
+[2/14/2013 1:53:42 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/14/2013 1:53:42 AM] <stephen.poole@hotmail.com> Demonbuddy:8168: Waiting for process to become ready
+[2/14/2013 1:53:43 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (2164974)
+[2/14/2013 1:53:43 AM] <stephen.poole@hotmail.com> ManualPosition window:2164974: X:1921 Y:0 W:800 H:600
+[2/14/2013 1:53:43 AM] <stephen.poole@hotmail.com> Demonbuddy:8168: Process is ready
+[2/14/2013 1:53:43 AM] <stephen.poole@hotmail.com> Demonbuddy:8168: Waiting for demonbuddy to log into Diablo
+[2/14/2013 1:53:50 AM] <stephen.poole@hotmail.com> Demonbuddy:8168: Initialized! We are ready to go
+[2/14/2013 1:53:50 AM] <nnehl@live.com> Demonbuddy:8120: Process is not running
+[2/14/2013 1:53:50 AM] <nnehl@live.com> Demonbuddy:8120: Found matching log: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Logs\8120 2013-02-14 01.50.txt
+[2/14/2013 1:53:50 AM] <nnehl@live.com> Found login time: 2/14/2013 6:50:57 AM
+[2/14/2013 1:53:50 AM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Plugins\YAR\Plugin.cs
+[2/14/2013 1:53:50 AM] <nnehl@live.com> Plugin is installed and latest version
+[2/14/2013 1:53:50 AM] <nnehl@live.com> Demonbuddy:7304: Waiting for process to become ready
+[2/14/2013 1:53:51 AM] <nnehl@live.com> Found Demonbuddy: MainWindow (5440728)
+[2/14/2013 1:53:51 AM] <nnehl@live.com> Demonbuddy:7304: Process is ready
+[2/14/2013 1:53:51 AM] <nnehl@live.com> Demonbuddy:7304: Waiting for demonbuddy to log into Diablo
+[2/14/2013 1:53:56 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/14/2013 1:53:59 AM] <nnehl@live.com> Demonbuddy:7304: Initialized! We are ready to go
+[2/14/2013 1:54:01 AM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/14/2013 1:56:44 AM] <nnehl@live.com> Demonbuddy:7304: Process is not running
+[2/14/2013 1:56:44 AM] <nnehl@live.com> Demonbuddy:7304: Found matching log: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Logs\7304 2013-02-14 01.53.txt
+[2/14/2013 1:56:44 AM] <nnehl@live.com> Found login time: 2/14/2013 6:53:51 AM
+[2/14/2013 1:56:44 AM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Plugins\YAR\Plugin.cs
+[2/14/2013 1:56:44 AM] <nnehl@live.com> Plugin is installed and latest version
+[2/14/2013 1:56:44 AM] <nnehl@live.com> Demonbuddy:7588: Waiting for process to become ready
+[2/14/2013 1:56:45 AM] <nnehl@live.com> Found Demonbuddy: MainWindow (4392826)
+[2/14/2013 1:56:45 AM] <nnehl@live.com> Demonbuddy:7588: Process is ready
+[2/14/2013 1:56:45 AM] <nnehl@live.com> Demonbuddy:7588: Waiting for demonbuddy to log into Diablo
+[2/14/2013 1:56:52 AM] <nnehl@live.com> Demonbuddy:7588: Initialized! We are ready to go
+[2/14/2013 1:56:53 AM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/14/2013 1:57:16 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:57:16 AM] <nnehl@live.com> Diablo:5588: Kill process
+[2/14/2013 1:57:16 AM] <nnehl@live.com> Demonbuddy:7588: Waiting to close
+[2/14/2013 1:57:17 AM] <nnehl@live.com> Demonbuddy:7588: Closed.
+[2/14/2013 1:57:29 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:57:32 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:57:32 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:6
+[2/14/2013 1:57:32 AM] <nnehl@live.com> Killing Agent.exe:7808
+[2/14/2013 1:57:32 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:57:32 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:57:32 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:57:39 AM] <nnehl@live.com> Diablo:6716: Found D3 Main Window (2623628)
+[2/14/2013 1:57:41 AM] <nnehl@live.com> Diablo:6716: Waiting for process to become ready
+[2/14/2013 1:57:44 AM] <nnehl@live.com> Diablo:6716: Process is ready
+[2/14/2013 1:57:44 AM] <nnehl@live.com> Demonbuddy start delay, waiting 10 seconds
+[2/14/2013 1:57:54 AM] <nnehl@live.com> Demonbuddy:7588: Found matching log: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Logs\7588 2013-02-14 01.56.txt
+[2/14/2013 1:57:54 AM] <nnehl@live.com> Found login time: 2/14/2013 6:56:45 AM
+[2/14/2013 1:57:54 AM] <nnehl@live.com> Current profile: "AllActs_Relogger.xml" Runs:0 Time:0 mintues (E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Profiles\Questing All acts\AllActs_Relogger.xml)
+[2/14/2013 1:57:54 AM] <nnehl@live.com> Delete old Kickstart profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Profiles\Questing All acts\YAR_Kickstart.xml
+[2/14/2013 1:57:54 AM] <nnehl@live.com> Generate new Kickstart profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Profiles\Questing All acts\YAR_Kickstart.xml
+[2/14/2013 1:57:54 AM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Plugins\YAR\Plugin.cs
+[2/14/2013 1:57:54 AM] <nnehl@live.com> Plugin is installed and latest version
+[2/14/2013 1:57:54 AM] <nnehl@live.com> Demonbuddy:7256: Waiting for process to become ready
+[2/14/2013 1:57:55 AM] <nnehl@live.com> Found Demonbuddy: MainWindow (3016744)
+[2/14/2013 1:57:55 AM] <nnehl@live.com> Demonbuddy:7256: Process is ready
+[2/14/2013 1:57:55 AM] <nnehl@live.com> Demonbuddy:7256: Waiting for demonbuddy to log into Diablo
+[2/14/2013 1:58:09 AM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/14/2013 1:58:10 AM] <nnehl@live.com> Demonbuddy:7256: Initialized! We are ready to go
+[2/14/2013 1:58:27 AM] ####[ Detecting Screens ]####
+[2/14/2013 1:58:27 AM] - Primary Screen 0: X:0,Y:0,W:1920,H:1080 Enabled:False
+[2/14/2013 1:58:27 AM] Name: \\.\DISPLAY1
+[2/14/2013 1:58:27 AM] Device: NVIDIA GeForce GTX 470
+[2/14/2013 1:58:27 AM] WorkingArea: X:0,Y:0,W:1920,H:1050
+[2/14/2013 1:58:27 AM] - Screen 1: X:-1680,Y:-14,W:1680,H:1050 Enabled:False
+[2/14/2013 1:58:27 AM] Name: \\.\DISPLAY2
+[2/14/2013 1:58:27 AM] Device: NVIDIA GeForce GTX 470
+[2/14/2013 1:58:27 AM] WorkingArea: X:-1680,Y:-14,W:1680,H:1050
+[2/14/2013 1:58:27 AM] - Screen 2: X:1920,Y:0,W:1680,H:1050 Enabled:True
+[2/14/2013 1:58:27 AM] Name: \\.\DISPLAY3
+[2/14/2013 1:58:27 AM] Device: NVIDIA GeForce GTX 470
+[2/14/2013 1:58:27 AM] WorkingArea: X:1920,Y:0,W:1680,H:1050
+[2/14/2013 1:58:27 AM] ######################
+[2/14/2013 1:58:28 AM] ####[ Detecting Screens ]####
+[2/14/2013 1:58:28 AM] - Primary Screen 0: X:0,Y:0,W:1920,H:1080 Enabled:False
+[2/14/2013 1:58:28 AM] Name: \\.\DISPLAY1
+[2/14/2013 1:58:28 AM] Device: NVIDIA GeForce GTX 470
+[2/14/2013 1:58:28 AM] WorkingArea: X:0,Y:0,W:1920,H:1050
+[2/14/2013 1:58:28 AM] - Screen 1: X:-1680,Y:-14,W:1680,H:1050 Enabled:False
+[2/14/2013 1:58:28 AM] Name: \\.\DISPLAY2
+[2/14/2013 1:58:28 AM] Device: NVIDIA GeForce GTX 470
+[2/14/2013 1:58:28 AM] WorkingArea: X:-1680,Y:-14,W:1680,H:1050
+[2/14/2013 1:58:28 AM] - Screen 2: X:1920,Y:0,W:1680,H:1050 Enabled:True
+[2/14/2013 1:58:28 AM] Name: \\.\DISPLAY3
+[2/14/2013 1:58:28 AM] Device: NVIDIA GeForce GTX 470
+[2/14/2013 1:58:28 AM] WorkingArea: X:1920,Y:0,W:1680,H:1050
+[2/14/2013 1:58:28 AM] ######################
+[2/14/2013 1:59:01 AM] <nnehl@live.com> Demonbuddy:7256: is stopped to long for a unknown reason (30 seconds)
+[2/14/2013 1:59:14 AM] Closed!

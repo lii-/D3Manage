@@ -1,0 +1,118 @@
+[2/10/2013 7:44:51 PM] Windows auto start delaying with 10 seconds
+[2/10/2013 7:44:57 PM] Yet Another Relogger Version 0.1.9.2
+[2/10/2013 7:44:57 PM] Application current path does not match last saved path. Updating registy key.
+[2/10/2013 7:45:06 PM] Relogger Thread Starting!
+[2/10/2013 7:45:06 PM] <profiles> We are scheduled to start
+[2/10/2013 7:45:06 PM] <profiles> Next scheduled stop: 11/2 3:3
+[2/10/2013 7:45:06 PM] <profiles> Language set: English (US) : enUS
+[2/10/2013 7:45:06 PM] <profiles> Region set: America : us.actual.battle.net
+[2/10/2013 7:45:16 PM] Editing bot: profiles
+[2/10/2013 7:45:21 PM] <profiles> Stopping
+[2/10/2013 7:45:21 PM] <profiles> Diablo:3232: Kill process
+[2/10/2013 7:45:21 PM] Relogger Thread Starting!
+[2/10/2013 7:45:21 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 7:45:22 PM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 7:45:22 PM] Waiting 10 seconds and try again!
+[2/10/2013 7:45:24 PM] <profiles> We are scheduled to start
+[2/10/2013 7:45:24 PM] <profiles> Next scheduled stop: 11/2 3:52
+[2/10/2013 7:45:24 PM] <profiles> Killing Agent.exe:3456
+[2/10/2013 7:45:24 PM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/10/2013 7:45:24 PM] <profiles> Language set: English (US) : enUS
+[2/10/2013 7:45:24 PM] <profiles> Region set: America : us.actual.battle.net
+[2/10/2013 7:45:30 PM] <profiles> Diablo:3712: Found D3 Main Window (393606)
+[2/10/2013 7:45:36 PM] <profiles> Diablo:3712: Waiting for process to become ready
+[2/10/2013 7:45:39 PM] <profiles> Diablo:3712: Process is ready
+[2/10/2013 7:45:39 PM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/10/2013 7:45:49 PM] <profiles> Current profile: "YAR_Kickstart.xml" Runs:0 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml)
+[2/10/2013 7:45:49 PM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/10/2013 7:45:49 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/10/2013 7:45:49 PM] <profiles> Failed to generate Kickstart profile: System.IO.FileNotFoundException: Could not find file 'C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml'.
+File name: 'C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at YetAnotherRelogger.Helpers.ProfileKickstart.GenerateKickstart(Profile profile, Boolean tmpkickstart)
+[2/10/2013 7:45:49 PM] <profiles> Using the profile without Kickstart!
+[2/10/2013 7:45:49 PM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/10/2013 7:45:49 PM] <profiles> Plugin is installed and latest version
+[2/10/2013 7:45:49 PM] <profiles> Demonbuddy:1196: Waiting for process to become ready
+[2/10/2013 7:45:52 PM] <profiles> Found Demonbuddy: MainWindow (131726)
+[2/10/2013 7:45:52 PM] <profiles> Demonbuddy:1196: Process is ready
+[2/10/2013 7:45:52 PM] <profiles> Demonbuddy:1196: Waiting for demonbuddy to log into Diablo
+[2/10/2013 7:46:14 PM] <profiles> Stopping
+[2/10/2013 7:46:14 PM] <profiles> Diablo:3712: Kill process
+[2/10/2013 7:46:14 PM] <profiles> Demonbuddy:1196: Waiting to close
+[2/10/2013 7:46:16 PM] <profiles> Demonbuddy:1196: Closed.
+[2/10/2013 7:46:16 PM] Relogger Thread Starting!
+[2/10/2013 7:46:30 PM] Editing bot: profiles
+[2/10/2013 7:46:36 PM] Editing bot: profiles
+[2/10/2013 7:46:37 PM] <profiles> We are scheduled to start
+[2/10/2013 7:46:37 PM] <profiles> Next scheduled stop: 11/2 3:49
+[2/10/2013 7:46:37 PM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/10/2013 7:46:37 PM] <profiles> Language set: English (US) : enUS
+[2/10/2013 7:46:37 PM] <profiles> Region set: America : us.actual.battle.net
+[2/10/2013 7:46:42 PM] <profiles> Diablo:1120: Found D3 Main Window (459402)
+[2/10/2013 7:46:44 PM] <profiles> Diablo:1120: Waiting for process to become ready
+[2/10/2013 7:46:46 PM] <profiles> Diablo:1120: Process is ready
+[2/10/2013 7:46:46 PM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/10/2013 7:46:56 PM] <profiles> Demonbuddy:1196: Found matching log: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Logs\1196 2013-02-10 19.45.txt
+[2/10/2013 7:46:56 PM] <profiles> Found login time: 2/11/2013 12:45:54 AM
+[2/10/2013 7:46:56 PM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:0 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/10/2013 7:46:56 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/10/2013 7:46:56 PM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/10/2013 7:46:56 PM] <profiles> Plugin is installed and latest version
+[2/10/2013 7:46:56 PM] <profiles> Demonbuddy:1620: Waiting for process to become ready
+[2/10/2013 7:46:56 PM] <profiles> Found Demonbuddy: MainWindow (262736)
+[2/10/2013 7:46:56 PM] <profiles> Demonbuddy:1620: Process is ready
+[2/10/2013 7:46:56 PM] <profiles> Demonbuddy:1620: Waiting for demonbuddy to log into Diablo
+[2/10/2013 7:47:14 PM] <profiles> Demonbuddy:1620: Initialized! We are ready to go
+[2/10/2013 7:47:15 PM] <profiles> Sending MonsterPowerLevel: Level0
+[2/10/2013 7:47:15 PM] <profiles> Demonbuddy stopped by Thirdparty
+[2/10/2013 7:49:15 PM] <profiles> Stopping
+[2/10/2013 7:49:15 PM] <profiles> Diablo:1120: Kill process
+[2/10/2013 7:49:15 PM] <profiles> Demonbuddy:1620: Waiting to close
+[2/10/2013 7:49:16 PM] <profiles> Demonbuddy:1620: Closed.
+[2/10/2013 7:49:16 PM] Relogger Thread Starting!
+[2/10/2013 7:49:19 PM] Editing bot: profiles
+[2/10/2013 7:49:20 PM] <profiles> We are scheduled to start
+[2/10/2013 7:49:20 PM] <profiles> Next scheduled stop: 11/2 3:23
+[2/10/2013 7:49:20 PM] <profiles> Killing Agent.exe:2080
+[2/10/2013 7:49:20 PM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/10/2013 7:49:20 PM] <profiles> Language set: English (US) : enUS
+[2/10/2013 7:49:20 PM] <profiles> Region set: America : us.actual.battle.net
+[2/10/2013 7:49:25 PM] <profiles> Diablo:3340: Found D3 Main Window (459354)
+[2/10/2013 7:49:27 PM] <profiles> Diablo:3340: Waiting for process to become ready
+[2/10/2013 7:49:29 PM] <profiles> Diablo:3340: Process is ready
+[2/10/2013 7:49:29 PM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/10/2013 7:49:39 PM] <profiles> Demonbuddy:1620: Found matching log: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Logs\1620 2013-02-10 19.46.txt
+[2/10/2013 7:49:39 PM] <profiles> Found login time: 2/11/2013 12:46:57 AM
+[2/10/2013 7:49:39 PM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:1 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/10/2013 7:49:39 PM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/10/2013 7:49:39 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/10/2013 7:49:39 PM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/10/2013 7:49:39 PM] <profiles> Plugin is installed and latest version
+[2/10/2013 7:49:39 PM] <profiles> Demonbuddy:3272: Waiting for process to become ready
+[2/10/2013 7:49:40 PM] <profiles> Found Demonbuddy: MainWindow (328594)
+[2/10/2013 7:49:40 PM] <profiles> Demonbuddy:3272: Process is ready
+[2/10/2013 7:49:40 PM] <profiles> Demonbuddy:3272: Waiting for demonbuddy to log into Diablo
+[2/10/2013 7:49:56 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/10/2013 7:49:56 PM] <profiles> Demonbuddy:3272: Initialized! We are ready to go
+[2/10/2013 7:49:56 PM] <profiles> Demonbuddy stopped by Thirdparty
+[2/10/2013 7:50:13 PM] ####[ Detecting Screens ]####
+[2/10/2013 7:50:13 PM] - Primary Screen 0: X:0,Y:0,W:1680,H:1050 Enabled:True
+[2/10/2013 7:50:13 PM] Name: \\.\DISPLAY1
+[2/10/2013 7:50:13 PM] Device: VMware SVGA 3D (Microsoft Corporation - WDDM)
+[2/10/2013 7:50:13 PM] WorkingArea: X:0,Y:0,W:1680,H:1006
+[2/10/2013 7:50:13 PM] ######################
+[2/10/2013 7:50:14 PM] ####[ Detecting Screens ]####
+[2/10/2013 7:50:14 PM] - Primary Screen 0: X:0,Y:0,W:1680,H:1050 Enabled:True
+[2/10/2013 7:50:14 PM] Name: \\.\DISPLAY1
+[2/10/2013 7:50:14 PM] Device: VMware SVGA 3D (Microsoft Corporation - WDDM)
+[2/10/2013 7:50:14 PM] WorkingArea: X:0,Y:0,W:1680,H:1006
+[2/10/2013 7:50:14 PM] ######################
+[2/10/2013 7:50:33 PM] Closed!

@@ -1,0 +1,5 @@
+[2/21/2013 6:48:45 AM] Relogger Thread Starting!
+[2/21/2013 6:48:45 AM] Yet Another Relogger Version 0.1.9.2
+[2/21/2013 6:48:45 AM] Application current path does not match last saved path. Updating registy key.
+[2/21/2013 6:48:45 AM] Could not find a matching bot for Demonbuddy:316
+[2/21/2013 6:51:53 AM] Closed!

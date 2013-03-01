@@ -1,0 +1,21 @@
+[2/14/2013 2:15:13 AM] Windows auto start delaying with 30 seconds
+[2/14/2013 2:15:14 AM] Yet Another Relogger Version 0.1.9.2
+[2/14/2013 2:15:43 AM] Relogger Thread Starting!
+[2/14/2013 2:15:43 AM] <stephen.poole@hotmail.com> We are scheduled to start
+[2/14/2013 2:15:43 AM] <stephen.poole@hotmail.com> Next scheduled stop: 14/2 3:38
+[2/14/2013 2:15:43 AM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 2:15:43 AM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+[2/14/2013 2:15:43 AM] <stephen.poole@hotmail.com> Region set: America : us.actual.battle.net
+[2/14/2013 2:15:58 AM] <stephen.poole@hotmail.com> Diablo:5896: Found D3 Main Window (197598)
+[2/14/2013 2:16:04 AM] <stephen.poole@hotmail.com> Diablo:5896: Waiting for process to become ready
+[2/14/2013 2:16:06 AM] <stephen.poole@hotmail.com> Diablo:5896: Process is ready
+[2/14/2013 2:16:06 AM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 3 seconds
+[2/14/2013 2:16:10 AM] <stephen.poole@hotmail.com> Current profile: "Act3 by rrrix START_HERE.xml" Runs:3 Time:0 mintues (E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Profiles\Act 3 Inferno by rrrix\Act3 by rrrix START_HERE.xml)
+[2/14/2013 2:16:10 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Plugins\YAR\Plugin.cs
+[2/14/2013 2:16:10 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/14/2013 2:16:10 AM] <stephen.poole@hotmail.com> Demonbuddy:5572: Waiting for process to become ready
+[2/14/2013 2:16:11 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (67016)
+[2/14/2013 2:16:11 AM] <stephen.poole@hotmail.com> ManualPosition window:67016: X:1921 Y:0 W:800 H:600
+[2/14/2013 2:16:12 AM] <stephen.poole@hotmail.com> Demonbuddy:5572: Process is ready
+[2/14/2013 2:16:12 AM] <stephen.poole@hotmail.com> Demonbuddy:5572: Waiting for demonbuddy to log into Diablo
+[2/14/2013 2:16:32 AM] Closed!

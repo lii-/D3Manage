@@ -1,0 +1,12 @@
+[2/10/2013 8:25:05 PM] Windows auto start delaying with 10 seconds
+[2/10/2013 8:25:11 PM] Yet Another Relogger Version 0.1.9.2
+[2/10/2013 8:25:16 PM] Relogger Thread Starting!
+[2/10/2013 8:25:16 PM] <profiles> We are scheduled to start
+[2/10/2013 8:25:16 PM] <profiles> Next scheduled stop: 11/2 3:54
+[2/10/2013 8:25:16 PM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/10/2013 8:25:16 PM] <profiles> Language set: English (US) : enUS
+[2/10/2013 8:25:16 PM] <profiles> Region set: America : us.actual.battle.net
+[2/10/2013 8:26:04 PM] <profiles> Stopping
+[2/10/2013 8:26:04 PM] <profiles> Diablo:3200: Kill process
+[2/10/2013 8:26:04 PM] Relogger Thread Starting!
+[2/10/2013 8:26:04 PM] Relogger Crashed! with message Thread was being aborted.

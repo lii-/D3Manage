@@ -1,0 +1,271 @@
+[2/10/2013 8:31:05 PM] ####[ Detecting Screens ]####
+[2/10/2013 8:31:05 PM] - Primary Screen 0: X:0,Y:0,W:1920,H:1080 Enabled:True
+[2/10/2013 8:31:05 PM] Name: \\.\DISPLAY1
+[2/10/2013 8:31:05 PM] Device: NVIDIA GeForce GTX 470
+[2/10/2013 8:31:05 PM] WorkingArea: X:0,Y:0,W:1920,H:1050
+[2/10/2013 8:31:05 PM] - Screen 1: X:-1680,Y:-14,W:1680,H:1050 Enabled:True
+[2/10/2013 8:31:05 PM] Name: \\.\DISPLAY2
+[2/10/2013 8:31:05 PM] Device: NVIDIA GeForce GTX 470
+[2/10/2013 8:31:05 PM] WorkingArea: X:-1680,Y:-14,W:1680,H:1050
+[2/10/2013 8:31:05 PM] - Screen 2: X:1920,Y:0,W:1680,H:1050 Enabled:True
+[2/10/2013 8:31:05 PM] Name: \\.\DISPLAY3
+[2/10/2013 8:31:05 PM] Device: NVIDIA GeForce GTX 470
+[2/10/2013 8:31:05 PM] WorkingArea: X:1920,Y:0,W:1680,H:1050
+[2/10/2013 8:31:05 PM] ######################
+[2/10/2013 8:31:05 PM] Relogger Thread Starting!
+[2/10/2013 8:31:05 PM] Yet Another Relogger Version 0.1.9.2
+[2/10/2013 8:31:10 PM] <profiles> We are scheduled to start
+[2/10/2013 8:31:10 PM] <profiles> Next scheduled stop: 11/2 3:2
+[2/10/2013 8:31:10 PM] <profiles> File not found: C:\Program Files\Diablo III\Diablo III.exe
+[2/10/2013 8:31:11 PM] Relogger Crashed! with message Object reference not set to an instance of an object.
+[2/10/2013 8:31:11 PM]    at YetAnotherRelogger.Helpers.Bot.DiabloClass.CrashCheck()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:31:11 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:31:16 PM] <profiles> Stopping
+[2/10/2013 8:31:16 PM] Relogger Thread Starting!
+[2/10/2013 8:31:21 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:31:21 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:31:21 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:31:31 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:31:31 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:31:31 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:31:41 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:31:41 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:31:41 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:31:49 PM] Editing bot: profiles
+[2/10/2013 8:31:51 PM] <profiles> We are scheduled to start
+[2/10/2013 8:31:51 PM] <profiles> Next scheduled stop: 11/2 3:48
+[2/10/2013 8:31:51 PM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/10/2013 8:31:51 PM] <profiles> Language set: English (US) : enUS
+[2/10/2013 8:31:51 PM] <profiles> Region set: America : us.actual.battle.net
+[2/10/2013 8:31:51 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:31:51 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:31:51 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:31:59 PM] <profiles> Diablo:3748: Found D3 Main Window (2163856)
+[2/10/2013 8:32:00 PM] <profiles> Diablo:3748: Waiting for process to become ready
+[2/10/2013 8:32:01 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:32:01 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:32:01 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:32:02 PM] <profiles> Diablo:3748: Process is ready
+[2/10/2013 8:32:02 PM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/10/2013 8:32:11 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:32:11 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:32:11 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:32:12 PM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:2 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/10/2013 8:32:12 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/10/2013 8:32:12 PM] <profiles> Failed to generate Kickstart profile: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Boolean detectEncodingFromByteOrderMarks)
+   at YetAnotherRelogger.Helpers.ProfileKickstart.GenerateKickstart(Profile profile, Boolean tmpkickstart)
+[2/10/2013 8:32:12 PM] <profiles> Using the profile without Kickstart!
+[2/10/2013 8:32:12 PM] <profiles> Checking plugin: E:\Applications\Diablo III\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/10/2013 8:32:12 PM] <profiles> Plugin is installed and latest version
+[2/10/2013 8:32:12 PM] <profiles> Demonbuddy:4760: Waiting for process to become ready
+[2/10/2013 8:32:13 PM] <profiles> Found Demonbuddy: MainWindow (394456)
+[2/10/2013 8:32:13 PM] <profiles> Demonbuddy:4760: Process is ready
+[2/10/2013 8:32:13 PM] <profiles> Demonbuddy:4760: Waiting for demonbuddy to log into Diablo
+[2/10/2013 8:32:21 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:32:21 PM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:32:21 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:32:31 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:32:31 PM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:32:31 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:32:32 PM] <profiles> Demonbuddy:4760: Forced to close!
+[2/10/2013 8:32:41 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:32:41 PM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:32:41 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:32:51 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:32:51 PM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:32:51 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:33:01 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:33:01 PM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:33:01 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:33:11 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:33:11 PM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:33:11 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:33:21 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:33:21 PM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:33:21 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:33:30 PM] <profiles> Diablo:3748: Process is not running
+[2/10/2013 8:33:30 PM] <profiles> Killing Agent.exe:6016
+[2/10/2013 8:33:30 PM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/10/2013 8:33:30 PM] <profiles> Language set: English (US) : enUS
+[2/10/2013 8:33:30 PM] <profiles> Region set: America : us.actual.battle.net
+[2/10/2013 8:33:31 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:33:31 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:33:31 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:33:37 PM] <profiles> Diablo:4700: Found D3 Main Window (722054)
+[2/10/2013 8:33:39 PM] <profiles> Diablo:4700: Waiting for process to become ready
+[2/10/2013 8:33:41 PM] <profiles> Diablo:4700: Process is ready
+[2/10/2013 8:33:41 PM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/10/2013 8:33:41 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:33:41 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:33:41 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:33:51 PM] <profiles> Demonbuddy:4760: Found matching log: E:\Applications\Diablo III\D3 bots\demonbuddy\Logs\4760 2013-02-10 20.32.txt
+[2/10/2013 8:33:51 PM] <profiles> Found login time: 2/11/2013 1:32:14 AM
+[2/10/2013 8:33:51 PM] <profiles> Checking plugin: E:\Applications\Diablo III\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/10/2013 8:33:51 PM] <profiles> Plugin is installed and latest version
+[2/10/2013 8:33:51 PM] <profiles> Demonbuddy:5276: Waiting for process to become ready
+[2/10/2013 8:33:51 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:33:51 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:33:51 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:33:52 PM] <profiles> Found Demonbuddy: MainWindow (2229392)
+[2/10/2013 8:33:52 PM] <profiles> Demonbuddy:5276: Process is ready
+[2/10/2013 8:33:52 PM] <profiles> Demonbuddy:5276: Waiting for demonbuddy to log into Diablo
+[2/10/2013 8:33:58 PM] <profiles> Stopping
+[2/10/2013 8:33:58 PM] <profiles> Diablo:4700: Kill process
+[2/10/2013 8:33:58 PM] <profiles> Demonbuddy:5276: Failed to close! kill process
+[2/10/2013 8:33:58 PM] Relogger Thread Starting!
+[2/10/2013 8:34:01 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:34:01 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:34:01 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:34:11 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:34:11 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:34:11 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:34:21 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:34:21 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:34:21 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:34:31 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:34:31 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:34:31 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:34:41 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:34:41 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:34:41 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:34:51 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:34:51 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:34:51 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:34:59 PM] Editing bot: profiles
+[2/10/2013 8:35:01 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:35:01 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:35:01 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:35:02 PM] <profiles> We are scheduled to start
+[2/10/2013 8:35:02 PM] <profiles> Next scheduled stop: 11/2 3:48
+[2/10/2013 8:35:02 PM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/10/2013 8:35:02 PM] <profiles> Language set: English (US) : enUS
+[2/10/2013 8:35:02 PM] <profiles> Region set: America : us.actual.battle.net
+[2/10/2013 8:35:10 PM] <profiles> Diablo:6348: Found D3 Main Window (853352)
+[2/10/2013 8:35:11 PM] <profiles> Diablo:6348: Waiting for process to become ready
+[2/10/2013 8:35:11 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:35:11 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:35:11 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:35:13 PM] <profiles> Diablo:6348: Process is ready
+[2/10/2013 8:35:13 PM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/10/2013 8:35:21 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:35:21 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:35:21 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:35:23 PM] <profiles> Demonbuddy:5276: Found matching log: E:\Applications\Diablo III\D3 bots\demonbuddy\Logs\5276 2013-02-10 20.33.txt
+[2/10/2013 8:35:23 PM] <profiles> Found login time: 2/11/2013 1:33:52 AM
+[2/10/2013 8:35:23 PM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:2 Time:0 mintues (E:\Applications\Diablo III\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/10/2013 8:35:23 PM] <profiles> Using a already generated Kickstart profile: E:\Applications\Diablo III\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/10/2013 8:35:23 PM] <profiles> Checking plugin: E:\Applications\Diablo III\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/10/2013 8:35:23 PM] <profiles> Plugin is installed and latest version
+[2/10/2013 8:35:23 PM] <profiles> Demonbuddy:6060: Waiting for process to become ready
+[2/10/2013 8:35:24 PM] <profiles> Found Demonbuddy: MainWindow (591040)
+[2/10/2013 8:35:24 PM] <profiles> ManualPosition window:591040: X:1921 Y:0 W:800 H:600
+[2/10/2013 8:35:24 PM] <profiles> Demonbuddy:6060: Process is ready
+[2/10/2013 8:35:24 PM] <profiles> Demonbuddy:6060: Waiting for demonbuddy to log into Diablo
+[2/10/2013 8:35:31 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:35:31 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:35:31 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:35:40 PM] <profiles> Demonbuddy:6060: Initialized! We are ready to go
+[2/10/2013 8:35:40 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/10/2013 8:35:41 PM] <profiles> Demonbuddy stopped by Thirdparty
+[2/10/2013 8:35:41 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:35:41 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:35:41 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:35:51 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:35:51 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:35:51 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:36:01 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:36:01 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:36:01 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:36:11 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:36:11 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:36:11 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:36:21 PM] Relogger Crashed! with message Thread was being aborted.
+[2/10/2013 8:36:21 PM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/10/2013 8:36:21 PM] Waiting 10 seconds and try again!
+[2/10/2013 8:36:22 PM] Closed!

@@ -1,0 +1,32 @@
+[2/10/2013 7:50:50 PM] Relogger Thread Starting!
+[2/10/2013 7:50:50 PM] Yet Another Relogger Version 0.1.9.2
+[2/10/2013 7:50:52 PM] Could not find a matching bot for Demonbuddy:3272
+[2/10/2013 7:50:55 PM] <profiles> Stopping
+[2/10/2013 7:50:55 PM] Relogger Thread Starting!
+[2/10/2013 7:51:00 PM] <profiles> We are scheduled to start
+[2/10/2013 7:51:00 PM] <profiles> Next scheduled stop: 11/2 3:4
+[2/10/2013 7:51:00 PM] <profiles> Killing Agent.exe:3456
+[2/10/2013 7:51:00 PM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/10/2013 7:51:00 PM] <profiles> Language set: English (US) : enUS
+[2/10/2013 7:51:00 PM] <profiles> Region set: America : us.actual.battle.net
+[2/10/2013 7:51:05 PM] <profiles> Diablo:2360: Found D3 Main Window (524876)
+[2/10/2013 7:51:07 PM] <profiles> Diablo:2360: Waiting for process to become ready
+[2/10/2013 7:51:09 PM] <profiles> Diablo:2360: Process is ready
+[2/10/2013 7:51:09 PM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/10/2013 7:51:19 PM] <profiles> Current profile: "Ultimate SkyHigh Extended v0.2 Relog.xml" Runs:0 Time:0 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\Ultimate SkyHigh Extended v0.2 Relog.xml)
+[2/10/2013 7:51:19 PM] <profiles> Delete old Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/10/2013 7:51:19 PM] <profiles> Generate new Kickstart profile: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Act 3 farm\YAR_Kickstart.xml
+[2/10/2013 7:51:19 PM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/10/2013 7:51:19 PM] <profiles> Plugin is installed and latest version
+[2/10/2013 7:51:19 PM] <profiles> Demonbuddy:2116: Waiting for process to become ready
+[2/10/2013 7:51:19 PM] <profiles> Found Demonbuddy: MainWindow (393886)
+[2/10/2013 7:51:19 PM] <profiles> Demonbuddy:2116: Process is ready
+[2/10/2013 7:51:19 PM] <profiles> Demonbuddy:2116: Waiting for demonbuddy to log into Diablo
+[2/10/2013 7:51:34 PM] <profiles> Demonbuddy:2116: Initialized! We are ready to go
+[2/10/2013 7:51:35 PM] <profiles> Sending MonsterPowerLevel: Level1
+[2/10/2013 7:51:35 PM] <profiles> Demonbuddy stopped by Thirdparty
+[2/10/2013 7:55:03 PM] <profiles> Stopping
+[2/10/2013 7:55:03 PM] <profiles> Diablo:2360: Kill process
+[2/10/2013 7:55:03 PM] <profiles> Demonbuddy:2116: Failed to close! kill process
+[2/10/2013 7:55:03 PM] Relogger Thread Starting!
+[2/10/2013 7:55:04 PM] Closed!

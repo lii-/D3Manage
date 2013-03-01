@@ -30,12 +30,14 @@ End Select
 
 
 Function Push()
+	WScript.Echo "D3Manage -- Let's push a setting or file update"
 	If pushtype = "" Then
 		STDOut.Write "Push type: "
 		pushtype = STDIn.ReadLine
 	End If
 	select case pushtype
 		case "setting"
+			dim temp
 			If pushtag = "" Then
 				STDOut.Write "Tag to edit: "
 				pushtag = STDIn.ReadLine
@@ -44,22 +46,39 @@ Function Push()
 				STDOut.Write "Value to insert: "
 				pushvalue = STDIn.ReadLine
 			End If
-			Set objAccounts = objFSO.OpenTextFile(myAccounts,1)
-			Set objRegions = objFSO.OpenTextFile(myRegions,1)
+			
+			If Not objFSO.FileExists(myYARTarget & ".xml") Then
+				Set objYARTarget = objFSO.CreateTextFile(myYARTarget & ".xml")
+			Else
+				Set objYARTarget = objFSO.OpenTextFile(myYARTarget & ".xml",2)
+			End if
+			Set objYARSource = objFSO.OpenTextFile(myYARSource & ".xml",1)
 			
 			do 
-				Set objYARSource = objFSO.OpenTextFile(myYARSource & ".xml",1)
-					line = objAccounts.ReadLine
-					line1 = objRegion.ReadLine
-					SetXMLValue(".\" & line & " " & line1 & "\,)
-			loop until objAccounts.EndOfFile
+				line = objYARSource.ReadLine
+				if InStr(line,"<Name>") then account=GetXMLValue(line)
+				if InStr(line,"<"&pushtag&">") then
+					WSCript.Echo "Pushing "&pushvalue&" to "&pushtag&" in "&account
+					line = SetXMLValue(line,pushvalue)
+					if line <> "1" then objYARTarget.WriteLine line
+				else
+					objYARTarget.WriteLine line
+				end if
+			loop until objYARSource.AtEndOfStream
+			objYARSource.Close
+			objYARTarget.Close
+			If objFSO.FileExists(myYARSource & ".old.xml") Then
+				objFSO.DeleteFile myYARSource & ".old.xml"
+			End if
+			objFSO.MoveFile myYARSource+".xml",myYARSource+".old.xml"
+			objFSO.MoveFile myYARTarget+".xml",myYARSource+".xml"
 		case else
 			WScript.Echo "Push type not recognized. Exiting."
 			WScript.Quit 2
-	end if
+	end select
 End Function
 Function CreateNew()
-	WScript.Echo "D3Manage -- Creating new Diablo III installation & YAR profile"
+	WScript.Echo "D3Manage -- Let's create a new Diablo III installation & YAR profile"
 	Call CheckExisting()
 	
 	If account = "" Then
@@ -252,8 +271,8 @@ Function CreateNew()
 	objFSO.MoveFile myYARSource+".xml",myYARSource+".old.xml"
 	objFSO.MoveFile myYARTarget+".xml",myYARSource+".xml" 
 	Call WriteNewAccount()
-	Set objFSO=Nothing
 End Function
+Set objFSO=Nothing
 'end
 
 Function PrintBooleans(num, percent)
@@ -294,7 +313,7 @@ Function GetXMLValue(node)
 	else
 		GetXMLValue = "NIL"
 	End If
-	WScript.Echo "Migrating "&node&" found "&GetXMLValue
+	WScript.Echo "found "&GetXMLValue&" in "&node
 End Function
 	
 Function GetXMLTag(node)
@@ -308,18 +327,6 @@ Function SkipAhead(file,numLines)
 	Next
 End Function
 
-Function SkipAheadToTag(file,tag)
-	dim i,e
-	For i = 1 to numLines
-		e = file.ReadLine
-		if GetXMLTag(e) = tag then
-			SkipAheadToTag = e
-		end if
-	Next
-	WScript.Echo "Specified setting not found."
-	SkipAheadToTag = 1
-end function
-
 Function SkipToAndGetXMLValue(file,str)
 	dim i
 	Do While InStr(i,str) = 0
@@ -328,37 +335,20 @@ Function SkipToAndGetXMLValue(file,str)
 	SkipToAndGetXMLValue = GetXMLValue(i)
 End Function
 
-Function SetXMLValue(file,tag,value)
-	dim obj, source, dest
-	Set obj = objFSO.OpenTextFile(file, 1)
-	SkipTo(obj,tag)
-	source = obj.ReadAll
-	obj.Close
-	
-	do while Len(source) > 0
-	If InStr(source,">") < InStrRev(source,"<") then
-		dest = Left(source,InStr(source,">") & value & Right(Len(source)-InStrRev(source,"<"))
+Function SetXMLValue(tag,value)
+	If InStr(tag,">") < InStrRev(tag,"<") then
+		SetXMLValue = Left(tag,InStr(tag,">")) & value & Right(tag,Len(tag)-InStrRev(tag,"<"))
 	else
 		WScript.Echo "Setting did not contain an editable value."
 		SetXMLValue = 1
 	end if
-	
-	Set obj = objFSO.OpenTextFile(file, 2)
-	SkipTo(obj,tag)
-	WScript.Echo "Pushing " & tag & " to " & file
-	obj.WriteLine dest
-	obj.Close
 End Function
 
 Function SkipTo(file,str)
 	dim i
 	Do While InStr(i,str) = 0 
 		i = file.ReadLine
-		if (file.AtEndOfStream) then
-			SkipTo = 1
-		end if
 	Loop
-	SkipTo = 0
 End Function
 
 Function GetInputs()

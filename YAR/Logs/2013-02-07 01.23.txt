@@ -1,0 +1,52 @@
+[2/7/2013 1:23:14 AM] Windows auto start delaying with 30 seconds
+[2/7/2013 1:23:22 AM] Yet Another Relogger Version 0.1.9.2
+[2/7/2013 1:23:45 AM] Relogger Thread Starting!
+[2/7/2013 1:25:05 AM] Editing bot: profiles
+[2/7/2013 1:25:16 AM] <profiles> We are scheduled to start
+[2/7/2013 1:25:16 AM] <profiles> Next scheduled stop: 7/2 1:0
+[2/7/2013 1:25:16 AM] PingCheck: Ping -> www.google.com
+[2/7/2013 1:25:16 AM] PingCheck: 74.125.226.84 -> 30ms
+[2/7/2013 1:25:16 AM] <profiles> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/7/2013 1:25:16 AM] <profiles> Language set: English (US) : enUS
+[2/7/2013 1:25:16 AM] <profiles> Region set: America : us.actual.battle.net
+[2/7/2013 1:25:36 AM] <profiles> Diablo:1776: Found D3 Main Window (328196)
+[2/7/2013 1:25:44 AM] <profiles> Diablo:1776: Waiting for process to become ready
+[2/7/2013 1:25:46 AM] <profiles> Diablo:1776: Process is ready
+[2/7/2013 1:25:46 AM] <profiles> Demonbuddy start delay, waiting 10 seconds
+[2/7/2013 1:25:56 AM] <profiles> Current profile: "Ultimate Raoha Magi-Gardettos Act 3 Farm.xml" Runs:0 Time:4 mintues (C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Profiles\Ultimate Raoha Magi-Gardettos Act 3 Farm.xml)
+[2/7/2013 1:25:56 AM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/7/2013 1:25:56 AM] <profiles> Plugin is installed and latest version
+[2/7/2013 1:25:56 AM] <profiles> Demonbuddy:2080: Waiting for process to become ready
+[2/7/2013 1:26:01 AM] <profiles> Found Demonbuddy: MainWindow (131856)
+[2/7/2013 1:26:01 AM] <profiles> Demonbuddy:2080: Process is ready
+[2/7/2013 1:26:01 AM] <profiles> Demonbuddy:2080: Waiting for demonbuddy to log into Diablo
+[2/7/2013 1:28:57 AM] <profiles> Demonbuddy:2080: Failed to initialize 1/3
+[2/7/2013 1:28:57 AM] <profiles> Demonbuddy:2080: Forced to close!
+[2/7/2013 1:28:57 AM] <profiles> Demonbuddy:2080: Found matching log: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Logs\2080 2013-02-07 01.26.txt
+[2/7/2013 1:28:57 AM] <profiles> Found login time: 2/7/2013 6:26:04 AM
+[2/7/2013 1:28:57 AM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/7/2013 1:28:57 AM] <profiles> Plugin is installed and latest version
+[2/7/2013 1:28:57 AM] <profiles> Demonbuddy:3876: Waiting for process to become ready
+[2/7/2013 1:28:58 AM] <profiles> Found Demonbuddy: MainWindow (197780)
+[2/7/2013 1:28:58 AM] <profiles> Demonbuddy:3876: Process is ready
+[2/7/2013 1:28:58 AM] <profiles> Demonbuddy:3876: Waiting for demonbuddy to log into Diablo
+[2/7/2013 1:30:53 AM] <profiles> Demonbuddy:3876: Failed to initialize 2/3
+[2/7/2013 1:30:53 AM] <profiles> Demonbuddy:3876: Found matching log: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Logs\3876 2013-02-07 01.28.txt
+[2/7/2013 1:30:53 AM] <profiles> Found login time: 2/7/2013 6:28:58 AM
+[2/7/2013 1:30:53 AM] <profiles> Checking plugin: C:\Users\Stephen\Desktop\D3 bots\demonbuddy\Plugins\YAR\Plugin.cs
+[2/7/2013 1:30:53 AM] <profiles> Plugin is installed and latest version
+[2/7/2013 1:30:53 AM] <profiles> Demonbuddy:3736: Waiting for process to become ready
+[2/7/2013 1:30:53 AM] <profiles> Found Demonbuddy: MainWindow (262920)
+[2/7/2013 1:30:53 AM] <profiles> Demonbuddy:3736: Process is ready
+[2/7/2013 1:30:53 AM] <profiles> Demonbuddy:3736: Waiting for demonbuddy to log into Diablo
+[2/7/2013 1:30:59 AM] <profiles> Stopping
+[2/7/2013 1:30:59 AM] <profiles> Diablo:1776: Kill process
+[2/7/2013 1:30:59 AM] <profiles> Demonbuddy:3736: Failed to close! kill process
+[2/7/2013 1:30:59 AM] Relogger Thread Starting!
+[2/7/2013 1:30:59 AM] Relogger Crashed! with message Thread was being aborted.
+[2/7/2013 1:30:59 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Helpers.Bot.DemonbuddyClass.Start(Boolean noprofile, String profilepath, Boolean crashtenderstart)
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/7/2013 1:30:59 AM] Waiting 10 seconds and try again!
+[2/7/2013 1:32:51 AM] Closed!

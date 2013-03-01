@@ -1,0 +1,1146 @@
+[2/14/2013 12:53:16 AM] Relogger Thread Starting!
+[2/14/2013 12:53:16 AM] Yet Another Relogger Version 0.1.9.2
+[2/14/2013 12:53:17 AM] Could not find a matching bot for Demonbuddy:7116
+[2/14/2013 1:01:24 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:01:24 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:0
+[2/14/2013 1:01:24 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:01:24 AM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/14/2013 1:01:24 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:01:25 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:01:25 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:01:47 AM] <nnehl@live.com> Diablo:5172: Found D3 Main Window (460182)
+[2/14/2013 1:02:26 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:02:26 AM] <nnehl@live.com> Diablo:5172: Kill process
+[2/14/2013 1:02:26 AM] Cannot process request because the process (5172) has exited.
+[2/14/2013 1:04:09 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:04:13 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:04:13 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:4
+[2/14/2013 1:04:13 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:04:13 AM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/14/2013 1:04:13 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:04:14 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:04:14 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:04:37 AM] <nnehl@live.com> Diablo:5564: Found D3 Main Window (2491870)
+[2/14/2013 1:05:24 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:05:24 AM] <nnehl@live.com> Diablo:5564: Kill process
+[2/14/2013 1:05:24 AM] Cannot process request because the process (5564) has exited.
+[2/14/2013 1:05:24 AM] <stephen.poole@hotmail.com> We are scheduled to start
+[2/14/2013 1:05:24 AM] <stephen.poole@hotmail.com> Next scheduled stop: 14/2 3:50
+[2/14/2013 1:05:24 AM] <stephen.poole@hotmail.com> Killing Agent.exe:6120
+[2/14/2013 1:05:24 AM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:05:24 AM] <stephen.poole@hotmail.com> Replacing D3Prefs for user: Stephen
+[2/14/2013 1:05:24 AM] <stephen.poole@hotmail.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:05:25 AM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+[2/14/2013 1:05:25 AM] <stephen.poole@hotmail.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:05:32 AM] <stephen.poole@hotmail.com> Diablo:6456: Found D3 Main Window (1836698)
+[2/14/2013 1:05:34 AM] <stephen.poole@hotmail.com> Diablo:6456: Waiting for process to become ready
+[2/14/2013 1:05:36 AM] <stephen.poole@hotmail.com> Diablo:6456: Process is ready
+[2/14/2013 1:05:36 AM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 10 seconds
+[2/14/2013 1:05:46 AM] <stephen.poole@hotmail.com> Current profile: "A1-A3_RELOGGERS_START_HERE.xml" Runs:1 Time:0 mintues (E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Profiles\A1-A3 Keyhunt v3.1\A1-A3_RELOGGERS_START_HERE.xml)
+[2/14/2013 1:05:46 AM] <stephen.poole@hotmail.com> Delete old Kickstart profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/14/2013 1:05:46 AM] <stephen.poole@hotmail.com> Generate new Kickstart profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Profiles\A1-A3 Keyhunt v3.1\YAR_Kickstart.xml
+[2/14/2013 1:05:46 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Plugins\YAR\Plugin.cs
+[2/14/2013 1:05:46 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/14/2013 1:05:46 AM] <stephen.poole@hotmail.com> Demonbuddy:6980: Waiting for process to become ready
+[2/14/2013 1:05:47 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (2754396)
+[2/14/2013 1:05:47 AM] <stephen.poole@hotmail.com> ManualPosition window:2754396: X:1921 Y:0 W:800 H:600
+[2/14/2013 1:05:47 AM] <stephen.poole@hotmail.com> Demonbuddy:6980: Process is ready
+[2/14/2013 1:05:47 AM] <stephen.poole@hotmail.com> Demonbuddy:6980: Waiting for demonbuddy to log into Diablo
+[2/14/2013 1:05:49 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:06:03 AM] <stephen.poole@hotmail.com> Demonbuddy:6980: Initialized! We are ready to go
+[2/14/2013 1:06:03 AM] Collection was modified; enumeration operation may not execute.
+[2/14/2013 1:06:04 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Disabled
+[2/14/2013 1:06:13 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:06:13 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:4
+[2/14/2013 1:06:13 AM] <nnehl@live.com> Killing Agent.exe:6184
+[2/14/2013 1:06:13 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:06:13 AM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/14/2013 1:06:13 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:06:14 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:06:14 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:06:36 AM] <nnehl@live.com> Diablo:2780: Found D3 Main Window (2228926)
+[2/14/2013 1:06:39 AM] <stephen.poole@hotmail.com> Stopping
+[2/14/2013 1:06:39 AM] <stephen.poole@hotmail.com> Diablo:6456: Kill process
+[2/14/2013 1:06:39 AM] <stephen.poole@hotmail.com> Demonbuddy:6980: Failed to close! kill process
+[2/14/2013 1:06:39 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:06:39 AM] <nnehl@live.com> Diablo:2780: Kill process
+[2/14/2013 1:06:39 AM] Relogger Thread Starting!
+[2/14/2013 1:07:07 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:07:13 AM] <stephen.poole@hotmail.com> We are scheduled to start
+[2/14/2013 1:07:13 AM] <stephen.poole@hotmail.com> Next scheduled stop: 14/2 3:1
+[2/14/2013 1:07:13 AM] <stephen.poole@hotmail.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:07:13 AM] <stephen.poole@hotmail.com> Replacing D3Prefs for user: Stephen
+[2/14/2013 1:07:13 AM] <stephen.poole@hotmail.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:07:14 AM] <stephen.poole@hotmail.com> Language set: English (US) : enUS
+[2/14/2013 1:07:14 AM] <stephen.poole@hotmail.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:07:21 AM] <stephen.poole@hotmail.com> Diablo:5424: Found D3 Main Window (1247414)
+[2/14/2013 1:07:23 AM] <stephen.poole@hotmail.com> Diablo:5424: Waiting for process to become ready
+[2/14/2013 1:07:25 AM] <stephen.poole@hotmail.com> Diablo:5424: Process is ready
+[2/14/2013 1:07:25 AM] <stephen.poole@hotmail.com> Demonbuddy start delay, waiting 10 seconds
+[2/14/2013 1:07:35 AM] <stephen.poole@hotmail.com> Demonbuddy:6980: Found matching log: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Logs\6980 2013-02-14 01.05.txt
+[2/14/2013 1:07:36 AM] <stephen.poole@hotmail.com> Found login time: 2/14/2013 6:05:47 AM
+[2/14/2013 1:07:36 AM] <stephen.poole@hotmail.com> Checking plugin: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Plugins\YAR\Plugin.cs
+[2/14/2013 1:07:36 AM] <stephen.poole@hotmail.com> Plugin is installed and latest version
+[2/14/2013 1:07:36 AM] <stephen.poole@hotmail.com> Demonbuddy:1748: Waiting for process to become ready
+[2/14/2013 1:07:36 AM] <stephen.poole@hotmail.com> Found Demonbuddy: MainWindow (460934)
+[2/14/2013 1:07:36 AM] <stephen.poole@hotmail.com> ManualPosition window:460934: X:1921 Y:0 W:800 H:600
+[2/14/2013 1:07:37 AM] <stephen.poole@hotmail.com> Demonbuddy:1748: Process is ready
+[2/14/2013 1:07:37 AM] <stephen.poole@hotmail.com> Demonbuddy:1748: Waiting for demonbuddy to log into Diablo
+[2/14/2013 1:07:51 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Disabled
+[2/14/2013 1:07:52 AM] <stephen.poole@hotmail.com> Demonbuddy:1748: Initialized! We are ready to go
+[2/14/2013 1:07:52 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:07:52 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:7
+[2/14/2013 1:07:52 AM] <nnehl@live.com> Killing Agent.exe:6280
+[2/14/2013 1:07:52 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:07:52 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:07:52 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:08:14 AM] <nnehl@live.com> Diablo:6504: Found D3 Main Window (1640224)
+[2/14/2013 1:08:29 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:08:29 AM] <nnehl@live.com> Diablo:6504: Kill process
+[2/14/2013 1:08:29 AM] Cannot process request because the process (6504) has exited.
+[2/14/2013 1:08:29 AM] <stephen.poole@hotmail.com> Runs completed (1/1)
+[2/14/2013 1:08:29 AM] <nnehl@live.com> Current profile: "GardettosRev2.0RaF_XX_Starter.xml" Runs:2 Time:0 mintues (E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Profiles\Gardetto's Revenge 2.0\GardettosRev2.0RaF_XX_Starter.xml)
+[2/14/2013 1:08:29 AM] <nnehl@live.com> Generate new Kickstart profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Profiles\Gardetto's Revenge 2.0\YAR_Kickstart.xml
+[2/14/2013 1:08:29 AM] <nnehl@live.com> Next profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy barb\Profiles\Gardetto's Revenge 2.0\YAR_Kickstart.xml
+[2/14/2013 1:08:37 AM] <stephen.poole@hotmail.com> Sending MonsterPowerLevel: Level1
+[2/14/2013 1:12:09 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:12:15 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:12:15 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:6
+[2/14/2013 1:12:15 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:12:15 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:12:15 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:12:15 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:12:25 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:12:25 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:12:25 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:12:25 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:12:35 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:12:35 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:12:35 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:12:35 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:12:45 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:12:45 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:12:45 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:12:45 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:12:55 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:12:55 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:12:55 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:12:55 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:13:05 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:13:05 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:13:05 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:13:05 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:13:15 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:13:15 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:13:15 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:13:15 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:13:25 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:13:25 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:13:25 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:13:25 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:13:35 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:13:35 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:13:35 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:13:35 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:13:46 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:13:46 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:13:46 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:13:46 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:13:56 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:13:56 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:13:56 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:13:56 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:14:06 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:14:06 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:14:06 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:14:06 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:14:16 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:14:16 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:14:16 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:14:16 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:14:26 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:14:26 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:14:26 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:14:26 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:14:36 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:14:36 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:14:36 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:14:36 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:14:46 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:14:46 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:14:46 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:14:46 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:14:56 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:14:56 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:14:56 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:14:56 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:15:06 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:15:06 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:15:06 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:15:06 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:15:16 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:15:16 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:15:16 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:15:16 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:15:19 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:15:26 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:15:26 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:4
+[2/14/2013 1:15:26 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:15:26 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:15:26 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:15:36 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:15:36 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:15:36 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:15:36 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:15:46 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:15:46 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:15:46 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:15:46 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:15:56 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:15:56 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:15:56 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:15:56 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:16:06 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:16:06 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:16:06 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:16:06 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:16:16 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:16:16 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:16:16 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:16:16 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:16:26 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:16:26 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:16:26 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:16:26 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:16:36 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:16:36 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:16:36 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:16:36 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:16:46 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:16:46 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:16:46 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:16:46 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:16:56 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:16:56 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:16:56 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:16:56 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:17:07 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:17:07 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:17:07 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:17:07 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:17:17 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:17:17 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:17:17 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:17:17 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:17:27 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:17:27 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:17:27 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:17:27 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:17:37 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:17:37 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:17:37 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:17:37 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:17:47 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:17:47 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:17:47 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:17:47 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:17:57 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:17:57 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:17:57 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:17:57 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:18:07 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:18:07 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:18:07 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:18:07 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:18:17 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:18:17 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:18:17 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:18:17 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:18:27 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:18:27 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:18:27 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:18:27 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:18:37 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:18:37 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:18:37 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:18:37 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:18:47 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:18:47 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:18:47 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:18:47 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:18:57 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:18:57 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:18:57 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:18:57 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:19:07 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:19:07 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:19:07 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:19:07 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:19:17 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:19:17 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:19:17 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:19:17 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:19:24 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:19:27 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:19:27 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:19:27 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:19:27 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:19:37 AM] <nnehl@live.com> Diablo:6504: Process is not running
+[2/14/2013 1:19:37 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:19:37 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:19:37 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:19:41 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:20:07 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:20:11 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:20:11 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:2
+[2/14/2013 1:20:11 AM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/14/2013 1:20:11 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:20:12 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:20:12 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:20:34 AM] <nnehl@live.com> Diablo:7608: Found D3 Main Window (2360848)
+[2/14/2013 1:21:34 AM] <nnehl@live.com> Diablo:7608: Starting diablo timed out!
+[2/14/2013 1:21:34 AM] <nnehl@live.com> Restarting...
+[2/14/2013 1:21:34 AM] <nnehl@live.com> Diablo:7608: Kill process
+[2/14/2013 1:21:36 AM] <nnehl@live.com> Diablo:7608: Process is not running
+[2/14/2013 1:21:36 AM] <nnehl@live.com> Killing Agent.exe:7508
+[2/14/2013 1:21:36 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:21:36 AM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/14/2013 1:21:36 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:21:37 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:21:37 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:21:49 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:21:49 AM] <nnehl@live.com> Diablo:5744: Kill process
+[2/14/2013 1:21:49 AM] Cannot process request because the process (5744) has exited.
+[2/14/2013 1:21:56 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:24:52 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:25:08 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:25:08 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:1
+[2/14/2013 1:25:08 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:25:08 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:25:08 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:25:08 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:25:18 AM] <nnehl@live.com> Diablo:5744: Process is not running
+[2/14/2013 1:25:18 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:25:18 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:25:18 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:25:28 AM] <nnehl@live.com> Diablo:5744: Process is not running
+[2/14/2013 1:25:28 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:25:28 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:25:28 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:25:35 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:27:12 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:27:15 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:27:15 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:4
+[2/14/2013 1:27:15 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:27:15 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:27:15 AM] <nnehl@live.com> System.Runtime.InteropServices.COMException (0x80004005): Unspecified error
+
+   at System.DirectoryServices.DirectoryEntries.Find(String name, String schemaClassName)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ExistsAsAdmin(String username)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ImpersonateStartInfo(ProcessStartInfo startinfo, BotClass bot)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+[2/14/2013 1:27:15 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:27:45 AM] <nnehl@live.com> Continue normal schedule
+[2/14/2013 1:27:45 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:27:45 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:2
+[2/14/2013 1:27:45 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:27:45 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:27:45 AM] <nnehl@live.com> System.Runtime.InteropServices.COMException (0x80004005): Unspecified error
+
+   at System.DirectoryServices.DirectoryEntries.Find(String name, String schemaClassName)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ExistsAsAdmin(String username)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ImpersonateStartInfo(ProcessStartInfo startinfo, BotClass bot)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+[2/14/2013 1:27:45 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:28:11 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:28:53 AM] <nnehl@live.com> Continue normal schedule
+[2/14/2013 1:28:53 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:28:53 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:5
+[2/14/2013 1:28:53 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:28:53 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:29:15 AM] <nnehl@live.com> Diablo:7312: Found D3 Main Window (2230354)
+[2/14/2013 1:30:15 AM] <nnehl@live.com> Diablo:7312: Starting diablo timed out!
+[2/14/2013 1:30:15 AM] <nnehl@live.com> Restarting...
+[2/14/2013 1:30:15 AM] <nnehl@live.com> Diablo:7312: Kill process
+[2/14/2013 1:30:17 AM] <nnehl@live.com> Diablo:7312: Process is not running
+[2/14/2013 1:30:17 AM] <nnehl@live.com> Killing Agent.exe:5432
+[2/14/2013 1:30:17 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:30:17 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:30:17 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:30:21 AM] <stephen.poole@hotmail.com> Stopping
+[2/14/2013 1:30:21 AM] <stephen.poole@hotmail.com> Diablo:5424: Kill process
+[2/14/2013 1:30:21 AM] <stephen.poole@hotmail.com> Demonbuddy:1748: Waiting to close
+[2/14/2013 1:30:24 AM] <stephen.poole@hotmail.com> Demonbuddy:1748: Closed.
+[2/14/2013 1:30:24 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:30:24 AM] <nnehl@live.com> Diablo:6592: Kill process
+[2/14/2013 1:30:24 AM] Relogger Thread Starting!
+[2/14/2013 1:30:38 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:30:38 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:8
+[2/14/2013 1:30:38 AM] <nnehl@live.com> Killing Agent.exe:5536
+[2/14/2013 1:30:38 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:30:38 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:30:38 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:30:45 AM] <nnehl@live.com> Diablo:4336: Found D3 Main Window (1639172)
+[2/14/2013 1:30:47 AM] <nnehl@live.com> Diablo:4336: Waiting for process to become ready
+[2/14/2013 1:30:49 AM] AutoPosition Failed to get window rectangle (1247414)
+[2/14/2013 1:30:49 AM] <nnehl@live.com> Diablo:4336: Process is ready
+[2/14/2013 1:30:49 AM] <nnehl@live.com> Demonbuddy start delay, waiting 10 seconds
+[2/14/2013 1:30:59 AM] <nnehl@live.com> Current profile: "AllActs_Relogger.xml" Runs:0 Time:0 mintues (E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Profiles\Questing All acts\AllActs_Relogger.xml)
+[2/14/2013 1:30:59 AM] <nnehl@live.com> Delete old Kickstart profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Profiles\Questing All acts\YAR_Kickstart.xml
+[2/14/2013 1:30:59 AM] <nnehl@live.com> Generate new Kickstart profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Profiles\Questing All acts\YAR_Kickstart.xml
+[2/14/2013 1:30:59 AM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III\Plugins\YAR\Plugin.cs
+[2/14/2013 1:30:59 AM] <nnehl@live.com> Plugin is installed and latest version
+[2/14/2013 1:30:59 AM] <nnehl@live.com> Demonbuddy:4508: Waiting for process to become ready
+[2/14/2013 1:31:05 AM] <nnehl@live.com> System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Helpers.Bot.DemonbuddyClass.Start(Boolean noprofile, String profilepath, Boolean crashtenderstart)
+[2/14/2013 1:31:05 AM] <stephen.poole@hotmail.com> Stopping
+[2/14/2013 1:31:05 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:31:05 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:31:05 AM] <nnehl@live.com> Diablo:4336: Kill process
+[2/14/2013 1:31:05 AM] <nnehl@live.com> Diablo:4336: Kill process
+[2/14/2013 1:31:05 AM] Relogger Thread Starting!
+[2/14/2013 1:31:05 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:31:05 AM]    at YetAnotherRelogger.Helpers.Bot.DemonbuddyClass.Start(Boolean noprofile, String profilepath, Boolean crashtenderstart)
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:31:05 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:31:15 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:31:15 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:31:15 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:31:25 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:31:25 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:31:25 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:31:35 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:31:35 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:31:35 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:31:45 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:31:45 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:31:45 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:31:52 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:31:55 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:31:55 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:31:55 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:32:05 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:32:05 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:32:05 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:32:15 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:32:15 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:32:15 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:32:25 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:32:25 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:32:25 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:32:35 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:32:35 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:32:35 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:32:42 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:32:45 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:32:45 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:32:45 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:32:55 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:32:55 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:32:55 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:33:01 AM] <stephen.poole@hotmail.com> Stopping
+[2/14/2013 1:33:01 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:33:01 AM] Relogger Thread Starting!
+[2/14/2013 1:33:05 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:33:05 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:33:05 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:33:05 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:33:05 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:8
+[2/14/2013 1:33:05 AM] <nnehl@live.com> Killing Agent.exe:7980
+[2/14/2013 1:33:05 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:33:05 AM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/14/2013 1:33:05 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:33:06 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:33:06 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:33:13 AM] <nnehl@live.com> Diablo:3368: Found D3 Main Window (2623570)
+[2/14/2013 1:33:15 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:33:15 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:33:15 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:33:15 AM] <nnehl@live.com> Diablo:3368: Waiting for process to become ready
+[2/14/2013 1:33:17 AM] AutoPosition Failed to get window rectangle (1247414)
+[2/14/2013 1:33:17 AM] <nnehl@live.com> Diablo:3368: Process is ready
+[2/14/2013 1:33:17 AM] <nnehl@live.com> Demonbuddy start delay, waiting 10 seconds
+[2/14/2013 1:33:25 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:33:25 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:33:25 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:33:28 AM] <nnehl@live.com> Diablo:3368: Process is not running
+[2/14/2013 1:33:28 AM] <nnehl@live.com> Killing Agent.exe:5432
+[2/14/2013 1:33:28 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:33:28 AM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/14/2013 1:33:28 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:33:29 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:33:29 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:33:35 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:33:35 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:33:35 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:33:36 AM] <nnehl@live.com> Diablo:4516: Found D3 Main Window (1378504)
+[2/14/2013 1:33:38 AM] <nnehl@live.com> Diablo:4516: Waiting for process to become ready
+[2/14/2013 1:33:40 AM] AutoPosition Failed to get window rectangle (1247414)
+[2/14/2013 1:33:41 AM] <nnehl@live.com> Diablo:4516: Process is ready
+[2/14/2013 1:33:41 AM] <nnehl@live.com> Demonbuddy start delay, waiting 10 seconds
+[2/14/2013 1:33:45 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:33:45 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:33:45 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:33:52 AM] <nnehl@live.com> Diablo:4516: Process is not running
+[2/14/2013 1:33:52 AM] <nnehl@live.com> Killing Agent.exe:7296
+[2/14/2013 1:33:52 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:33:52 AM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/14/2013 1:33:52 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:33:53 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:33:53 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:33:55 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:33:55 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:33:55 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:34:00 AM] <nnehl@live.com> Diablo:7960: Found D3 Main Window (2492002)
+[2/14/2013 1:34:02 AM] <nnehl@live.com> Diablo:7960: Waiting for process to become ready
+[2/14/2013 1:34:04 AM] AutoPosition Failed to get window rectangle (1247414)
+[2/14/2013 1:34:04 AM] <nnehl@live.com> Diablo:7960: Process is ready
+[2/14/2013 1:34:04 AM] <nnehl@live.com> Demonbuddy start delay, waiting 10 seconds
+[2/14/2013 1:34:05 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:34:05 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:34:05 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:34:14 AM] <nnehl@live.com> Demonbuddy:4508: Failed to find matching log
+[2/14/2013 1:34:14 AM] <nnehl@live.com> Current profile: "AllActs_Relogger.xml" Runs:0 Time:0 mintues (E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Profiles\Questing All acts\AllActs_Relogger.xml)
+[2/14/2013 1:34:14 AM] <nnehl@live.com> Delete old Kickstart profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Profiles\Questing All acts\YAR_Kickstart.xml
+[2/14/2013 1:34:14 AM] <nnehl@live.com> Generate new Kickstart profile: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Profiles\Questing All acts\YAR_Kickstart.xml
+[2/14/2013 1:34:14 AM] <nnehl@live.com> Checking plugin: E:\Applications\Diablo III bots\D3 bots\demonbuddy monk\Plugins\YAR\Plugin.cs
+[2/14/2013 1:34:14 AM] <nnehl@live.com> Plugin is installed and latest version
+[2/14/2013 1:34:14 AM] <nnehl@live.com> Demonbuddy:6576: Waiting for process to become ready
+[2/14/2013 1:34:15 AM] <nnehl@live.com> Found Demonbuddy: MainWindow (3409324)
+[2/14/2013 1:34:15 AM] <nnehl@live.com> Demonbuddy:6576: Process is ready
+[2/14/2013 1:34:15 AM] <nnehl@live.com> Demonbuddy:6576: Waiting for demonbuddy to log into Diablo
+[2/14/2013 1:34:15 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:34:15 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:34:15 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:34:25 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:34:25 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:34:25 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:34:35 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:34:35 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:34:35 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:34:43 AM] <nnehl@live.com> Demonbuddy:6576: Initialized! We are ready to go
+[2/14/2013 1:34:43 AM] <nnehl@live.com> Sending MonsterPowerLevel: Level0
+[2/14/2013 1:34:45 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:34:45 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:34:45 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:34:55 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:34:55 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:34:55 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:35:05 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:35:05 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:35:05 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:35:15 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:35:15 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:35:15 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:35:25 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:35:25 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:35:25 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:35:35 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:35:35 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:35:35 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:35:45 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:35:45 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:35:45 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:35:55 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:35:55 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:35:55 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:36:05 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:36:05 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:36:05 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:36:10 AM] <nnehl@live.com> Demonbuddy:6576: is stopped to long for a unknown reason (30 seconds)
+[2/14/2013 1:36:15 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:36:15 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:36:15 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:36:25 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:36:25 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:36:25 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:36:32 AM] <stephen.poole@hotmail.com> Stopping
+[2/14/2013 1:36:32 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:36:32 AM] <nnehl@live.com> Diablo:7960: Kill process
+[2/14/2013 1:36:32 AM] <nnehl@live.com> Demonbuddy:6576: Failed to close! kill process
+[2/14/2013 1:36:32 AM] Relogger Thread Starting!
+[2/14/2013 1:36:35 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:36:35 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:36:35 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:36:36 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:36:36 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:9
+[2/14/2013 1:36:36 AM] <nnehl@live.com> Killing Agent.exe:2468
+[2/14/2013 1:36:36 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:36:36 AM] <nnehl@live.com> Replacing D3Prefs for user: Stephen
+[2/14/2013 1:36:36 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\Stephen\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:36:37 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:36:37 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:36:44 AM] <nnehl@live.com> Diablo:7748: Found D3 Main Window (3082322)
+[2/14/2013 1:36:45 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:36:45 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:36:45 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:36:46 AM] <nnehl@live.com> Diablo:7748: Waiting for process to become ready
+[2/14/2013 1:36:48 AM] AutoPosition Failed to get window rectangle (1247414)
+[2/14/2013 1:36:49 AM] <nnehl@live.com> Diablo:7748: Process is ready
+[2/14/2013 1:36:49 AM] <nnehl@live.com> Demonbuddy start delay, waiting 10 seconds
+[2/14/2013 1:36:53 AM] <stephen.poole@hotmail.com> Stopping
+[2/14/2013 1:36:53 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:36:53 AM] Relogger Thread Starting!
+[2/14/2013 1:36:55 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:36:55 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:36:55 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:37:05 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:37:05 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:37:05 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:37:15 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:37:15 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:37:15 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:37:25 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:37:25 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:37:25 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:37:35 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:37:35 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:37:35 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:37:45 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:37:45 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:37:45 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:37:55 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:37:55 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:37:55 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:38:05 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:38:05 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:38:05 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:38:15 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:38:15 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:38:15 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:38:25 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:38:25 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:38:25 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:38:28 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:38:31 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:38:31 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:4
+[2/14/2013 1:38:31 AM] <nnehl@live.com> Deleting: C:\ProgramData\Battle.net\Agent\agent.db
+[2/14/2013 1:38:31 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:38:31 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:38:31 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:38:35 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:38:35 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:38:35 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:38:41 AM] <nnehl@live.com> Diablo:7748: Process is not running
+[2/14/2013 1:38:41 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:38:41 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:38:41 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:38:45 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:38:45 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:38:45 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:38:51 AM] <nnehl@live.com> Diablo:7748: Process is not running
+[2/14/2013 1:38:51 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:38:51 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:38:51 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:38:55 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:38:55 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:38:55 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:39:01 AM] <nnehl@live.com> Diablo:7748: Process is not running
+[2/14/2013 1:39:01 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:39:01 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:39:01 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:39:05 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:39:05 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:39:05 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:39:11 AM] <nnehl@live.com> Diablo:7748: Process is not running
+[2/14/2013 1:39:11 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:39:11 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:39:11 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:39:15 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:39:15 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:39:15 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:39:21 AM] <nnehl@live.com> Diablo:7748: Process is not running
+[2/14/2013 1:39:21 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:39:21 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:39:21 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:39:25 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:39:25 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:39:25 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:39:31 AM] <nnehl@live.com> Diablo:7748: Process is not running
+[2/14/2013 1:39:31 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:39:31 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:39:31 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:39:35 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:39:35 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:39:35 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:39:41 AM] <nnehl@live.com> Diablo:7748: Process is not running
+[2/14/2013 1:39:41 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:39:41 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:39:41 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:39:45 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:39:45 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:39:45 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:39:51 AM] <nnehl@live.com> Diablo:7748: Process is not running
+[2/14/2013 1:39:51 AM] Relogger Crashed! with message Logon failure: user account restriction. Possible reasons are blank passwords not allowed, logon hour restrictions, or a policy restriction has been enforced
+[2/14/2013 1:39:51 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:39:51 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:39:55 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:39:55 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:39:55 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:40:01 AM] <nnehl@live.com> Diablo:7748: Process is not running
+[2/14/2013 1:40:01 AM] Relogger Crashed! with message Logon failure: unknown user name or bad password
+[2/14/2013 1:40:01 AM]    at YetAnotherRelogger.Helpers.Tools.Impersonator.Impersonate(String userName, String domainName, String password, LogonType logonType, LogonProvider logonProvider)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.D3Prefs()
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+   at YetAnotherRelogger.Relogger.StartBoth(BotClass bot)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:40:01 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:40:02 AM] Editing bot: nnehl@live.com
+[2/14/2013 1:40:05 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:40:05 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:40:05 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:40:11 AM] <nnehl@live.com> Diablo:7748: Process is not running
+[2/14/2013 1:40:11 AM] <nnehl@live.com> Replacing D3Prefs for user: D3
+[2/14/2013 1:40:11 AM] <nnehl@live.com> D3Prefs Failed: Path to "C:\Users\D3\Documents\Diablo III\D3Prefs.txt" does not exist!
+[2/14/2013 1:40:12 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:40:12 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:40:12 AM] <nnehl@live.com> System.Runtime.InteropServices.COMException (0x80004005): Unspecified error
+
+   at System.DirectoryServices.DirectoryEntries.Find(String name, String schemaClassName)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ExistsAsAdmin(String username)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ImpersonateStartInfo(ProcessStartInfo startinfo, BotClass bot)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+[2/14/2013 1:40:12 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:40:15 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:40:15 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:40:15 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:40:25 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:40:25 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:40:25 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:40:35 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:40:35 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:40:35 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:40:45 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:40:45 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:40:45 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:40:55 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:40:55 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:40:55 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:41:05 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:41:05 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:41:05 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:41:15 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:41:15 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:41:15 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:41:25 AM] <nnehl@live.com> We are scheduled to start
+[2/14/2013 1:41:25 AM] <nnehl@live.com> Next scheduled stop: 14/2 3:3
+[2/14/2013 1:41:25 AM] <nnehl@live.com> Replacing D3Prefs for user: D3
+[2/14/2013 1:41:25 AM] <nnehl@live.com> Copy custom D3Prefs file to: C:\Users\D3\Documents\Diablo III\D3Prefs.txt
+[2/14/2013 1:41:25 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:41:26 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:41:26 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:41:26 AM] <nnehl@live.com> Language set: English (US) : enUS
+[2/14/2013 1:41:26 AM] <nnehl@live.com> Region set: America : us.actual.battle.net
+[2/14/2013 1:41:26 AM] <nnehl@live.com> System.Runtime.InteropServices.COMException (0x80004005): Unspecified error
+
+   at System.DirectoryServices.DirectoryEntries.Find(String name, String schemaClassName)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ExistsAsAdmin(String username)
+   at YetAnotherRelogger.Helpers.Tools.UserAccount.ImpersonateStartInfo(ProcessStartInfo startinfo, BotClass bot)
+   at YetAnotherRelogger.Helpers.Bot.DiabloClass.Start()
+[2/14/2013 1:41:26 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:41:36 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:41:36 AM]    at System.Threading.Monitor.Enter(Object obj)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at YetAnotherRelogger.Helpers.ConnectionCheck.get_IsConnected()
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:41:36 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:41:46 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:41:46 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:41:46 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:41:48 AM] <stephen.poole@hotmail.com> Stopping
+[2/14/2013 1:41:48 AM] <nnehl@live.com> Stopping
+[2/14/2013 1:41:48 AM] Relogger Thread Starting!
+[2/14/2013 1:41:56 AM] Relogger Crashed! with message Thread was being aborted.
+[2/14/2013 1:41:56 AM]    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at YetAnotherRelogger.Relogger.ReloggerWorker()
+[2/14/2013 1:41:56 AM] Waiting 10 seconds and try again!
+[2/14/2013 1:42:01 AM] Closed!

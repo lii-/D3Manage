@@ -1,0 +1,3 @@
+[2/7/2013 6:07:52 PM] Relogger Thread Starting!
+[2/7/2013 6:07:54 PM] Yet Another Relogger Version 0.1.9.2
+[2/7/2013 6:08:27 PM] Closed!
