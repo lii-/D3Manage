@@ -1,5 +1,5 @@
 Option Explicit
-Dim command, WshShell, strPath, template, objFSO, objAccounts,myAccounts,objRegions,myRegions,objYARSource,myYARSource,myYARTarget,objYARTarget,objFile,STDIn,STDOut,account,password,line,line1,line2
+Dim command, pushtype, pushtag, pushvalue, WshShell, strPath, template, objFSO, objAccounts,myAccounts,objRegions,myRegions,objYARSource,myYARSource,myYARTarget,objYARTarget,objFile,STDIn,STDOut,account,password,line,line1,line2
 dim objArgs: Set objArgs = WScript.Arguments
 
 Set WshShell = CreateObject("WScript.Shell")
@@ -22,12 +22,42 @@ Call GetInputs()
 Select Case command
 	Case "create"
 		Call CreateNew
+	Case "push"
+		Call Push
 	Case Else
 		Call CreateNew
 End Select
 
 
-
+Function Push()
+	If pushtype = "" Then
+		STDOut.Write "Push type: "
+		pushtype = STDIn.ReadLine
+	End If
+	select case pushtype
+		case "setting"
+			If pushtag = "" Then
+				STDOut.Write "Tag to edit: "
+				pushtag = STDIn.ReadLine
+			End If
+			If pushvalue = "" Then
+				STDOut.Write "Value to insert: "
+				pushvalue = STDIn.ReadLine
+			End If
+			Set objAccounts = objFSO.OpenTextFile(myAccounts,1)
+			Set objRegions = objFSO.OpenTextFile(myRegions,1)
+			
+			do 
+				Set objYARSource = objFSO.OpenTextFile(myYARSource & ".xml",1)
+					line = objAccounts.ReadLine
+					line1 = objRegion.ReadLine
+					SetXMLValue(".\" & line & " " & line1 & "\,)
+			loop until objAccounts.EndOfFile
+		case else
+			WScript.Echo "Push type not recognized. Exiting."
+			WScript.Quit 2
+	end if
+End Function
 Function CreateNew()
 	WScript.Echo "D3Manage -- Creating new Diablo III installation & YAR profile"
 	Call CheckExisting()
@@ -263,10 +293,10 @@ Function GetXMLValue(node)
 		GetXMLValue = Mid(node,InStr(node,">")+1, Len(node)-InStr(node,">")-(Len(node)-InStrRev(node,"<"))-1)
 	else
 		GetXMLValue = "NIL"
-	End IF
+	End If
 	WScript.Echo "Migrating "&node&" found "&GetXMLValue
 End Function
-
+	
 Function GetXMLTag(node)
 	GetXMLTag = Mid(node,InStr(node,"<")+1, InStr(node,">")-2)
 End Function
@@ -278,6 +308,18 @@ Function SkipAhead(file,numLines)
 	Next
 End Function
 
+Function SkipAheadToTag(file,tag)
+	dim i,e
+	For i = 1 to numLines
+		e = file.ReadLine
+		if GetXMLTag(e) = tag then
+			SkipAheadToTag = e
+		end if
+	Next
+	WScript.Echo "Specified setting not found."
+	SkipAheadToTag = 1
+end function
+
 Function SkipToAndGetXMLValue(file,str)
 	dim i
 	Do While InStr(i,str) = 0
@@ -286,11 +328,37 @@ Function SkipToAndGetXMLValue(file,str)
 	SkipToAndGetXMLValue = GetXMLValue(i)
 End Function
 
+Function SetXMLValue(file,tag,value)
+	dim obj, source, dest
+	Set obj = objFSO.OpenTextFile(file, 1)
+	SkipTo(obj,tag)
+	source = obj.ReadAll
+	obj.Close
+	
+	do while Len(source) > 0
+	If InStr(source,">") < InStrRev(source,"<") then
+		dest = Left(source,InStr(source,">") & value & Right(Len(source)-InStrRev(source,"<"))
+	else
+		WScript.Echo "Setting did not contain an editable value."
+		SetXMLValue = 1
+	end if
+	
+	Set obj = objFSO.OpenTextFile(file, 2)
+	SkipTo(obj,tag)
+	WScript.Echo "Pushing " & tag & " to " & file
+	obj.WriteLine dest
+	obj.Close
+End Function
+
 Function SkipTo(file,str)
 	dim i
-	Do While InStr(i,str) = 0
+	Do While InStr(i,str) = 0 
 		i = file.ReadLine
+		if (file.AtEndOfStream) then
+			SkipTo = 1
+		end if
 	Loop
+	SkipTo = 0
 End Function
 
 Function GetInputs()
@@ -323,6 +391,15 @@ Function GetInputs()
 		End If
 		If Left(i,9) = "-template" or Left(i,9) = "/template" Then
 			template = Right(i,Len(i)-10)
+		End If
+		If Left(i,4) = "-type" or Left(i,4) = "/type" Then
+			pushtype = Right(i,Len(i)-5)
+		End If
+		If Left(i,3) = "-tag" or Left(i,3) = "/tag" Then
+			pushtag = Right(i,Len(i)-3)
+		End If
+		If Left(i,5) = "-value" or Left(i,5) = "/value" Then
+			pushvalue = Right(i,Len(i)-6)
 		End If
 	Next
 End Function
